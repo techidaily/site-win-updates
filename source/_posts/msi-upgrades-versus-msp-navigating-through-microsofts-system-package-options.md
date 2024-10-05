@@ -1,7 +1,7 @@
 ---
 title: "MSI Upgrades Versus MSP: Navigating Through Microsoft's System Package Options"
-date: 2024-09-27T05:42:03.605Z
-updated: 2024-09-30T08:07:26.725Z
+date: 2024-09-29T18:50:08.224Z
+updated: 2024-10-05T19:39:13.077Z
 tags:
   - application-packaging-training
 categories:
@@ -42,6 +42,13 @@ When doing MSI upgrades, it is important that you follow some of the best practi
 * Customization: Provide options for customizing the upgrade process to meet the needs of different users. During the upgrade process, allow users to select installation options, configure settings, or provide feedback.
 * Compatibility with Previous Versions: When designing upgrades, keep backward compatibility in mind. Check that the new version can interact with previous versions of the software and that data compatibility issues are handled.
 * Automation and Deployment: To speed up the upgrade process, use automation tools or software deployment systems, especially in enterprise environments. This helps to ensure consistency, reduces manual effort, and allows for centralized upgrade management.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Patch vs upgrade
 
@@ -84,13 +91,6 @@ The following are the most common patch restrictions:
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)You can find the full list of restrictions for patches on the [Microsoft website](https://learn.microsoft.com/en-us/windows/win32/msi/changing-the-product-code?redirectedfrom=MSDN "Microsoft website").
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Example patch for VLC
 
 If you're new to patching, you might notice that creating an MSP is a difficult task. Unlike MSIs, which can be created with the click of a button, MSPs require additional steps and can appear more complicated. But don't be concerned! Here are the straightforward steps for creating an MSP in Advanced Installer:
@@ -112,28 +112,42 @@ Once we have our 2 MSI files, let's get started with creating the patch file usi
 ![ai patch](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch.png "ai patch")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you haven't installed Advanced Installer yet, you can download a 30-day full-featured trial from our website.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- Create a new Installer Patch project and fill in all the necessary information related to your patch identification in the Patch Details page and then in the Product Details.
 
 ![ai patch details](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch-details.png "ai patch details")  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 \- Configure the Add/Remove (Control Panel) information. This sets up the display name in the Control Panel. There, you can also set the option to Allow patch removal.
 
 ![ai patch control panel](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch-control-panel.png "ai patch control panel")  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 \- Optional: Digitally sign the patch. This step helps ensure the integrity and authenticity of the patch.
 
@@ -141,23 +155,9 @@ Once we have our 2 MSI files, let's get started with creating the patch file usi
 
 ![ai patch digital sign](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch-digital-sign.png "ai patch digital sign")  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 \- Proceed to the Images page and right-click on the Target Computer. Here you need to first point out the Upgraded MSI and then the Targeted one. The upgraded MSI is the version you want to update to, while the targeted MSI is the base version you want to patch.
 
 ![ai patch images](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch-images.png "ai patch images")  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 By pointing out these two MSI files, Advanced Installer will generate the necessary delta (difference) between them to create the patch.
 
@@ -188,24 +188,18 @@ Copy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-4-effective-methods-for-slide-embedding-from-youtube-for-2024/"><u>[New] 4 Effective Methods for Slide Embedding From YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-enchanting-viewers-the-art-of-crafting-engaging-youtube-description-templates/"><u>[Updated] 2024 Approved Enchanting Viewers The Art of Crafting Engaging YouTube Description Templates</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-voice-vaults-best-speech-to-text-tools-without-online-dependency/"><u>[Updated] Voice Vaults Best Speech-to-Text Tools Without Online Dependency</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-subscriber-boost-the-4-simplest-tricks-to-grow-your-channel-faster/"><u>[Updated] YouTube Subscriber Boost – The 4 Simplest Tricks to Grow Your Channel Faster</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030172013-aviutl/"><u>音声編集ガイド：AviUtlでの切り取り・レベリング技術を学ぶ</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/elite-power-user-secrets-unveil-top-11-undiscovered-gesture-shortcuts-on-your-trackpad/"><u>Elite Power User Secrets: Unveil Top 11 Undiscovered Gesture Shortcuts on Your Trackpad</u></a></li>
-<li><a href="https://games-able.techidaily.com/expert-tips-for-effective-steam-product-returns/"><u>Expert Tips for Effective Steam Product Returns</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-dns-configuration-a-step-by-step-guide-for-changing-ip-addresses-in-windows-os/"><u>Mastering DNS Configuration: A Step-by-Step Guide for Changing IP Addresses in Windows OS</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726029980771-ogg/"><u>Oggファイル改竢・マージ・カット・レベル変更のための劣化しない編集手法</u></a></li>
-<li><a href="https://win-updates.techidaily.com/syncing-mobile-photographs-with-your-desktop-tips-for-android-users-on-windows-computers-zdnet/"><u>Syncing Mobile Photographs with Your Desktop: Tips for Android Users on Windows Computers | ZDNet</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-future-of-winamp-beyond-open-source-exploring-its-strategic-shift-explained-by-zdnet/"><u>The Future of Winamp Beyond Open-Source: Exploring Its Strategic Shift Explained by ZDNet</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723205625785-total-war-rome-remastered-crash-issues-simple-solutions-uncovered/"><u>Total War: Rome Remastered Crash Issues - Simple Solutions Uncovered</u></a></li>
-<li><a href="https://win-updates.techidaily.com/wavmp43/"><u>WAVからMP4へ変換するための3つの最新方法とアプリケーションをご紹介</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-tecno-spark-20-proplus-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Tecno Spark 20 Pro+ Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/why-and-how-to-access-windows-11-using-your-microsoft-365-business-account-expert-tips-from-zdnet/"><u>Why and How to Access Windows 11 Using Your Microsoft 365 Business Account | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/44oa44km44oz44ot44o844oj44oy44or44or44o844ks5l244gj44gf44ot44oh44kq44oa44km44oz44ot44o844oj44gr5asx5pwx44gz44kl5ac05zci44gu6kej5rg6562w/"><u>ダウンロードヘルパーを使ったビデオダウンロードに失敗する場合の解決策</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastery-in-motion-steam-switch-controller-techniques/"><u>[New] 2024 Approved Mastery in Motion Steam Switch Controller Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-premier-5-minute-longshot-recorder/"><u>[New] 2024 Approved Premier 5-Minute Longshot Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-ios-compatible-ps2-software/"><u>[Updated] In 2024, Ultimate iOS Compatible PS2 Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-top-5-no-cost-asf-to-mp4-format-converter-tools/"><u>1. Top 5 No-Cost ASF to MP4 Format Converter Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oneplus-ace-2-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From OnePlus Ace 2 Pro to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-12r-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 12R Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-does-a-browser-fingerprint-reveal-your-online-identity-and-what-steps-can-you-take-to-guard-it/"><u>How Does a Browser Fingerprint Reveal Your Online Identity & What Steps Can You Take to Guard It?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-change-your-youtube-video-collection-into-mp3-files/"><u>How to Change Your YouTube Video Collection Into MP3 Files</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-getting-rid-of-deceptive-windows-security-warnings/"><u>Step-by-Step Guide: Getting Rid of Deceptive Windows Security Warnings</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-ultimate-list-of-leading-sd-card-restoration-apps-find-your-perfect-match/"><u>The Ultimate List of Leading SD Card Restoration Apps - Find Your Perfect Match!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/top-iphone-contact-restoration-apps-how-to-retrieve-your-lost-connections/"><u>Top iPhone Contact Restoration Apps: How to Retrieve Your Lost Connections</u></a></li>
+<li><a href="https://win-updates.techidaily.com/urgent-warning-your-mac-compromised-signs-of-gmail-phishing-and-trojan-threats/"><u>Urgent Warning: Your Mac Compromised - Signs of Gmail Phishing & Trojan Threats</u></a></li>
 </ul></div>
 

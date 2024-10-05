@@ -1,7 +1,7 @@
 ---
 title: "Implementing Tailored Responses: Identify & Halt System Processes"
-date: 2024-09-27T01:03:20.819Z
-updated: 2024-09-29T19:11:14.194Z
+date: 2024-10-03T18:56:35.283Z
+updated: 2024-10-05T18:18:56.930Z
 tags:
   - application-packaging-training
 categories:
@@ -23,19 +23,6 @@ The [custom actions](https://tools.techidaily.com/advancedinstaller/products/) t
 
 So let’s start an article series where we touch 9 of the most popular custom actions that are used in the industry. In these articles we will have a look on how you can implement them easily with Advanced Installer but also by using VBScript or PowerShell custom actions.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Terminate Process in Advanced Installer
 
 The terminate process custom action is something very often used when it comes to installers because you would like to close any running processes from your application before you start the installation or uninstallation. This ensures that no other files are in use during the installation/uninstallation operation and ensures a higher success rate of your installation.
@@ -49,13 +36,6 @@ For example, let’s say I want to terminate the notepad.exe process. With Advan
 3\. Type the process name (in our case notepad.exe)
 
 ![AI Terminate Process](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AITermProcess.png "AI Terminate Process")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4\. Build and run the installation
 
@@ -94,10 +74,10 @@ This VBScript code is used to terminate all instances of the "Notepad.exe" proce
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To learn more parameters for the taskkill utility type taskkill.exe /? In 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Using the Win32\_Process via WMI query
@@ -135,6 +115,19 @@ Once you have your VBScript ready, open Advanced Installer and perform the follo
 ![Launch Attached File](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AIVBscriptTermProcess.png "Launch Attached File")  
 
 4\. Build and run the installer
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Terminate Process with PowerShell
 
@@ -174,13 +167,6 @@ Once you have your PowerShell script ready, open Advanced Installer and perform 
 
 5\. Build and run the Installer
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Particular Terminate Process Scenario
 
 While the above examples are covering most of the cases when it comes to process closure, there are specific scenarios that require a more complex scripting approach. One of these cases can be seen with Java applications.
@@ -188,6 +174,13 @@ While the above examples are covering most of the cases when it comes to process
 If you have multiple Java applications opened and check the Task Manager, you will see that you actually have multiple Java.exe processes running.
 
 ![Java.exe processes running](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/java1.png "Java.exe processes running")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you might imagine, if you are using the above techniques you will close all the Java processes which is not something we are aiming for. What we need is a way to identify each Java process for which application it is. The best way to do this is to find the command line for each Java process and find out which command line corresponds to your application. For full details on how to get the command line [check out this article](https://www.alexandrumarin.com/close-specific-java-process-application-with-vbscript/ "check out this article").
 
@@ -257,19 +250,6 @@ This PowerShell script retrieves a list of running processes using the Get-CimIn
 * }: Closes the foreach loop.
 
 Once you have the script edited as desired, follow the above steps to add it in Advanced Installer and test the installer.
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Detect Process in Advanced Installer
 
@@ -344,10 +324,10 @@ This VBScript checks if the process "notepad.exe" is running on the local comput
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure that the ISPROCESSRUNNING property is available in the MSI before executing the script.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Detect Process with PowerShell
@@ -379,6 +359,13 @@ You can also write the PowerShell code directly into Advanced Installer by doing
 ![Run PowerShell inline script](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AIPowerShDetect.png "Run PowerShell inline script")  
 
 4\. Build and run the installation
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Wait for Process with VBScript
 
@@ -417,6 +404,13 @@ While notepad.exe is running, the script continues to run, thus blocking the ins
 * Loop: Returns to the start of the loop and checks the process collection count again. If there are still processes, the loop continues.
 * Set objWMIService = Nothing and Set colProcessList = Nothing: Releases the references to the WMI service and the process collection to free up system resources.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wait for Process with PowerShell
 
 With PowerShell it’s even easier to wait for a process because PowerShell offers the [Wait-Process cmdlet](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/wait-process?view=powershell-7.3 "Wait-Process cmdlet") which can be easily used as such:
@@ -442,22 +436,16 @@ Of course you can easily add it in Advanced Installer as previously shown with t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-decoding-instagram-the-technique-for-video-downloads-on-pcmac-devices/"><u>[New] 2024 Approved Decoding Instagram The Technique for Video Downloads on PC/Mac Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-customize-with-confidence-google-pixel-tunes/"><u>[Updated] In 2024, Customize with Confidence Google Pixel Tunes</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tonal-trails-the-journey-of-audio-blending/"><u>2024 Approved Tonal Trails The Journey of Audio Blending</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030281828-youtube/"><u>失われたYouTubeビデオの取り戻し:詳細な手順集</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726028522591-skype/"><u>完全なオーディオレコードを作成せずにSkypeの会話をキャプチャするテクニック</u></a></li>
-<li><a href="https://win-updates.techidaily.com/chrome-firefox-microsoft-edge/"><u>Chrome, Firefox, Microsoft Edgeで使える高速ウェブ録画技術：詳しい手順とポインター</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-rhythm-and-reels-instagram-music-secrets/"><u>In 2024, Rhythm & Reels Instagram Music Secrets</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-ultimate-guide-to-adding-time-markers-on-youtubes/"><u>In 2024, The Ultimate Guide to Adding Time Markers on YouTubes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-honor-x50i-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Honor X50i</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-the-maze-of-social-media-advertising/"><u>Navigating the Maze of Social Media Advertising</u></a></li>
-<li><a href="https://win-updates.techidaily.com/pros-and-cons-free-and-professional-editions-of-zune-video-converter-analysis/"><u>Pros and Cons: Free and Professional Editions of Zune Video Converter Analysis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-steps-converting-mov-files-to-wma-format-using-windows/"><u>Simple Steps: Converting Mov Files to Wma Format Using Windows</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-top-5-elite-4k-video-transcoding-software/"><u>The Ultimate Guide: Top 5 Elite 4K Video Transcoding Software</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/twist-your-content-strategy-inverting-videos-for-instagram/"><u>Twist Your Content Strategy Inverting Videos for Instagram</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-transforming-video-and-audio-files-into-various-formats/"><u>Ultimate Guide: Transforming Video and Audio Files Into Various Formats</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/uncover-youtubes-preview-disabling-secret/"><u>Uncover YouTube's Preview Disabling Secret</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726027350128-vimeo-firefox/"><u>ダウンロード: Vimeo 映像を Firefox でどうやって保存するか</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-analyzing-vlc-screen-captures-for-2024/"><u>[New] Analyzing VLC Screen Captures for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>2024 Approved Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://win-updates.techidaily.com/banishing-social-media-spam-effective-strategies-for-blocking-unwanted-ads-on-facebook-and-tailored-marketing-content-in-messenger/"><u>Banishing Social Media Spam: Effective Strategies for Blocking Unwanted Ads on Facebook and Tailored Marketing Content in Messenger</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-for-enabling-tamper-defense-in-windows-10-insights-from-malwarefox-experts/"><u>Effective Strategies for Enabling Tamper Defense in Windows 10 - Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-lost-xinput13dll-errors-detailed-steps-for-a-smooth-resolution/"><u>Fixing Lost xinput1_3.dll Errors: Detailed Steps for a Smooth Resolution</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guard-your-system-with-malwarefox-a-powerful-defense-for-ransomware-threats/"><u>Guard Your System with MalwareFox - A Powerful Defense for Ransomware Threats</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-f14-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Samsung Galaxy F14 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/swift-fixes-for-non-functional-facebook-video-sharing-on-androidios-for-2024/"><u>Swift Fixes for Non-Functional Facebook Video Sharing on Android/iOS for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-choosing-the-top-4-best-android-emulators-for-samsungs/"><u>The Ultimate Guide: Choosing the Top 4 Best Android Emulators for Samsungs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-poco-f5-pro-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Poco F5 Pro 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-guide-to-recording-video-games-3-simple-ways/"><u>Updated The Ultimate Guide to Recording Video Games 3 Simple Ways</u></a></li>
 </ul></div>
 

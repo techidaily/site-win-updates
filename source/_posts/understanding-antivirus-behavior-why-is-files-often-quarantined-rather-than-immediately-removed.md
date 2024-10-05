@@ -1,7 +1,7 @@
 ---
 title: "Understanding Antivirus Behavior: Why Is Files Often Quarantined Rather Than Immediately Removed?"
-date: 2024-09-24T05:44:55.440Z
-updated: 2024-09-29T20:18:47.241Z
+date: 2024-10-03T17:26:01.788Z
+updated: 2024-10-05T16:43:34.459Z
 tags:
   - product
   - antivirus
@@ -62,10 +62,10 @@ What if it deletes an essential system file? What if it deletes an important fil
 Another reason files are put into quarantine are false alarms. Some legitimate and safe files may carry a signature similar to a virus or a malware. Deleting these files may render its parent program to stop working properly. Moreover, some security programs may identify “threats” in another security program. That is why you should not install two antivirus applications on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Quarantine vs Deleting
@@ -81,10 +81,10 @@ Additionally, most modern viruses make their own files. Security programs can ea
 It is easy to remedy false alarms by teaching the security programs to always ignore certain files from legitimate applications. This will significantly reduce false alarm reports in the future.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Final Thoughts
@@ -96,28 +96,29 @@ It is important to keep your security program updated to reduce false alarms, ea
 1. ![](https://secure.gravatar.com/avatar/b1c9dc97877b8abded69d855c9e630f5?s=50&d=mm&r=g)  
 RogerH  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [July 12, 2019 at 2:21 pm](https://tools.techidaily.com/malwarefox/products/)  
 How do I tell Malwarewe NOT to quarantine a program in the future. When I restore the qwuarantined program it gets put back in there as soon as I try to open it. I am on trial run of your system but if I can’t run my necessary program, will not go ahead with a purcvhase after the trial period ends?  
 Thanks  
 [Reply](https://tools.techidaily.com/malwarefox/products/)  
    * ![](https://secure.gravatar.com/avatar/85929922e25d4bbc528a838420943841?s=50&d=mm&r=g)  
    Shawn Abraham  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    [July 25, 2019 at 12:40 pm](https://tools.techidaily.com/malwarefox/products/)  
    You must add the program in Whitelist of the program to avoid being detected / quarantined in future.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -145,16 +146,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-experts-choice-best-6-video-grabber-tools-for-mac/"><u>[New] Expert's Choice Best 6 Video Grabber Tools for Mac</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ai-generated-podcast-titles-that-stick-with-you/"><u>[Updated] 2024 Approved AI-Generated Podcast Titles That Stick With You</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-comprehensive-kinetic-insight-study-for-2024/"><u>[Updated] Comprehensive Kinetic Insight Study for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-dive-deep-into-kinemasters-world-and-explore-best-replacements-online-for-2024/"><u>[Updated] Dive Deep Into KineMaster's World and Explore Best Replacements Online for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-banishing-stickers-from-social-media-short-clips/"><u>2024 Approved Banishing Stickers From Social Media Short Clips</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030281828-youtube/"><u>失われたYouTubeビデオの取り戻し:詳細な手順集</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726028522591-skype/"><u>完全なオーディオレコードを作成せずにSkypeの会話をキャプチャするテクニック</u></a></li>
-<li><a href="https://win-updates.techidaily.com/chrome-firefox-microsoft-edge/"><u>Chrome, Firefox, Microsoft Edgeで使える高速ウェブ録画技術：詳しい手順とポインター</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-infinix-smart-7-hd-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Infinix Smart 7 HD Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-transforming-video-and-audio-files-into-various-formats/"><u>Ultimate Guide: Transforming Video and Audio Files Into Various Formats</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726027350128-vimeo-firefox/"><u>ダウンロード: Vimeo 映像を Firefox でどうやって保存するか</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>[New] Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-manual-how-to-turn-off-igtv/"><u>[Updated] 2024 Approved Manual How to Turn Off IGTV</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-ultimate-gear-guide-for-streaming-sensations/"><u>2024 Approved Ultimate Gear Guide for Streaming Sensations</u></a></li>
+<li><a href="https://win-updates.techidaily.com/convert-webm-files-free-fast-online-mp4-video-format-transformation/"><u>Convert WebM Files Free: Fast Online MP4 Video Format Transformation</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-transforming-images-into-motion-a-beginners-guide/"><u>Easy Steps: Transforming Images Into Motion - A Beginner's Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/essential-windows-apowerrec-keyboard-shortcut-cheat-sheet-a-comprehensive-guide/"><u>Essential Windows ApowerREC Keyboard Shortcut Cheat Sheet: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/expert-guide-mastering-registry-modifications-through-the-advanced-installer-platform/"><u>Expert Guide: Mastering Registry Modifications Through the Advanced Installer Platform</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-cellphone-viruses-operate-and-threaten-security-a-deep-dive-by-malwarefox/"><u>How Cellphone Viruses Operate and Threaten Security: A Deep Dive by MalwareFox</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-5-key-strategies-to-correct-iphone-hdri-premiere-pro-edition/"><u>In 2024, 5 Key Strategies to Correct iPhone HDRI Premiere Pro Edition</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quirky-expressions-in-text-master-meme-creation/"><u>In 2024, Quirky Expressions in Text Master Meme Creation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-spotify-downloads-an-expert-guide-for-extracting-songs-for-2024/"><u>Mastering Spotify Downloads An Expert Guide for Extracting Songs for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/revamping-clickonce-deployments-a-step-by-step-guide/"><u>Revamping ClickOnce Deployments: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

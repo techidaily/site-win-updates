@@ -1,7 +1,7 @@
 ---
 title: "Secure Your Browser: Expert Strategies to Prevent Viruses Through Chrome Notifications"
-date: 2024-09-25T07:02:39.573Z
-updated: 2024-09-30T08:12:41.958Z
+date: 2024-10-04T18:51:24.064Z
+updated: 2024-10-05T16:33:55.903Z
 tags:
   - product
   - antivirus
@@ -76,6 +76,19 @@ Likewise, if you have allowed your favorite blog site to show you a notification
 
 So, these notifications don’t need to be always annoying.
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How can Chrome Notifications be used for Virus attacks?
 
 Cybercriminals always try to find different ways to infect your computer with [malware](https://tools.techidaily.com/malwarefox/products/). Developers exploit every new feature to use it maliciously. The same happens with push notifications. Cybercriminals can use it like they use pop-up notifications.
@@ -86,21 +99,7 @@ Notifications bear no threat by themselves. So, cyberattackers would force you t
 
 ![chrome notification](https://www.malwarefox.com/wp-content/uploads/2020/08/chrome-notification.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When you click any of the notifications from the malicious site, you can trigger the silent installation of harmful malware programs such as [banking trojans](https://tools.techidaily.com/malwarefox/products/) or [browser viruses](https://tools.techidaily.com/malwarefox/products/). You can also be redirected to the malware-carrying sites.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Remove Notification Virus from Chrome?
 
@@ -112,40 +111,54 @@ If you have mistakenly allowed any website to show you notifications, you can bl
 2. Click on the three dots at the top-right corner of the Chrome browser and select Settings.  
 ![Open Settings in Chrome](https://www.malwarefox.com/wp-content/uploads/2019/05/Open-Settings-in-Chrome.jpg)
 3. Under “Privacy and security,” choose **Site Settings.**  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Choose site settings](https://www.malwarefox.com/wp-content/uploads/2020/08/Choose-site-settings.jpg)
 4. Now under “Permissions,” click on the **Notifications.**  
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/notifs.jpg)
 5. You will find two sections **Block** – the sites that are restricted to show notifications and **Allow**\-the sites allowed to show notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Go to the Allow section and look for the website that is sending you irrelevant notifications. Click on the three-dots next to it and choose **Block.**![block notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/block-notifs.jpg)
 7. If you don’t want to receive notifications from any websites, you can permanently disable it by switching off the button next to “**Sites can ask to send notifications.**“![permanently block notifications](https://www.malwarefox.com/wp-content/uploads/2020/08/permanently-block-notifs.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Get Rid of the Browser Virus from the Chrome**
@@ -173,27 +186,29 @@ If your browser is misbehaving because browser virus, then reset its settings to
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Relaunch your browser.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### **Install an Antimalware and Perform a Scan**
@@ -204,13 +219,6 @@ MalwareFox is reliable security software that promises to protect your system an
 
 1. [Download Malwarefox and install it](https://tools.techidaily.com/malwarefox/products/).
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to avoid getting such Notifications?
 
@@ -248,24 +256,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-fabricate-comical-artwork-adobe-style-for-2024/"><u>[New] Fabricate Comical Artwork, Adobe Style for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/1716469714290-updated-how-to-join-someones-live-on-tiktok-as-a-guest/"><u>[Updated] How to Join Someone’s Live on TikTok as a Guest</u></a></li>
-<li><a href="https://win-updates.techidaily.com/iuwlleeuuplusodhplusocpoodsplusocvplusodvoodroodvooctplusodpplusodsplusockueqhuinoplusobmeocizog44k544og44o844k644gn44kv44oq44ki44gq5yan55sf5pa55rovig/"><u>動画デインターレーションを理解する: スムーズでクリアな再生方法</u></a></li>
-<li><a href="https://win-updates.techidaily.com/efficient-techniques-for-reducing-file-size-m4a-audio-compression-on-pcs-and-mac/"><u>Efficient Techniques for Reducing File Size: M4A Audio Compression on PCs & MAC</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-conversion-techniques-for-turning-dem-demos-into-watchable-mp4-formats/"><u>Effortless Conversion Techniques for Turning DEM Demos Into Watchable MP4 Formats</u></a></li>
-<li><a href="https://win-updates.techidaily.com/elite-power-user-secrets-unveil-top-11-undiscovered-gesture-shortcuts-on-your-trackpad/"><u>Elite Power User Secrets: Unveil Top 11 Undiscovered Gesture Shortcuts on Your Trackpad</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/flexibles-dvd-brennen-mit-verschiedenen-videoformaten-wie-gehts-bei-nero-burning-rom/"><u>Flexibles DVD-Brennen Mit Verschiedenen Videoformaten: Wie Geht's Bei Nero Burning ROM?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-quickly-resolve-steamvr-malfunctions-and-enjoy-seamless-vr/"><u>How to Quickly Resolve SteamVR Malfunctions & Enjoy Seamless VR</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-razr-40-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Motorola Razr 40 Phone with Broken Screen</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-iphone-13-pro-max-without-passcode-easily-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Pro Max Without Passcode Easily</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-dns-configuration-a-step-by-step-guide-for-changing-ip-addresses-in-windows-os/"><u>Mastering DNS Configuration: A Step-by-Step Guide for Changing IP Addresses in Windows OS</u></a></li>
-<li><a href="https://techtrends.techidaily.com/quick-guide-to-repair-wlanapidll-not-found-windows-errors/"><u>Quick Guide to Repair 'WLanapi.dll Not Found' Windows Errors</u></a></li>
-<li><a href="https://win-updates.techidaily.com/restore-your-tunes-troubleshooting-and-fixing-no-sound-problems-in-windows-media-player-for-windows-1110-users/"><u>Restore Your Tunes: Troubleshooting and Fixing No Sound Problems in Windows Media Player for WIndows 11/10 Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/revolutionary-mac-m1-performance-unleashed-an-in-depth-look/"><u>Revolutionary Mac M1 Performance Unleashed: An In-Depth Look</u></a></li>
-<li><a href="https://win-updates.techidaily.com/syncing-mobile-photographs-with-your-desktop-tips-for-android-users-on-windows-computers-zdnet/"><u>Syncing Mobile Photographs with Your Desktop: Tips for Android Users on Windows Computers | ZDNet</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-narrative-network-7-artistic-ways-to-use-ai-in-game-writing/"><u>The Narrative Network: 7 Artistic Ways to Use AI in Game Writing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-flac-file-reader-apps-for-windows-10-users/"><u>Top FLAC File Reader Apps for Windows 10 Users</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-resolving-oculus-graphics-card-problems-successfully/"><u>Troubleshooting and Resolving Oculus Graphics Card Problems Successfully</u></a></li>
-<li><a href="https://win-updates.techidaily.com/wavmp43/"><u>WAVからMP4へ変換するための3つの最新方法とアプリケーションをご紹介</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-record-edit-and-produce-high-quality-webcam-videos/"><u>[New] 2024 Approved How to Record, Edit and Produce High-Quality Webcam Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ignite-imagination-crafting-engaging-content-themes/"><u>[Updated] Ignite Imagination Crafting Engaging Content Themes</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-top-7-devices-to-power-your-metaverse-experience-for-2024/"><u>[Updated] Top 7 Devices to Power Your Metaverse Experience for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-6-contemporary-mojave-home-layouts/"><u>[Updated] Ultimate 6 Contemporary Mojave Home Layouts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-youtube-mastery-comprehensive-editing-for-lifelong-learners-for-2024/"><u>[Updated] YouTube Mastery Comprehensive Editing for Lifelong Learners for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/best-7-mobile-digital-scrapbooking-applications-for-ios-and-android-devices/"><u>Best 7 Mobile Digital Scrapbooking Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1722103373320-discover-the-top-6-engaging-games-available-on-chatgpt/"><u>Discover the Top 6 Engaging Games Available on ChatGPT!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-steps-to-disable-and-eliminate-faux-microsoft-edge-security-warnings/"><u>Effective Steps to Disable and Eliminate Faux Microsoft Edge Security Warnings</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-m34-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy M34 5G Lock Screen Password</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-f5-pro-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco F5 Pro 5GFRP Lock</u></a></li>
+<li><a href="https://win-updates.techidaily.com/live-streaming-smartphones-and-highlighting-user-intent-with-actionable-words-like-guide-and-switching/"><u>Live Streaming, Smartphones, and Highlighting User Intent with Actionable Words Like Guide and Switching.</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-proper-management-of-end-user-details-using-windows-setup-software/"><u>Step-by-Step Guide: Proper Management of End-User Details Using Windows Setup Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-techniques-for-downloading-high-quality-anime-audio-files/"><u>Top Techniques for Downloading High-Quality Anime Audio Files</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-tips-effortless-conversion-from-avi-to-m4v-files/"><u>Top Tips: Effortless Conversion From AVI to M4V Files</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-infinix-smart-8-pro-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Infinix Smart 8 Pro? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Customizing Applications Through UseProperties & Microsoft System Image Services Healing Techniques
-date: 2024-09-28T04:29:36.036Z
-updated: 2024-09-29T17:52:50.543Z
+date: 2024-10-04T17:27:23.541Z
+updated: 2024-10-05T18:57:40.372Z
 tags:
   - application-packaging-training
 categories:
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 
 ## Application Customization
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Significance of Advertised Shortcuts
 
 An advertised shortcut is a pointer to a file or folder that is installed by an MSI package. When running an advertised shortcut, Windows Installer first checks that all the components of the respective feature are installed before running the file. If any of the components are missing, Windows Installer repairs the installation by installing the missing components. This ensures that the application remains consistent and that all of its features are available when required.
@@ -33,10 +40,10 @@ What is to take is that if your application contains multiple features, but the 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more information regarding shortcuts, check out our first [MSI Packaging Essentials ebook](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is Self-Healing
@@ -46,6 +53,13 @@ The MSI (Microsoft Installer) self-healing mechanism is a powerful feature that 
 When an MSI-based application is installed, Windows Installer creates a comprehensive installation database known as the installation package or MSI package. This package contains all of the resources and information needed to install and maintain the application. Files, registry entries, shortcuts, components, and other configuration settings are all included. This small MSI it’s also known as the “cached MSI” and can be found in the %systemroot%\\installer folder. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)It is very important to mention that manual interventions for the Installer folder should never be done. For more details about the Installer folder check out [this article](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Specific events, such as the launch of an application, the opening of a document associated with the application, or the invocation of a Windows Installer action such as repair or modify, initiate the self-healing process. When any of these events occurs, Windows Installer validates the application's integrity by comparing the recorded installation information to the current state of the system.
 
@@ -72,13 +86,6 @@ MSI's self-healing mechanism offers numerous advantages:
 However, to ensure that the self-healing mechanism works properly, the installation package must be properly configured and tested. This entails precisely specifying the dependencies, files, and registry entries that are required for the application to function.
 
 In summary, MSI's self-healing mechanism is a critical feature that automatically detects and repairs missing or corrupted application components. It ensures smooth operation and helps prevent potential issues caused by component-related problems by maintaining the integrity and availability of applications.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Properties
 
@@ -109,16 +116,10 @@ It is important to understand these base concepts as we will dive deeper into th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more details about Properties, check out our first [MSI Packaging Essentials ebook](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom vlc settings
@@ -149,13 +150,6 @@ We already looked at how to use Process Monitor to detect if an EXE contains an 
 After we have completed all of these steps, we can see at the bottom of the Process Monitor capture that VLC Media Player created and modified the file vlcrc, which can be found in %appdata%vlc.
 
 ![process monitor detect vlc settings info](https://cdn.advancedinstaller.com/img/application-customization/process-monitor-detect-vlc-settings-info.png "process monitor detect vlc settings info")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you want to use Advanced Repackager, follow the same steps as when we started the VLC Media Player repackaging process, but instead of selecting an executable, check the Session Monitoring checkbox. At the end, Advanced Repackager will identify the modified vlcrc.
 
@@ -210,21 +204,22 @@ However, while this solution may work, it does not represent industry best pract
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-rewind-and-play-instagrams-backwards-videos-unveiled/"><u>[New] In 2024, Rewind and Play Instagram's Backwards Videos Unveiled</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030172013-aviutl/"><u>音声編集ガイド：AviUtlでの切り取り・レベリング技術を学ぶ</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/enhance-user-experience-with-our-cookiebot-integration-solutions/"><u>Enhance User Experience with Our Cookiebot Integration Solutions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/fixing-audio-input-device-recognition-issues-in-windows-7810/"><u>Fixing Audio Input Device Recognition Issues in Windows 7/8/10</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-passcode-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 mini Without Passcode? 4 Easy Methods</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-converting-isos-to-dvd-format-on-windows-operating-systems-win-1187/"><u>Mastering the Art of Converting ISOs to DVD Format on Windows Operating Systems (Win 11/8/7)</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-the-world-of-computing-toms-hardware-expertise/"><u>Navigating the World of Computing: Tom's Hardware Expertise</u></a></li>
-<li><a href="https://win-updates.techidaily.com/no-more-plugins-embedding-rtsp-video-feeds-on-web-pages-using-vlcs-html5-transcoder/"><u>No More Plugins: Embedding RTSP Video Feeds on Web Pages Using VLC's HTML5 Transcoder</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726029980771-ogg/"><u>Oggファイル改竢・マージ・カット・レベル変更のための劣化しない編集手法</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/step-by-step-mastery-utilizing-the-secret-features-of-preview-on-macos-devices/"><u>Step-by-Step Mastery: Utilizing the Secret Features of Preview on macOS Devices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/syncing-mobile-photographs-with-your-desktop-tips-for-android-users-on-windows-computers-zdnet/"><u>Syncing Mobile Photographs with Your Desktop: Tips for Android Users on Windows Computers | ZDNet</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-future-of-winamp-beyond-open-source-exploring-its-strategic-shift-explained-by-zdnet/"><u>The Future of Winamp Beyond Open-Source: Exploring Its Strategic Shift Explained by ZDNet</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/why-and-how-to-access-windows-11-using-your-microsoft-365-business-account-expert-tips-from-zdnet/"><u>Why and How to Access Windows 11 Using Your Microsoft 365 Business Account | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://win-updates.techidaily.com/44oa44km44oz44ot44o844oj44oy44or44or44o844ks5l244gj44gf44ot44oh44kq44oa44km44oz44ot44o844oj44gr5asx5pwx44gz44kl5ac05zci44gu6kej5rg6562w/"><u>ダウンロードヘルパーを使ったビデオダウンロードに失敗する場合の解決策</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhance-videos-on-vimeo-with-top-video-editors-for-2024/"><u>[New] Enhance Videos on Vimeo with Top Video Editors for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-prime-premiere-pro-blueprints-best-free-2023/"><u>[New] Prime Premiere Pro Blueprints - Best Free 2023</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-seamless-integration-free-text-animations-both-ways/"><u>[New] Seamless Integration Free Text Animations Both Ways</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-behind-the-lens-on-your-macbook-webcam/"><u>2024 Approved Behind the Lens on Your MacBook Webcam</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/brilliant-barrage-essential-gadgets-for-clips-for-2024/"><u>Brilliant Barrage Essential Gadgets for Clips for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-step-by-step-guide-to-screen-record-functionality-on-ios-11-devices/"><u>Complete Step-by-Step Guide to Screen Record Functionality on iOS 11 Devices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/demystifying-the-mrbeast-prize-scheme-tips-for-staying-safe-from-potential-frauds/"><u>Demystifying the MrBeast Prize Scheme: Tips for Staying Safe From Potential Frauds</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-techniques-to-fully-eliminate-adchoices-pop-ups-permanently/"><u>Effective Techniques to Fully Eliminate AdChoices Pop-Ups Permanently</u></a></li>
+<li><a href="https://win-updates.techidaily.com/evaluating-the-security-of-microsofts-latest-os-a-comprehensive-guide-to-windows-11-safety/"><u>Evaluating the Security of Microsoft's Latest OS: A Comprehensive Guide to Windows 11 Safety</u></a></li>
+<li><a href="https://win-updates.techidaily.com/identifying-fraudulent-android-applications-expert-tips-from-malwarefox/"><u>Identifying Fraudulent Android Applications: Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly/"><u>In 2024, Mastery in Migration Transitioning to macOS 11 Big Sur Effortlessly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-guide-7-high-ranking-audio-transformation-apps/"><u>In 2024, Ultimate Guide 7 High-Ranking Audio Transformation Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-6-fantastic-tools-to-sharpen-your-images-in-2n2-free-and-premium-options-available/"><u>Top 6 Fantastic Tools to Sharpen Your Images in 2N2 - Free and Premium Options Available</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-8-secure-password-management-tools-compatible-with-windows-10/"><u>Top 8 Secure Password Management Tools Compatible with Windows 10</u></a></li>
+<li><a href="https://win-updates.techidaily.com/transferring-iphone-visuals-onto-desktop-techniques-and-tools-for-easy-display-syncing/"><u>Transferring iPhone Visuals Onto Desktop: Techniques and Tools for Easy Display Syncing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-10-cutting-edge-tools-that-outshine-chatgpt/"><u>Unveiling the Top 10 Cutting-Edge Tools That Outshine ChatGPT</u></a></li>
 </ul></div>
 

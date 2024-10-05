@@ -1,7 +1,7 @@
 ---
 title: "Guide: Utilizing VBScript and PowerShell for Efficient Driver Management Tasks"
-date: 2024-09-25T02:37:23.665Z
-updated: 2024-09-30T02:19:28.349Z
+date: 2024-09-28T19:58:50.831Z
+updated: 2024-10-05T16:33:26.790Z
 tags:
   - application-packaging-training
 categories:
@@ -44,6 +44,13 @@ For the full list of commands which DPInst supports, you can use the following:
 DPInst_x64.exe /?
 
 Copy
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### PnPUtil
 
@@ -122,10 +129,10 @@ Once we have the scripts done and the DPInst utility downloaded, open Advanced I
 ![add the DPInst utility with the HP.inf](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstvbscript.png "add the DPInst utility with the HP.inf")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Next, navigate to the Custom Actions Page and add the **Launch attached file** predefined custom action into the sequence, select the installation vbscript file that was previously created and configure the Custom Action as such:
@@ -135,6 +142,13 @@ Next, navigate to the Custom Actions Page and add the **Launch attached file** p
 Repeat the same steps for the uninstall script and configure the custom action as follows:
 
 ![uninstall script and configure the custom action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstvbscriptCAUNINST.png "uninstall script and configure the custom action")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 And that is it, build your package and install it and the driver will appear as installed.
 
@@ -188,19 +202,6 @@ This VBScript performs the following actions:
 
 Do the same steps as we did before to add the VBScript files in the custom actions, build the installer and the driver should get installed.
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installing drivers with PowerShell
 
 Let’s assume that the driver **.inf** name is HP.inf. Also, let’s assume that we are going to place the DPInst.exe utility directly into the C:\\Windows\\DPInst folder and there we are going to place the .inf file as well.
@@ -241,16 +242,22 @@ Next, navigate to the Custom Actions Page and add the **Run PowerShell script fi
 
 ![add the Run PowerShell script file predefined custom action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstPSInst.png "add the Run PowerShell script file predefined custom action")  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Repeat the same process for the uninstall script and configure the Custom Action as follows:
 
 ![configure the Custom Action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstPSUninst.png "configure the Custom Action")  
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Next, build the package and during installation/uninstallation the PowerShell scripts will run and install/uninstall the driver.
 
@@ -295,19 +302,6 @@ Advanced Installer parses the .INF file and detects what is needed and you have 
 
 ![parses the .INF file](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/advinstdriverinstconfig.png "parses the .INF file")  
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And that is it, all you have to do is build the MSI and install the package. Simple right?
 
 <ins class="adsbygoogle"
@@ -325,19 +319,22 @@ And that is it, all you have to do is build the MSI and install the package. Sim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-calculating-riches-a-look-at-mr-beasts-wallet/"><u>[Updated] In 2024, Calculating Riches A Look at Mr. Beast's Wallet</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-facebook-cinematic-capture-tool/"><u>2024 Approved Facebook Cinematic Capture Tool</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtubes-latest-payment-regulations/"><u>2024 Approved YouTube's Latest Payment Regulations</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030281828-youtube/"><u>失われたYouTubeビデオの取り戻し:詳細な手順集</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726028522591-skype/"><u>完全なオーディオレコードを作成せずにSkypeの会話をキャプチャするテクニック</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ai-history-in-your-hands-essential-export-tools-reviewed/"><u>AI History in Your Hands – Essential Export Tools Reviewed</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audacitys-secrets-creating-smooth-soundscapes/"><u>Audacity's Secrets Creating Smooth Soundscapes</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/augment-pixel-tiles-with-concentric-blur-magic-ps-for-2024/"><u>Augment Pixel Tiles with Concentric Blur Magic PS for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/icecream-screen-recorder-how-to-guide-and-indepth-review/"><u>Icecream Screen Recorder - How-To Guide and Indepth Review</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-steps-converting-mov-files-to-wma-format-using-windows/"><u>Simple Steps: Converting Mov Files to Wma Format Using Windows</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-blueprint-for-obtaining-free-visual-aids/"><u>The Blueprint for Obtaining Free Visual Aids</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-top-5-elite-4k-video-transcoding-software/"><u>The Ultimate Guide: Top 5 Elite 4K Video Transcoding Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-transforming-video-and-audio-files-into-various-formats/"><u>Ultimate Guide: Transforming Video and Audio Files Into Various Formats</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726027350128-vimeo-firefox/"><u>ダウンロード: Vimeo 映像を Firefox でどうやって保存するか</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-unforgettable-visions-the-top-15-stop-motion-film-classics/"><u>[New] 2024 Approved Unforgettable Visions The Top 15 Stop-Motion Film Classics</u></a></li>
+<li><a href="https://techtrends.techidaily.com/apple-unveils-vision-pro-the-ultimate-machine-for-entertainment-discover-its-features/"><u>Apple Unveils Vision Pro: The Ultimate Machine for Entertainment - Discover Its Features</u></a></li>
+<li><a href="https://win-updates.techidaily.com/best-7-mobile-digital-scrapbooking-applications-for-ios-and-android-devices/"><u>Best 7 Mobile Digital Scrapbooking Applications for iOS and Android Devices</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/canons-portable-vintage-designed-camera-powershot-g9x2-a-photographers-dream/"><u>Canon's Portable Vintage-Designed Camera, PowerShot G9X2: A Photographer’s Dream</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-steps-to-disable-and-eliminate-faux-microsoft-edge-security-warnings/"><u>Effective Steps to Disable and Eliminate Faux Microsoft Edge Security Warnings</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-display-of-bluetooth-in-computer-settings/"><u>How To Restore Display of Bluetooth in Computer Settings</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-poco-c55-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Poco C55</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-authoritative-list-affordable-visuals-online/"><u>In 2024, Authoritative List Affordable Visuals Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>In 2024, Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-the-art-of-editing-with-apowerpdf-a-comprehensive-guide/"><u>Mastering the Art of Editing with ApowerPDF: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-proper-management-of-end-user-details-using-windows-setup-software/"><u>Step-by-Step Guide: Proper Management of End-User Details Using Windows Setup Software</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/straightforward-steps-to-mastering-flipper-written-communication-on-windows-for-2024/"><u>Straightforward Steps to Mastering Flipper' Written Communication on Windows for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/strengthen-your-network-safeguards-with-these-8-basic-tips-by-malwarefox/"><u>Strengthen Your Network Safeguards with These 8 Basic Tips by MalwareFox</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-5-apps-for-language-teachers/"><u>Top 5 Apps For Language Teachers</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-techniques-for-downloading-high-quality-anime-audio-files/"><u>Top Techniques for Downloading High-Quality Anime Audio Files</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-tips-effortless-conversion-from-avi-to-m4v-files/"><u>Top Tips: Effortless Conversion From AVI to M4V Files</u></a></li>
+<li><a href="https://win-updates.techidaily.com/trustworthy-anti-spyware-software-malwarefoxs-proven-defense-strategy-against-unwanted-tracking/"><u>Trustworthy Anti-Spyware Software: MalwareFox's Proven Defense Strategy Against Unwanted Tracking</u></a></li>
 </ul></div>
 

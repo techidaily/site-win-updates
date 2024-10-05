@@ -1,7 +1,7 @@
 ---
 title: "Effective Application Repackaging Methods: Mastering MSI Vs. EXE File Formats"
-date: 2024-09-29T00:11:26.654Z
-updated: 2024-09-30T07:22:37.352Z
+date: 2024-09-30T18:03:34.459Z
+updated: 2024-10-05T19:58:56.963Z
 tags:
   - application-packaging-training
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 ## Way forward for your installer
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Strategies for Repackaging Applications: MSI and EXE Approaches
@@ -41,6 +41,13 @@ The first step is to determine whether the EXE requires repackaging or if it con
 * Check the [Uninstall registry](https://tools.techidaily.com/advancedinstaller/products/) and see what uninstall command has appeared or if the key name resembles an MSI Product Code
 * Use [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon "Process Monitor")
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Using Process Monitor to Detect embedded MSI in EXE
 
 Process Monitor has grown in popularity among IT professionals for not only detecting whether an MSI is embedded in another MSI, but also for detecting additional system changes performed by applications, debugging applications, and so on.
@@ -55,22 +62,15 @@ To detect if an EXE contains an embedded MSI with Process Monitor, follow these 
 
 ![process monitor filters window](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-filters-window.png "process monitor filters window")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 \- Configure filter rules: In the Filter dialog box, specify the conditions to filter the events. To detect if an EXE installer contains an embedded MSI, you can set up the following filters: In the "Display entries matching these conditions" select "Operation", “is”, “Process Create” and then “include’. Click on Add.
 
 ![process monitor operation is process create](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-operation-is-process-create.png "process monitor operation is process create")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- These filters will record events related to the EXE installer and any MSI files used during its execution.
@@ -88,10 +88,10 @@ For example, if we install Tableau Reader and start the Process Monitor tool and
 ![process monitor detect msi](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-detect-msi.png "process monitor detect msi")  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We're most interested in the Path and Detail columns. Looking at what TableauReader.exe does, it first extracts the installer data into a temporary directory in the %temp% directory, then installs the Visual C++ Redistributables 2013, followed by the Tableau Reader. However, if we look closely, we can see that the msiexec.exe service is called, indicating that the exe file is extracting the file in that %temp% location.
@@ -113,18 +113,16 @@ This is an example where you will need to create a transform file (MST) to furth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-device-recorder-activation-huaweis-mate-1020-and-p-series-phones-p20-p10/"><u>[New] In-Device Recorder Activation Huawei's Mate 10/20 & P Series Phones (P20, P10)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-efficient-techniques-for-capturing-macos-content/"><u>[Updated] 2024 Approved Efficient Techniques for Capturing macOS Content</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-seamless-transitions-made-simple-screen-record-with-aiseesoft/"><u>[Updated] In 2024, Seamless Transitions Made Simple Screen Record With Aiseesoft</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-realistic-or-risky-vrs-hidden-dangers-for-2024/"><u>[Updated] Realistic or Risky? VR's Hidden Dangers for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/5-solutions-for-realme-10t-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Realme 10T 5G Unlock Without Password</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/conquering-challenges-with-gpt-3-openai-style/"><u>Conquering Challenges with GPT-3, OpenAI Style</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-moto-g-5g-2023-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does Moto G 5G (2023) has native MOV support?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/no-more-plugins-embedding-rtsp-video-feeds-on-web-pages-using-vlcs-html5-transcoder/"><u>No More Plugins: Embedding RTSP Video Feeds on Web Pages Using VLC's HTML5 Transcoder</u></a></li>
-<li><a href="https://win-updates.techidaily.com/pros-and-cons-free-and-professional-editions-of-zune-video-converter-analysis/"><u>Pros and Cons: Free and Professional Editions of Zune Video Converter Analysis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-steps-converting-mov-files-to-wma-format-using-windows/"><u>Simple Steps: Converting Mov Files to Wma Format Using Windows</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-top-5-elite-4k-video-transcoding-software/"><u>The Ultimate Guide: Top 5 Elite 4K Video Transcoding Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-transforming-video-and-audio-files-into-various-formats/"><u>Ultimate Guide: Transforming Video and Audio Files Into Various Formats</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726027350128-vimeo-firefox/"><u>ダウンロード: Vimeo 映像を Firefox でどうやって保存するか</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-methods-for-saving-google-voice-communication/"><u>[New] 2024 Approved Quick Methods for Saving Google Voice Communication</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/njoy-premium-video-artwork-download-at-no-cost-today/"><u>[New] Enjoy Premium Video Artwork - Download at No Cost Today</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>[New] Step-by-Step Full PS4 Game Recording in OBS Studio</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elaborate-inspection-gopro-silver-hero4-unit-test/"><u>[Updated] In 2024, Elaborate Inspection GoPro Silver HERO4 Unit Test</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-core-elements-in-virtual-narrative-design/"><u>2024 Approved Core Elements in Virtual Narrative Design</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-can-malicious-software-evade-detection-by-security-suites-insights-from-malwarefox/"><u>How Can Malicious Software Evade Detection by Security Suites: Insights From MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/leading-green-screen-application-tools-for-live-video-streaming-platforms/"><u>Leading Green Screen Application Tools for Live Video Streaming Platforms</u></a></li>
+<li><a href="https://win-updates.techidaily.com/learn-cutting-edge-methods-for-msi-product-packaging-using-our-comprehensive-video-series/"><u>Learn Cutting-Edge Methods for MSI Product Packaging Using Our Comprehensive Video Series</u></a></li>
+<li><a href="https://win-updates.techidaily.com/simplest-methods-for-removing-images-from-your-ipad/"><u>Simplest Methods for Removing Images From Your iPad</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-power-integrating-chatgpt-and-wolfram-alpha-plugin-techniques/"><u>Unleashing Power: Integrating ChatGPT and Wolfram Alpha Plugin Techniques</u></a></li>
+<li><a href="https://win-updates.techidaily.com/why-does-google-send-you-to-bing-understanding-and-resolving-unintended-redirection/"><u>Why Does Google Send You to Bing? Understanding & Resolving Unintended Redirection</u></a></li>
 </ul></div>
 

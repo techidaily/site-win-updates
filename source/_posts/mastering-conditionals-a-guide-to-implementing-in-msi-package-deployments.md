@@ -1,7 +1,7 @@
 ---
 title: "Mastering Conditionals: A Guide to Implementing In MSI Package Deployments"
-date: 2024-09-26T21:35:20.659Z
-updated: 2024-09-30T09:33:19.695Z
+date: 2024-10-03T18:50:12.311Z
+updated: 2024-10-05T17:24:43.230Z
 tags:
   - application-packaging-training
 categories:
@@ -45,6 +45,13 @@ To add a condition to an MSI component in Advanced Installer, simply select the 
 
 ![component conditions](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/component-conditions.png "component conditions")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To perform the same actions as explained earlier where the file is only installed if a certain registry key exists, we must do some steps:
 
 1\. Search for the registry key and store this result into a property. We are going to use the default RESULT\_PROPERTY
@@ -53,35 +60,9 @@ To do this, navigate to the Search page and click on New Search. A wizard will a
 
 ![search new search wizzard](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/search-new-search-wizzard.png "search new search wizzard")  
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, select to Search for a registry value. As mentioned we will leave the search results in the RESULT\_PROPERTY.
 
 ![search new search wizzard registry key](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/search-new-search-wizzard-registry-key.png "search new search wizzard registry key")  
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Next, define the registry key value that we are searching for.
 
@@ -90,6 +71,13 @@ Next, define the registry key value that we are searching for.
 Select to retrieve the value and finish the wizard. After the wizard is completed check if your registry key is in the 64-bit portion of the registry and check the appropriate checkbox. You can also do a Test Search just to confirm that everything is in order.
 
 ![search new search wizzard registry key test](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/search-new-search-wizzard-registry-key-test.png "search new search wizzard registry key test")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. Use the above created Property to define the condition on the component where the file is located.
 
@@ -102,20 +90,14 @@ Because we don’t care about what value the property outputs and we are only in
 
 ![component condition set property](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/component-condition-set-property.png "component condition set property")  
 
-During the install phase, the MSI will first perform the search function to see if the registry key exists and populate the property, afterwards it will parse through all the components which are marked to install. Once it reaches our component with the HelloWorld.exe file, it will first check if the condition is met, meaning if the property is present or not. If the property is present, it means the condition has been passed and the component is then installed on the machine.
-
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+During the install phase, the MSI will first perform the search function to see if the registry key exists and populate the property, afterwards it will parse through all the components which are marked to install. Once it reaches our component with the HelloWorld.exe file, it will first check if the condition is met, meaning if the property is present or not. If the property is present, it means the condition has been passed and the component is then installed on the machine.
 
 ### Launch Conditions
 
@@ -126,13 +108,6 @@ To configure a launch condition in Advanced Installer, you can simply navigate t
 * System
 * Software
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### System Launch Conditions
 
 When it comes to system launch conditions, you can easily define on which Operating System your package will be supported, what minimum version of Windows Installer is needed, but also more in-depth checks such as minimum physical memory that the user needs to run the software, minimum screen resolution, minimum color quality and so on. For more details check [out this page](https://tools.techidaily.com/advancedinstaller/products/).
@@ -140,10 +115,10 @@ When it comes to system launch conditions, you can easily define on which Operat
 ![system launch conditions ai](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/system-launch-conditions-ai.png "system launch conditions ai")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Software Launch Conditions
@@ -178,10 +153,10 @@ In our case, all we need to do is check .NET Framework and select the desired ve
 ![software launch condition net framework](https://cdn.advancedinstaller.com/img/conditional-statements-and-custom-actions/software-launch-condition-net-framework.png "software launch condition net framework")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom Launch Conditions
@@ -197,6 +172,13 @@ To modify a launch condition, use the "Edit" button, the "Edit" list context men
 If you no longer need a launch condition, you can remove it using the "Remove" button, the "Remove" list context menu item, or by pressing the Delete key while an element from the list control is selected.
 
 Defining custom launch conditions in Advanced Installer is a best practice that can help to ensure the reliability and efficiency of the installation process. By specifying the conditions that must be met before installation, you can reduce the potential for errors and ensure that the installation package is installed only on systems that meet the required specifications.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Custom Actions as Conditional Statements
 
@@ -256,15 +238,22 @@ As you can see in the Install Execution Stage, the custom action is set at the t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-guide-to-avoidable-exposure-hiding-objects-and-faces-online-for-2024/"><u>[New] Guide to Avoidable Exposure Hiding Objects and Faces Online for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030281828-youtube/"><u>失われたYouTubeビデオの取り戻し:詳細な手順集</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726028522591-skype/"><u>完全なオーディオレコードを作成せずにSkypeの会話をキャプチャするテクニック</u></a></li>
-<li><a href="https://win-updates.techidaily.com/chrome-firefox-microsoft-edge/"><u>Chrome, Firefox, Microsoft Edgeで使える高速ウェブ録画技術：詳しい手順とポインター</u></a></li>
-<li><a href="https://win-updates.techidaily.com/compatibility-issues-with-quicktime-files-heres-how-to-resolve-them-thoroughly/"><u>Compatibility Issues with QuickTime Files? Here's How to Resolve Them Thoroughly</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-f23-5g-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo F23 5G</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-rhythmic-revelations-top-15-vlogs-celebrating-music-creators-stories/"><u>In 2024, Rhythmic Revelations Top 15 Vlogs Celebrating Music Creators' Stories</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-a54-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy A54 5GFRP Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-movie-edits-the-best-tools-ranked/"><u>Mastering Movie Edits The Best Tools Ranked</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/resolving-lg-usb-device-connectivity-problems-on-pc-windows-10-8-and-7/"><u>Resolving LG USB Device Connectivity Problems on PC (Windows 10, 8 & 7)</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-advanced-tips-for-recording-google-voice-dialogues/"><u>[New] 2024 Approved Advanced Tips for Recording Google Voice Dialogues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-meme-making-discovering-the-best-8-tools/"><u>[New] Transformative Meme-Making Discovering the Best 8 Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-easy-methods-to-unlock-icloud-locked-apple-iphone-14-pro-maxipadipod-by-drfone-ios/"><u>3 Easy Methods to Unlock iCloud Locked Apple iPhone 14 Pro Max/iPad/iPod</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-poco-m6-pro-4g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Poco M6 Pro 4G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/best-techniques-for-professional-audio-capture-on-a-windows-10-pc/"><u>Best Techniques for Professional Audio Capture on a Windows 10 PC</u></a></li>
+<li><a href="https://win11.techidaily.com/bringing-the-missing-search-back-into-win11s-task-manager/"><u>Bringing the Missing Search Back Into Win11's Task Manager</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-step-by-step-guide-to-screen-record-functionality-on-ios-11-devices/"><u>Complete Step-by-Step Guide to Screen Record Functionality on iOS 11 Devices</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-methods-for-packaging-applications-using-a-repacker/"><u>Effective Methods for Packaging Applications Using a Repacker</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-techniques-to-fully-eliminate-adchoices-pop-ups-permanently/"><u>Effective Techniques to Fully Eliminate AdChoices Pop-Ups Permanently</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ensure-seamless-printing-with-the-newest-epson-wf-n3620-drivers-compatible-with-all-windows-versions-windows-1187/"><u>Ensure Seamless Printing with the Newest Epson WF-N3620 Drivers - Compatible With All Windows Versions (Windows 11/8/7)</u></a></li>
+<li><a href="https://win-updates.techidaily.com/evaluating-the-security-of-microsofts-latest-os-a-comprehensive-guide-to-windows-11-safety/"><u>Evaluating the Security of Microsoft's Latest OS: A Comprehensive Guide to Windows 11 Safety</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/flight-paths-revealed-full-review-of-dji-phantom-4-for-2024/"><u>Flight Paths Revealed Full Review of DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/identifying-fraudulent-android-applications-expert-tips-from-malwarefox/"><u>Identifying Fraudulent Android Applications: Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-magic-formula-how-g-sync-improves-graphics/"><u>Nvidia's Magic Formula: How G-Sync Improves Graphics</u></a></li>
+<li><a href="https://win-updates.techidaily.com/protect-your-chrome-from-malicious-notification-attacks-essential-tips/"><u>Protect Your Chrome From Malicious Notification Attacks: Essential Tips</u></a></li>
+<li><a href="https://win-updates.techidaily.com/revive-your-missing-office-documents-expert-strategies-for-restoring-deleted-file-versions/"><u>Revive Your Missing Office Documents: Expert Strategies for Restoring Deleted File Versions</u></a></li>
 </ul></div>
 

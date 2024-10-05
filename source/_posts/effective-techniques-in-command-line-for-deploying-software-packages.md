@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques in Command Line for Deploying Software Packages
-date: 2024-09-24T00:11:15.437Z
-updated: 2024-09-29T22:50:37.861Z
+date: 2024-10-01T19:26:08.515Z
+updated: 2024-10-05T18:24:41.517Z
 tags:
   - application-packaging-training
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/a208f3a78dbc1966a7b3c23e883554ad74b655fe5
 ## Command lines
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### MSI Command Lines
@@ -85,17 +85,17 @@ For more information about MSI command lines check out our [in-depth user guide]
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)When deploying applications with SCCM or Intune, you don’t need to specify the full path to the installation because when the user installs it from Software Center/Company Portal, the installation runs directly from the downloaded directory which contains the files.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### PowerShell Command Lines
@@ -155,10 +155,16 @@ powershell.exe -executionpolicy bypass -file deployapplication.ps1 -DeploymentTy
 Copy
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### VBScript Command Lines
@@ -254,20 +260,24 @@ Copy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-what-to-expect-from-your-instagram-experience-now/"><u>[New] In 2024, What to Expect From Your Instagram Experience Now</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-key-tips-to-capture-youtube-streams-effectively-for-2024/"><u>[Updated] Key Tips to Capture YouTube Streams Effectively for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-pro-features-of-dji-phantom-3-technology/"><u>2024 Approved Exploring the Pro Features of DJI Phantom 3 Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-vivo-y27-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/boosting-digital-marketing-with-cutting-edge-cookiebot-technology/"><u>Boosting Digital Marketing with Cutting-Edge Cookiebot Technology</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/guide-to-recovering-stopped-fb-livestreams/"><u>Guide to Recovering Stopped FB Livestreams</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-intelligent-digital-diary-with-mematic-services/"><u>In 2024, Intelligent Digital Diary with Mematic Services</u></a></li>
-<li><a href="https://win-updates.techidaily.com/no-more-plugins-embedding-rtsp-video-feeds-on-web-pages-using-vlcs-html5-transcoder/"><u>No More Plugins: Embedding RTSP Video Feeds on Web Pages Using VLC's HTML5 Transcoder</u></a></li>
-<li><a href="https://win-updates.techidaily.com/pros-and-cons-free-and-professional-editions-of-zune-video-converter-analysis/"><u>Pros and Cons: Free and Professional Editions of Zune Video Converter Analysis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-steps-converting-mov-files-to-wma-format-using-windows/"><u>Simple Steps: Converting Mov Files to Wma Format Using Windows</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-top-5-elite-4k-video-transcoding-software/"><u>The Ultimate Guide: Top 5 Elite 4K Video Transcoding Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-transforming-video-and-audio-files-into-various-formats/"><u>Ultimate Guide: Transforming Video and Audio Files Into Various Formats</u></a></li>
-<li><a href="https://common-error.techidaily.com/understanding-and-resolving-rpc-server-unavailable-messages-in-windows-os/"><u>Understanding and Resolving 'RPC Server Unavailable' Messages in Windows OS</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726027350128-vimeo-firefox/"><u>ダウンロード: Vimeo 映像を Firefox でどうやって保存するか</u></a></li>
-<li><a href="https://win-updates.techidaily.com/44oa44km44oz44ot44o844oj44oy44or44or44o844ks5l244gj44gf44ot44oh44kq44oa44km44oz44ot44o844oj44gr5asx5pwx44gz44kl5ac05zci44gu6kej5rg6562w/"><u>ダウンロードヘルパーを使ったビデオダウンロードに失敗する場合の解決策</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-webcam-safety-the-best-cam-cover-picks/"><u>[New] In 2024, Webcam Safety The Best Cam Cover Picks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-trim-the-excess-a-beginners-guide-to-simple-video-cuts-in-windows/"><u>[Updated] 2024 Approved Trim the Excess A Beginner's Guide to Simple Video Cuts in Windows</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-enhancing-network-security-expert-guide-to-setting-firewall-policies-using-vbscript-powershell-and-advanced-installer/"><u>1. Enhancing Network Security: Expert Guide to Setting Firewall Policies Using VBScript, PowerShell, and Advanced Installer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-google-pixel-7a-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Google Pixel 7a without App | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparing-sns-hdrs-capabilities-with-competitor-software-for-2024/"><u>Comparing SNS HDR's Capabilities with Competitor Software for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-guide-how-to-eliminate-and-prevent-pop-up-ads-in-firefox-top-4-methods/"><u>Complete Guide: How to Eliminate and Prevent Pop-Up Ads in Firefox - Top 4 Methods</u></a></li>
+<li><a href="https://win-updates.techidaily.com/deciphering-adware-recognizing-dangerous-pop-ups-and-learning-secure-eradication-methods/"><u>Deciphering Adware: Recognizing Dangerous Pop-Ups & Learning Secure Eradication Methods</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-to-restore-accidentally-deleted-files-on-your-windows-10-pc/"><u>Easy Steps to Restore Accidentally Deleted Files on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-installing-applications-with-sccm-using-various-scripts/"><u>Effective Strategies: Installing Applications with SCCM Using Various Scripts</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hulus-errorrununk13-bug-easy-fixes-and-workarounds/"><u>Hulu's ERROR_RUNUNK13 Bug: Easy Fixes and Workarounds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-vivo-y200e-5g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Vivo Y200e 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-poco-f5-5g-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Poco F5 5G Phones</u></a></li>
+<li><a href="https://win-updates.techidaily.com/rescue-your-lost-memories-effective-methods-for-restoring-deleted-pictures-on-an-ipad/"><u>Rescue Your Lost Memories: Effective Methods for Restoring Deleted Pictures on an iPad</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-fe-messages-recovery-recover-deleted-messages-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>Samsung Galaxy S23 FE Messages Recovery - Recover Deleted Messages from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-insiders-manual-on-m4v-all-you-need-to-know-about-this-common-digital-video-format/"><u>The Insider's Manual on M4V: All You Need to Know About This Common Digital Video Format</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-rated-youtube-summary-tools-and-apps-the-ultimate-guide/"><u>Top Rated YouTube Summary Tools & Apps: The Ultimate Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/trasforma-i-tuoi-file-au-au-in-formato-wmv-online-gratuito-con-moveave/"><u>Trasforma I Tuoi File AU (.au) in Formato WMV Online Gratuito Con Moveave</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-the-reasons-behind-your-phone-overheating-and-effective-cooling-techniques/"><u>Understanding the Reasons Behind Your Phone Overheating & Effective Cooling Techniques</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-xiaomi-civi-3-disney-100th-anniversary-edition-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Xiaomi Civi 3 Disney 100th Anniversary Edition Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

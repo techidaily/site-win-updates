@@ -1,7 +1,7 @@
 ---
 title: "Understanding the Microsoft SmartScreen Filter: Necessity or Hindrance?"
-date: 2024-09-22T19:44:29.516Z
-updated: 2024-09-29T19:09:43.216Z
+date: 2024-10-01T18:43:26.410Z
+updated: 2024-10-05T17:19:29.965Z
 tags:
   - product
   - antivirus
@@ -52,18 +52,18 @@ The Antimalware Service Executable process is the Windows Defender program, and 
 
 [Why Antivirus is not Enough?](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Does SmartScreen Use Memory and CPU?
 
 The SmartScreen process is just sitting in the background most of the time not using hardly any system resources. You will see that it’s using around 0% CPU and only a couple of megabytes of memory in the Task Manager. Sometimes, you won’t even see it running as Windows will close the process when it isn’t using the feature.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/board-1.png "board (1)")
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 However, if your SmartScreen is enabled and you start downloading a new file or application, SmartScreen will kick in. Windows will launch the feature if it’s disabled at the moment and you will see that it’s using a bit of memory and CPU resources as it collects data from the file, sends that data to the Microsoft servers, and waits for the file to be checked to see if it is a known program. If the file is safe, your PC will launch the file or application normally.
 
@@ -77,13 +77,6 @@ At the level of the operating system, the SmartScreen feature works by sending i
 
 ![](https://malwarefox.com/wp-content/uploads/2017/10/shield-2.png "shield (2)")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If the SmartScreen isn’t familiar with the application you download, you will get a warning message that will prevent the unrecognized application from starting. However, you can always choose to bypass this message if you think that the application isn’t harmful.
 
 ![Windows Defender SmartScreen 2](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/Windows-Defender-SmartScreen-2.jpg "Windows Defender SmartScreen 2")
@@ -92,14 +85,14 @@ No matter where the file or application is coming from, this operating system pr
 
 ![SmartScreen Blocking Download](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/07/SmartScreen-Blocking-Download.jpg "SmartScreen Blocking Download")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 SmartScreen on Windows 10 also blocks malicious downloads and websites in the Windows Store and Microsoft Edge apps. It performs the same function as the Google Safe Browsing program, which blocks access to malicious websites in Firefox and Chrome.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Run an App SmartScreen doesn’t Recognize
 
@@ -108,6 +101,13 @@ Once you download an application and SmartScreen finds it malicious, it will blo
 On the other side, the SmartScreen feature will also prevent an unrecognized application from running. When you try to run an unrecognized application, you will get a message and the system will tell you that if you run the application, your computer might be at risk.
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/website.png "website")
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 SmartScreen is sometimes unfamiliar with applications because they are new or infrequently downloaded. Maybe it’s a program that only a few people use for a certain niche application. If you are 100% sure that the program you downloaded is safe and you want to run it, you can open a pop-up window by clicking “More info” and choosing the option “Run anyway.” Once you do this, you will be able to access the program despite SmartScreen’s warning.
 
@@ -123,13 +123,6 @@ On the Windows Defender’s sidebar, click the icon for App & Browser Control an
 
 ![](https://malwarefox.com/wp-content/uploads/2018/06/computer-1.png "computer (1)")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Windows SmartScreen has three different filters, and you can configure different options for each. You can choose to block applications that are unrecognized, to see a warning that you can click through, or you can turn Windows SmartScreen off altogether. Even if the “Warn” option is enabled, your SmartScreen process will always block malicious content, but it will first warn you before you run an application that’s unrecognized. Keep in mind that disabling SmartScreen will put your computer in potential danger as it won’t block dangerous files anymore.
 
 There’s also an option called “Check apps and files.” This will control the OS’s SmartScreen filter, which is going to protect you from malicious files no matter where you downloaded them from. Once you try to open a downloaded file or an application in, for example, File Explorer, Windows will check if that file or app is malicious and will block it if it is.
@@ -139,13 +132,6 @@ Your PC also has an option called “SmartScreen for Microsoft Edge.” Its purp
 Another option is the “SmartScreen for Windows Store apps.” Your computer uses this feature when applications you’re downloading from the Windows Store are accessing something on the web. It will warn you before applications load dangerous content.
 
 [Is Dropbox Really Safe?](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Disable SmartScreen on Windows 8?
 
@@ -163,6 +149,13 @@ Keep in mind that disabling the feature is not recommended! As we mentioned many
 
 [Is Windows Defender Enough?](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1 thought on “What is SmartScreen Filter and Should You Disable It?”
 
 1. ![](https://secure.gravatar.com/avatar/7c9bc7a3ea6709300d73363e207bfaa3?s=50&d=mm&r=g)  
@@ -170,6 +163,13 @@ JohnIL
 [July 9, 2019 at 6:57 am](https://tools.techidaily.com/malwarefox/products/)  
 Windows has become a nanny OS now trying to save us all from ourselves. Our bad habits online, the files and content we download with unintended attachments. The emails that have nasties in them. Try Linux distribution sometime and you will experience what just a clean OS can really perform well. Mainly because it has no security like Defender running in background, or Smart screen or backup in case you get some sort of ransomeware. Windows used to be fast, back before all these nanny features got tacked on. Best you leave them on though if you doubt yourself even the slightest about your habits online. Maybe that stuff will save yourself some headaches some day?  
 [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -196,21 +196,20 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-an-in-depth-look-at-movavis-video-edition-plus-for-2e24/"><u>[New] An In-Depth Look at Movavi's Video Edition Plus for 2E24</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>[New] Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-unraveling-instagrams-video-time-restrictions-for-2024/"><u>[New] Unraveling Instagram's Video Time Restrictions for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/"><u>[Updated] Apeak Recorder Reviewed Speed, Quality, and Ease of Use Scored</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030281828-youtube/"><u>失われたYouTubeビデオの取り戻し:詳細な手順集</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726028522591-skype/"><u>完全なオーディオレコードを作成せずにSkypeの会話をキャプチャするテクニック</u></a></li>
-<li><a href="https://win-updates.techidaily.com/chrome-firefox-microsoft-edge/"><u>Chrome, Firefox, Microsoft Edgeで使える高速ウェブ録画技術：詳しい手順とポインター</u></a></li>
-<li><a href="https://win-updates.techidaily.com/compatibility-issues-with-quicktime-files-heres-how-to-resolve-them-thoroughly/"><u>Compatibility Issues with QuickTime Files? Here's How to Resolve Them Thoroughly</u></a></li>
-<li><a href="https://win-updates.techidaily.com/efficient-techniques-for-reducing-file-size-m4a-audio-compression-on-pcs-and-mac/"><u>Efficient Techniques for Reducing File Size: M4A Audio Compression on PCs & MAC</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-conversion-techniques-for-turning-dem-demos-into-watchable-mp4-formats/"><u>Effortless Conversion Techniques for Turning DEM Demos Into Watchable MP4 Formats</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-upload-mastery-understanding-and-using-correct-video-sizes-on-youtube/"><u>In 2024, Upload Mastery Understanding and Using Correct Video Sizes on YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/introduction-to-dynamic-graphic-techniques/"><u>Introduction to Dynamic Graphic Techniques</u></a></li>
-<li><a href="https://network-issues.techidaily.com/step-up-graphics-capability-with-an-easy-intel-gpu-update-in-windows-10/"><u>Step up Graphics Capability with an Easy Intel GPU Update in Windows 10.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/subtle-sound-level-lowering-in-fl-studio-for-2024/"><u>Subtle Sound Level Lowering in FL Studio for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/totv-multimedia-player-wmp-alternative/"><u>TOTV Multimedia Player WMP Alternative</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726027350128-vimeo-firefox/"><u>ダウンロード: Vimeo 映像を Firefox でどうやって保存するか</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-size-your-videos-youtubes-best-practices-unveiled/"><u>[New] In 2024, How to Size Your Videos YouTube's Best Practices Unveiled</u></a></li>
+<li><a href="https://win-data.techidaily.com/1-stream-your-favorite-tunes-effortless-music-video-downloads-from-musicplayon/"><u>1. Stream Your Favorite Tunes: Effortless Music Video Downloads From MusicPlayOn</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-concealed-viewing-of-instagrams-private-content-on-devices/"><u>2024 Approved Concealed Viewing of Instagram's Private Content on Devices</u></a></li>
+<li><a href="https://media-tips.techidaily.com/download-the-best-no-cost-tools-top-4-pc-compatible-with-airplay-technology/"><u>Download the Best No-Cost Tools: Top 4 PC Compatible with AirPlay Technology</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y78-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y78 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ipod-touch-compatible-video-transformer-seamlessly-adapt-videos-for-your-device/"><u>IPod Touch-Compatible Video Transformer: Seamlessly Adapt Videos for Your Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/panoramic-storytelling-simplified-top-9-tips-for-filmmakers/"><u>Panoramic Storytelling Simplified Top 9 Tips for Filmmakers</u></a></li>
+<li><a href="https://facebook.techidaily.com/societys-growth-catalyst-the-top-7-of-social-media-impacts/"><u>Society's Growth Catalyst: The Top 7 of Social Media Impacts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-to-mastering-image-edits-in-apowerpdf-software/"><u>Step-by-Step Guide to Mastering Image Edits in ApowerPDF Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/tailored-vs-universal-choosing-between-user-or-machine-based-app-setup/"><u>Tailored Vs. Universal: Choosing Between User or Machine Based App Setup</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-6-fantastic-tools-to-sharpen-your-images-in-2n2-free-and-premium-options-available/"><u>Top 6 Fantastic Tools to Sharpen Your Images in 2N2 - Free and Premium Options Available</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-free-replacements-for-microsoft-office/"><u>Top-Rated Free Replacements for Microsoft Office</u></a></li>
+<li><a href="https://win-updates.techidaily.com/transferring-iphone-visuals-onto-desktop-techniques-and-tools-for-easy-display-syncing/"><u>Transferring iPhone Visuals Onto Desktop: Techniques and Tools for Easy Display Syncing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/understanding-the-importance-of-professional-images-as-thumbnails/"><u>Understanding the Importance of Professional Images as Thumbnails</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unlock-expert-skills-with-our-no-cost-msi-packaging-mastery-course-learn-innovative-techniques-for-professionals/"><u>Unlock Expert Skills with Our No-Cost MSI Packaging Mastery Course - Learn Innovative Techniques for Professionals</u></a></li>
 </ul></div>
 

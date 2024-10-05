@@ -1,7 +1,7 @@
 ---
 title: "1. Enhancing Network Security: Expert Guide to Setting Firewall Policies Using VBScript, PowerShell, and Advanced Installer"
-date: 2024-09-26T02:20:57.768Z
-updated: 2024-09-29T23:29:59.902Z
+date: 2024-09-28T16:54:03.357Z
+updated: 2024-10-05T17:21:52.141Z
 tags:
   - application-packaging-training
 categories:
@@ -94,10 +94,10 @@ After that, follow the same exact steps as above and configure the custom action
 ![configure the custom action](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/remfwCA.png "configure the custom action")  
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Firewall rules with PowerShell
@@ -121,16 +121,16 @@ Next, open Advanced Installer and navigate to the Custom Actions Page. In here, 
 
 ![Run PowerShell script file](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/addfwPSCA.png "Run PowerShell script file")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 To also add the remove firewall PowerShell script, follow the same steps as above and do the following configurations:
 
 ![remove firewall PowerShell script](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/remfwPSCA.png "remove firewall PowerShell script")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Firewall rules with Advanced Installer
 
@@ -140,6 +140,13 @@ Next, click on **New Rule**. This will open a new window in which you can define
 
 ![Windows Firewall page](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/advfw.png "Windows Firewall page")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 As you can see, you can easily choose the direction, display name, program path, protocol and other settings directly from the GUI. In our case we wanted to mimic the above usages of netsh and PowerShell and left everything as before in the GUI.
 
 And that is it, Advanced Installer will automatically create the exception during the installation and during the uninstallation it will remove the exception from the firewall, not needing to create two separate actions for it.
@@ -147,22 +154,15 @@ And that is it, Advanced Installer will automatically create the exception durin
 ![remove the exception from the firewall](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/advfw2.png "remove the exception from the firewall")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 All you have to do is build and install the MSI package. After the installation, if we check the Inbound rules, our rule is there:
 
 ![check the Inbound rules](https://cdn.advancedinstaller.com/img/configure-firewall-rules-with-custom-actions/inbound.png "check the Inbound rules")
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -179,19 +179,20 @@ All you have to do is build and install the MSI package. After the installation,
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/approved-how-to-embed-a-youtube-playlist-on-a-website/"><u>2024 Approved How To Embed A YouTube Playlist On a Website</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-top-5-ways-to-record-audio-in-windows-11/"><u>2024 Approved The Ultimate Guide Top 5 Ways to Record Audio in Windows 11</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-itel-p40plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030172013-aviutl/"><u>音声編集ガイド：AviUtlでの切り取り・レベリング技術を学ぶ</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-tips-and-tricks-from-tomntech-expertise/"><u>Advanced Hardware Tips and Tricks From Tom'nTech Expertise</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-lava-blaze-2-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Lava Blaze 2 Pro Safely | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-dns-configuration-a-step-by-step-guide-for-changing-ip-addresses-in-windows-os/"><u>Mastering DNS Configuration: A Step-by-Step Guide for Changing IP Addresses in Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-oneplus-nord-ce-3-lite-5g-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on OnePlus Nord CE 3 Lite 5G – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726029980771-ogg/"><u>Oggファイル改竢・マージ・カット・レベル変更のための劣化しない編集手法</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-motorola-moto-g-5g-2023-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://win-updates.techidaily.com/syncing-mobile-photographs-with-your-desktop-tips-for-android-users-on-windows-computers-zdnet/"><u>Syncing Mobile Photographs with Your Desktop: Tips for Android Users on Windows Computers | ZDNet</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-future-of-winamp-beyond-open-source-exploring-its-strategic-shift-explained-by-zdnet/"><u>The Future of Winamp Beyond Open-Source: Exploring Its Strategic Shift Explained by ZDNet</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/troubleshooting-error-code-0x8007045d-in-windows-1011/"><u>Troubleshooting Error Code 0X8007045D in Windows 10/11</u></a></li>
-<li><a href="https://win-updates.techidaily.com/why-and-how-to-access-windows-11-using-your-microsoft-365-business-account-expert-tips-from-zdnet/"><u>Why and How to Access Windows 11 Using Your Microsoft 365 Business Account | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-best-practices-in-embedding-real-time-videos-from-fb/"><u>[New] In 2024, Best Practices in Embedding Real-Time Videos From FB</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-transforming-your-profile-into-a-showstopper/"><u>[New] In 2024, Transforming Your Profile Into a Showstopper</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-metavision-quest-selecting-the-most-advanced-vr-headset-for-2024/"><u>[Updated] Metavision Quest Selecting the Most Advanced VR Headset for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-google-podcast-upload/"><u>2024 Approved Mastering the Art of Google Podcast Upload</u></a></li>
+<li><a href="https://win-updates.techidaily.com/cant-delete-mcafee-from-your-system-successful-steps-to-fully-eliminate-mcafee-antivirus/"><u>Can't Delete McAfee From Your System? Successful Steps to Fully Eliminate McAfee Antivirus</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comparing-tablet-devices-based-on-central-processing-unit-capabilities/"><u>Comparing Tablet Devices Based on Central Processing Unit Capabilities</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-to-successfully-downloading-tunes-on-your-lg-smartphone/"><u>Easy Steps to Successfully Downloading Tunes on Your LG Smartphone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/flamenco-finch-frolic-for-2024/"><u>Flamenco Finch Frolic for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-asus-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Asus</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6s-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6s i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/resolving-connection-issues-compatibility-between-iphones-phone-manager-and-itunes-version-121/"><u>Resolving Connection Issues: Compatibility Between iPhone's Phone Manager and iTunes Version 12.1</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-recognizing-and-stopping-malicious-programs-via-task-manager/"><u>Step-by-Step Guide: Recognizing and Stopping Malicious Programs via Task Manager</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-safeguarding-your-facebook-presence-against-hacking-and-privacy-breaches/"><u>Step-by-Step Guide: Safeguarding Your Facebook Presence Against Hacking and Privacy Breaches</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-5-stunning-websites-that-echo-the-vibe-of-lastfm/"><u>Top 5 Stunning Websites That Echo the Vibe of Last.fm</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-6-image-enhancement-software-picking-the-best-from-various-platforms/"><u>Top 6 Image Enhancement Software Picking the Best From Various Platforms</u></a></li>
 </ul></div>
 

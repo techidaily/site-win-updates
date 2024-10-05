@@ -1,7 +1,7 @@
 ---
 title: Advanced Techniques in Editing Registry Settings Using Advanced Installer
-date: 2024-09-27T03:25:45.455Z
-updated: 2024-09-29T20:18:12.403Z
+date: 2024-09-28T19:30:24.762Z
+updated: 2024-10-05T17:48:55.058Z
 tags:
   - application-packaging-training
 categories:
@@ -31,6 +31,13 @@ When it comes to File Type Associations, Advanced Installer offers a separate GU
 
 ![ai file associations page](https://cdn.advancedinstaller.com/img/registry-classes-with-advanced-installer/ai-file-associations-page.png "ai file associations page")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### COM Page
 
 Advanced Installer includes a number of useful tools for working with COM components, such as the ability to create new classes, interfaces, and type libraries. These tools are accessible via the Advanced Installer interface's "COM, Interfaces, COM+, Type Libraries" panel, which allows developers and system administrators to easily create, edit, and manage COM components for use in their applications.
@@ -44,13 +51,6 @@ Advanced Installer includes tools for editing and deleting existing components i
 ![ai com page rename](https://cdn.advancedinstaller.com/img/registry-classes-with-advanced-installer/ai-com-page-rename.png "ai com page rename")  
 
 Advanced Installer also includes tools for importing COM+ components and converting type libraries for more advanced tasks. Use the "Import COM+" toolbar button or context menu item to import a COM+ component. Use the "Convert Type Library" toolbar button or tree context menu item to convert a type library. When converting a type library, the COM registration registries contained within the file are extracted and silently imported into the Registry page, bypassing the TypeLib table.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### COM Properties
 
@@ -67,18 +67,18 @@ The interface in the view is simple and straightforward, allowing IT professiona
 * Argument and Feature: The "Argument" and "Feature" options are related to the CLSID keys LocalServer or LocalServer32\. The "Argument" option allows you to register a text as the server's argument, which is used by COM to invoke the server. The "Feature" option lets you choose which feature provides the COM server.
 * Relative Path and Location: Finally, you can specify whether the register path is relative or absolute, as well as the registry location where the COM is registered, using the "Relative Path" and "Location" options. The registry location for COMs defined through the MSI Class table is read-only.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### COM ActiveX Properties
 
 If the COM has any ActiveX settings, you can easily configure them in the [ActiveX Properties Tab](https://tools.techidaily.com/advancedinstaller/products/).
 
 ![ai com activex tab](https://cdn.advancedinstaller.com/img/registry-classes-with-advanced-installer/ai-com-activex-tab.png "ai com activex tab")  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ActiveX is a subset of COM that is designed specifically for use in web browsers, whereas COM is a more general-purpose technology used to create software components that can be used by any application.
 
@@ -117,16 +117,16 @@ The AppId Properties tab's Properties section contains several fields that allow
 
 The Active At Storage checkbox is used to enable the "ActivateAtStorage"="Y" value, which is stored in HKCR\\AppID{AppID}. The Run As Interactive User checkbox allows you to tell the DCOM server to run as an interactive user. This value will be written as "RunAs"="Interactive User" under HKCR\\AppID{AppID}.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Interface Properties
 
 ![ai com interfaces](https://cdn.advancedinstaller.com/img/registry-classes-with-advanced-installer/ai-com-interfaces.png "ai com interfaces")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Advanced Installer has a dedicated view where you can specify the settings needed to create a new COM Interface. This view provides a comprehensive set of properties for customizing the interface and its components which includes the following fields:
 
@@ -151,23 +151,9 @@ By configuring these properties in Advanced Installer, you can effectively defin
 
 Proper configuration of COM Interfaces ensures consistency, compatibility, and efficient communication between different software components. Advanced Installer simplifies the process, providing a user-friendly interface for specifying the required settings and ensuring a smooth integration of COM Interfaces into your applications.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Type Libraries
 
 ![ai com type library](https://cdn.advancedinstaller.com/img/registry-classes-with-advanced-installer/ai-com-type-library.png "ai com type library")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Type Library Properties view in Advanced Installer allows you to specify the information that will be stored in the registry during the Type Library's registration process. This allows for the Type Library to be seamlessly integrated and accessible within your applications.
 
@@ -191,15 +177,28 @@ By configuring these properties in Advanced Installer, you can ensure that the T
 Proper configuration of Type Library properties is essential for maintaining consistency, compatibility, and accessibility of Type Libraries within your software solutions. With Advanced Installer's user-friendly interface, you can easily specify the required information and streamline the registration process.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### COM+
 
 ![ai com com plus](https://cdn.advancedinstaller.com/img/registry-classes-with-advanced-installer/ai-com-com-plus.png "ai com com plus")  
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Advanced Installer COM+ Properties view provides a comprehensive set of options for specifying the information required for registering a COM+ component. This view allows you to define the files associated with the COM+ as well as the flags used during the MSI file creation process.
 
@@ -221,6 +220,19 @@ You can associate specific file extensions with applications in your package, al
 
 ![ai file associations page assoc](https://cdn.advancedinstaller.com/img/registry-classes-with-advanced-installer/ai-file-associations-page-assoc.png "ai file associations page assoc")  
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the left-side pane of the File Associations view, you'll find a tree with all the ProgIDs defined at the top level. Each ProgID can have multiple associated extensions, with each extension capable of defining multiple verbs.
 
 Advanced Installer includes the New File Association Wizard, which allows you to quickly and easily create a new file association. Simply click the \[New File Association Wizard\] toolbar button and follow the on-screen instructions to set up the association.
@@ -229,14 +241,14 @@ You have several options for creating a new ProgID. While the "ProgID, Extension
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)A ProgID will not be created at install time unless it is associated with an extension or a COM.
 
-![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Only one extension should be associated with each ProgID.
-
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Only one extension should be associated with each ProgID.
 
 Use the \[New Extension\] toolbar button, the "New Extension" tree context menu item, or the Insert key while the "ProgID, Extensions, and Verbs" panel is focused to create new extensions. This action generates a ProgID as well as an extension with default properties. If you want to add an extension to an existing ProgID, make sure to select it (or one of its children) before clicking \[New Extension\].
 
@@ -247,10 +259,10 @@ To establish a new default program, utilize the \[New Default Program \] toolbar
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Default Programs feature applies only when the package is installed on Windows Vista or later. For lower systems, it's ignored.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)The Default Programs feature does not apply on Windows 8 and newer operating systems. Due to their design, these operating systems don't allow setting the default programs programmatically.
@@ -282,20 +294,24 @@ Use the "Go To Component" tree context menu item or press the F8 key while an el
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-endings-that-wow-ranked-for-you-top-6/"><u>[New] 2024 Approved Free Endings That Wow - Ranked for You (Top 6)</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-no-1-choice-of-dvd-and-media-editors-sierra-edition/"><u>[New] 2024 Approved No. 1 Choice of DVD and Media Editors, Sierra Edition</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-list-top-rated-srt-translation-services/"><u>[New] A Comprehensive List Top-Rated SRT Translation Services</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elite-architects-best-of-breed-instragram-hlv-artisans/"><u>[New] In 2024, Elite Architects Best-of-Breed Instragram HLV Artisans</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030172013-aviutl/"><u>音声編集ガイド：AviUtlでの切り取り・レベリング技術を学ぶ</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>In 2024, From Iciness to Comfort Five Warm Backdrops Ideas</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-canon-mf743-cddvd-drive-software-installation-guide-for-pcs/"><u>Latest Canon MF743 CD/DVD Drive Software Installation Guide for PCs</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-in-this-case-you-would-prefer-to-rotate-3gp-videos-90-degrees-for-a-better-viewing-here-is-a-list-of-top-5-free-3gp-video-rotators/"><u>New 2024 Approved In This Case, You Would Prefer to Rotate 3GP Videos 90 Degrees for a Better Viewing. Here Is a List of Top 5 Free 3GP Video Rotators</u></a></li>
-<li><a href="https://win-updates.techidaily.com/no-more-plugins-embedding-rtsp-video-feeds-on-web-pages-using-vlcs-html5-transcoder/"><u>No More Plugins: Embedding RTSP Video Feeds on Web Pages Using VLC's HTML5 Transcoder</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726029980771-ogg/"><u>Oggファイル改竢・マージ・カット・レベル変更のための劣化しない編集手法</u></a></li>
-<li><a href="https://win-updates.techidaily.com/pros-and-cons-free-and-professional-editions-of-zune-video-converter-analysis/"><u>Pros and Cons: Free and Professional Editions of Zune Video Converter Analysis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-future-of-winamp-beyond-open-source-exploring-its-strategic-shift-explained-by-zdnet/"><u>The Future of Winamp Beyond Open-Source: Exploring Its Strategic Shift Explained by ZDNet</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/vision-unclouded-mastery-of-gopro-haze-prevention/"><u>Vision Unclouded Mastery of GoPro Haze Prevention</u></a></li>
-<li><a href="https://win-updates.techidaily.com/why-and-how-to-access-windows-11-using-your-microsoft-365-business-account-expert-tips-from-zdnet/"><u>Why and How to Access Windows 11 Using Your Microsoft 365 Business Account | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://win-updates.techidaily.com/44oa44km44oz44ot44o844oj44oy44or44or44o844ks5l244gj44gf44ot44oh44kq44oa44km44oz44ot44o844oj44gr5asx5pwx44gz44kl5ac05zci44gu6kej5rg6562w/"><u>ダウンロードヘルパーを使ったビデオダウンロードに失敗する場合の解決策</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-unlock-professional-broadcasting-on-youtube-and-twitch-with-obs/"><u>[New] In 2024, Unlock Professional Broadcasting on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-the-essential-handbook-to-professional-screen-recordings/"><u>[Updated] 2024 Approved The Essential Handbook to Professional Screen Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-advanced-screen-recorder-options-for-mac-not-including-bandicamp-for-2024/"><u>[Updated] Advanced Screen Recorder Options for Mac, Not Including Bandicamp for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-chart-a-course-for-success-top-5-effective-video-marketing-strategies-on-youtube/"><u>[Updated] Chart a Course for Success Top 5 Effective Video Marketing Strategies on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-boost-engagement-through-best-thumbnail-practices/"><u>2024 Approved Boost Engagement Through Best Thumbnail Practices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>2024 Approved Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost</u></a></li>
+<li><a href="https://win-updates.techidaily.com/custom-action-enabled-process-detection-and-termination-techniques/"><u>Custom Action-Enabled Process Detection & Termination Techniques</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-for-eliminating-adware-from-google-chrome-using-malwarefox/"><u>Effective Strategies for Eliminating Adware From Google Chrome Using MalwareFox</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-tecno-pova-5-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Tecno Pova 5 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-honor-x7b-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Honor X7b to Another | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/luminouslabs-top-10-free-and-paid-filters-compare/"><u>LuminousLabs Top 10 Free & Paid Filters Compare</u></a></li>
+<li><a href="https://win-updates.techidaily.com/navigating-romance-in-digital-worlds-a-guide-to-pc-games-of-love-and-fiction/"><u>Navigating Romance in Digital Worlds: A Guide to PC Games of Love and Fiction</u></a></li>
+<li><a href="https://win-updates.techidaily.com/protect-your-personal-data-uncovering-covertly-monitoring-android-apps-detected-by-security-experts/"><u>Protect Your Personal Data: Uncovering Covertly Monitoring Android Apps Detected by Security Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/simple-guide-how-to-add-custom-ringtones-to-your-iphone/"><u>Simple Guide: How to Add Custom Ringtones to Your iPhone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/simple-steps-to-unlock-your-iphone-6-a-beginners-manual/"><u>Simple Steps to Unlock Your iPhone 6: A Beginner's Manual</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723211926488-the-ultimate-guide-for-restoring-function-keys-in-dell-laptops-tips-tricks-and-solutions/"><u>The Ultimate Guide for Restoring Function Keys in Dell Laptops: Tips, Tricks & Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-techniques-for-efficiently-recording-your-adobe-connect-sessions/"><u>Top Techniques for Efficiently Recording Your Adobe Connect Sessions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-techniques-for-producing-high-quality-tiktoks/"><u>Top Techniques for Producing High-Quality TikToks</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-capturing-screenshots-on-your-alcatel-one-touch-device/"><u>Ultimate Guide to Capturing Screenshots on Your Alcatel One Touch Device</u></a></li>
 </ul></div>
 

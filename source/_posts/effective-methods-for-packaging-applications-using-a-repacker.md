@@ -1,7 +1,7 @@
 ---
 title: Effective Methods for Packaging Applications Using a Repacker
-date: 2024-09-23T23:59:14.205Z
-updated: 2024-09-30T02:59:01.853Z
+date: 2024-10-03T16:41:23.077Z
+updated: 2024-10-05T19:39:24.627Z
 tags:
   - application-packaging-training
 categories:
@@ -19,11 +19,25 @@ thumbnail: https://thmb.techidaily.com/e9bfba9f2cfc27dda62a022203f7d3d74b3b40178
 
 ## Capturing an Application with Repackager
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Introduction to Advanced Installer's Repackager
 
 Advanced Installer includes a **powerful repackaging solution** for converting traditional installations into MSI packages. It offers a user-friendly interface and an array of features, simplifying the creation of professional and reliable MSI packages.
 
 ![Tip](https://cdn.advancedinstaller.com/svg/common/IconMessageTip.svg)You can try out Advanced Installer’s Repackager for free with the 30-day fully featured [Advanced Installer Trial](https://tools.techidaily.com/advancedinstaller/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![Advanced Installer Repackager](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager.png "Advanced Installer Repackager")  
 
@@ -60,10 +74,10 @@ Advanced Repackager is a feature-rich tool that automates the process of capturi
 * Generating the Installer Package: Advanced Repackager generates an installer package based on the modifications after reviewing and customizing the captured changes. Additional installation options, such as installation location, user prompts, and uninstallation options, are available. The installer package that results is ready for distribution and deployment.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What is Session Monitoring ?
@@ -117,33 +131,33 @@ File Type Filters allow you to narrow down your file selection based on their ty
 
 ![repackager filter settings files](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-filter-settings-files.png "repackager filter settings files")  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Files and Folders Filters enable you to include or exclude specific folders from the installation. You can define folder filters based on their names or patterns, allowing you to precisely control which folders are included or excluded.
 
 ![repackager filter settings files folders](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-filter-settings-files-folders.png "repackager filter settings files folders")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Registry Filters give you the ability to include or exclude specific registry entries from the installation. By defining registry filters based on key paths or patterns, you can ensure that only the required registry settings are included in the package.
 
 ![repackager filter settings registry](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-filter-settings-registry.png "repackager filter settings registry")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Process Filters allow you to include or exclude specific processes during the installation. You can define process filters based on process names or patterns, ensuring that the installation process is not affected by unwanted processes.
 
 ![repackager filter settings processes](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-filter-settings-processes.png "repackager filter settings processes")  
 
 While it may appear to be a bit overwhelming, especially for inexperienced IT professionals, the default settings provided by Advanced Repackager are more than sufficient to handle the majority of the repackaging operations that are required. The additional settings are for experienced IT Professionals who know exactly how to fine-tune the product to maximize their scenarios and achieve the best results possible.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Capture cleanup
 
@@ -189,25 +203,11 @@ Once you click on the desired snapshot method, a prompt will appear to save the 
 
 ![repackager vlc sandbox](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-vlc-sandbox.png "repackager vlc sandbox")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once everything is done you now have an RPK project with all the captured modifications in the sandbox. 
 
 As mentioned earlier, this is where the cleanup part of the capture comes in. In the first tab you have the possibility to add the general information of your package, such as the application name, version, publisher. In our case the application name is VLC Media Player, the version is 3.0.18 and the publisher is VideoLAN.
 
 ![repackager vlc information](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-vlc-information.png "repackager vlc information")  
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The next tab refers to digital signatures, a topic which is coming more and more important even to MSI packages due to the [newly implemented SAC security by Microsoft](https://tools.techidaily.com/advancedinstaller/products/). For the purposes of this tutorial we will skip this tab, but keep in mind that if you intend to deploy MSIX packages, digital signatures are not optional.
 
@@ -220,10 +220,10 @@ During this run, our repackager was successful in identifying only files and fol
 ![repackager vlc files and folders](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-vlc-files-and-folders.png "repackager vlc files and folders")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We then proceed to the registry tab, where we must perform some cleanups. Looking in the HKEY CURRENT USER hive, we see that we have the classes associated with VLC, as well as some file extensions for VLC, but we also have some captured registry that is clearly unrelated to our application, so those registry keys will be removed.
@@ -253,26 +253,32 @@ Now is the time to define other file associations for which VLC is now marked, a
 
 ![repackager vlc system file associations](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-vlc-system-file-associations.png "repackager vlc system file associations")  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After you've cleaned everything up, you can open the resulting project in Advanced Installer by clicking the button in the upper tab.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you look closely, there are three types of builds available (MSI, MSIX, APP-V). For the purposes of this tutorial we will only leave MSI selected, but check out the next chapter to learn more about this feature.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Advanced Installer will gather all of the necessary resources and generate a new AIP project for you to further customize or build the MSI.
 
 ![Repackager VLC Media Player](https://cdn.advancedinstaller.com/img/using-the-repackager-to-create-msi-installer/ai-repackager-vlc-AI.png "Repackager VLC Media Player")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -290,24 +296,22 @@ Advanced Installer will gather all of the necessary resources and generate a new
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/updated-ai-integration-for-vr-marketplaces/"><u>[Updated] AI Integration for VR Marketplaces</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-quick-tip-to-uncover-your-recently-watched-movies-on-fb/"><u>[Updated] In 2024, Quick Tip to Uncover Your Recently Watched Movies on FB</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-in-depth-analysis-asus-proart-pa-329q-4k-monitor/"><u>[Updated] In-Depth Analysis Asus ProArt PA 329Q 4K Monitor</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-mastering-audio-transformation-complete-morphvox-techniques-for-2024/"><u>[Updated] Mastering Audio Transformation Complete MorphVOX Techniques for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726030172013-aviutl/"><u>音声編集ガイド：AviUtlでの切り取り・レベリング技術を学ぶ</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-task-efficiency-through-gpt-3-insights/"><u>Enhancing Task Efficiency Through GPT-3 Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-camon-30-pro-5g-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Camon 30 Pro 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Max Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-streamline-your-youtube-channel-url-with-these-tips/"><u>In 2024, Streamline Your YouTube Channel URL with These Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-canva-imagery-top-10-pro-level-techniques/"><u>Mastering Canva Imagery Top 10 Pro-Level Techniques</u></a></li>
-<li><a href="https://win-updates.techidaily.com/no-more-plugins-embedding-rtsp-video-feeds-on-web-pages-using-vlcs-html5-transcoder/"><u>No More Plugins: Embedding RTSP Video Feeds on Web Pages Using VLC's HTML5 Transcoder</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1726029980771-ogg/"><u>Oggファイル改竢・マージ・カット・レベル変更のための劣化しない編集手法</u></a></li>
-<li><a href="https://win-updates.techidaily.com/pros-and-cons-free-and-professional-editions-of-zune-video-converter-analysis/"><u>Pros and Cons: Free and Professional Editions of Zune Video Converter Analysis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-steps-converting-mov-files-to-wma-format-using-windows/"><u>Simple Steps: Converting Mov Files to Wma Format Using Windows</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-top-5-elite-4k-video-transcoding-software/"><u>The Ultimate Guide: Top 5 Elite 4K Video Transcoding Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-transforming-video-and-audio-files-into-various-formats/"><u>Ultimate Guide: Transforming Video and Audio Files Into Various Formats</u></a></li>
-<li><a href="https://win-updates.techidaily.com/why-and-how-to-access-windows-11-using-your-microsoft-365-business-account-expert-tips-from-zdnet/"><u>Why and How to Access Windows 11 Using Your Microsoft 365 Business Account | Expert Tips From ZDNET</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/yamaha-mcr-b020bl-small-speakers-with-big-impact/"><u>Yamaha MCR-B020BL: Small Speakers with Big Impact</u></a></li>
-<li><a href="https://win-updates.techidaily.com/44oa44km44oz44ot44o844oj44oy44or44or44o844ks5l244gj44gf44ot44oh44kq44oa44km44oz44ot44o844oj44gr5asx5pwx44gz44kl5ac05zci44gu6kej5rg6562w/"><u>ダウンロードヘルパーを使ったビデオダウンロードに失敗する場合の解決策</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nriching-youtube-channels-amp-up-with-songs-for-2024/"><u>[New] Enriching Youtube Channels Amp up with Songs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-seamless-screen-capture-software-w10-edition-for-2024/"><u>[New] Seamless Screen Capture Software, W10 Edition for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-maximizing-your-android-game-adventure-with-kinemaster-review/"><u>[Updated] 2024 Approved Maximizing Your Android Game Adventure with KineMaster Review</u></a></li>
+<li><a href="https://win-updates.techidaily.com/2-step-by-step-guide-moving-android-chat-history-to-your-personal-computer/"><u>2. Step-by-Step Guide: Moving Android Chat History to Your Personal Computer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/can-you-trust-password-management-tools-exploring-their-vulnerability-to-hacking-incidents/"><u>Can You Trust Password Management Tools? Exploring Their Vulnerability to Hacking Incidents</u></a></li>
+<li><a href="https://win-hot.techidaily.com/decoding-surface-pro-options-arm-or-intel-core-dilemma-explained-deep-dive-with-zdnet/"><u>Decoding Surface Pro Options: ARM or Intel Core Dilemma Explained | Deep Dive with ZDNet</u></a></li>
+<li><a href="https://driver-error.techidaily.com/dolby-advanced-audio-driver-not-working-in-windows-solved/"><u>Dolby Advanced Audio Driver Not Working in Windows [Solved]</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-tutorial-on-retrieving-files-and-photos-via-icloud-backup/"><u>Easy Tutorial on Retrieving Files and Photos via iCloud Backup</u></a></li>
+<li><a href="https://win-updates.techidaily.com/essential-guide-mastering-genshin-impact-gameplay-on-your-computer/"><u>Essential Guide: Mastering Genshin Impact Gameplay on Your Computer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-automate-driver-installation-and-removal-with-vbscript-and-powershell/"><u>How to Automate Driver Installation and Removal with VBScript & PowerShell</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nokia-g310-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nokia G310 Quickly? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/is-it-beneficial-to-run-multiple-antivirus-software-simultaneously-on-a-single-pc-insights-from-malwarefox/"><u>Is It Beneficial to Run Multiple Antivirus Software Simultaneously on a Single PC: Insights From MalwareFox</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/live-broadcast-faceoff-obs-vs-shadowtoolkit-for-2024/"><u>Live Broadcast Faceoff OBS Vs. ShadowToolkit for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/quick-guide-how-to-seamlessly-add-vcard-contacts-to-your-iphone/"><u>Quick Guide: How to Seamlessly Add vCard Contacts to Your iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-how-to-fix-razer-synapse-app-wont-launch/"><u>Resolved: How to Fix Razer Synapse App Won't Launch</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-apowersoft-mac-audio-recording-tutorial-a-step-by-step-users-manual/"><u>Ultimate Apowersoft Mac Audio Recording Tutorial: A Step-by-Step User's Manual</u></a></li>
 </ul></div>
 

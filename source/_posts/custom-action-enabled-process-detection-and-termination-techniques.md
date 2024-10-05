@@ -1,7 +1,7 @@
 ---
 title: Custom Action-Enabled Process Detection & Termination Techniques
-date: 2024-09-28T17:46:51.609Z
-updated: 2024-09-29T20:21:50.175Z
+date: 2024-10-02T17:33:04.308Z
+updated: 2024-10-05T16:59:58.386Z
 tags:
   - application-packaging-training
 categories:
@@ -24,10 +24,10 @@ The [custom actions](https://tools.techidaily.com/advancedinstaller/products/) t
 So let’s start an article series where we touch 9 of the most popular custom actions that are used in the industry. In these articles we will have a look on how you can implement them easily with Advanced Installer but also by using VBScript or PowerShell custom actions.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Terminate Process in Advanced Installer
@@ -44,13 +44,6 @@ For example, let’s say I want to terminate the notepad.exe process. With Advan
 
 ![AI Terminate Process](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AITermProcess.png "AI Terminate Process")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. Build and run the installation
 
 The above example is configured to run only during the installation. If you want to run the same action during the uninstall sequence check the “Uninstall” checkbox and under condition modify to the following:
@@ -58,13 +51,6 @@ The above example is configured to run only during the installation. If you want
 NOT Installed OR REMOVE~=ALL
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Terminate Process with VBScript
 
@@ -130,6 +116,13 @@ Once you have your VBScript ready, open Advanced Installer and perform the follo
 
 4\. Build and run the installer
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Terminate Process with PowerShell
 
 Similar to VBScript, there are two ways in which you are able to terminate a process with PowerShell. 
@@ -167,6 +160,13 @@ Once you have your PowerShell script ready, open Advanced Installer and perform 
 ![Run PowerShell script file](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AIPowerSHTermProcess.png "Run PowerShell script file")  
 
 5\. Build and run the Installer
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Particular Terminate Process Scenario
 
@@ -318,17 +318,17 @@ This VBScript checks if the process "notepad.exe" is running on the local comput
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure that the ISPROCESSRUNNING property is available in the MSI before executing the script.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Detect Process with PowerShell
@@ -360,13 +360,6 @@ You can also write the PowerShell code directly into Advanced Installer by doing
 ![Run PowerShell inline script](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AIPowerShDetect.png "Run PowerShell inline script")  
 
 4\. Build and run the installation
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Wait for Process with VBScript
 
@@ -405,6 +398,13 @@ While notepad.exe is running, the script continues to run, thus blocking the ins
 * Loop: Returns to the start of the loop and checks the process collection count again. If there are still processes, the loop continues.
 * Set objWMIService = Nothing and Set colProcessList = Nothing: Releases the references to the WMI service and the process collection to free up system resources.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Wait for Process with PowerShell
 
 With PowerShell it’s even easier to wait for a process because PowerShell offers the [Wait-Process cmdlet](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/wait-process?view=powershell-7.3 "Wait-Process cmdlet") which can be easily used as such:
@@ -430,14 +430,24 @@ Of course you can easily add it in Advanced Installer as previously shown with t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-10-music-discoveries-on-spotify/"><u>[New] In 2024, Top 10 Music Discoveries on Spotify</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-dns-configuration-a-step-by-step-guide-for-changing-ip-addresses-in-windows-os/"><u>Mastering DNS Configuration: A Step-by-Step Guide for Changing IP Addresses in Windows OS</u></a></li>
-<li><a href="https://win-updates.techidaily.com/syncing-mobile-photographs-with-your-desktop-tips-for-android-users-on-windows-computers-zdnet/"><u>Syncing Mobile Photographs with Your Desktop: Tips for Android Users on Windows Computers | ZDNet</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-future-of-winamp-beyond-open-source-exploring-its-strategic-shift-explained-by-zdnet/"><u>The Future of Winamp Beyond Open-Source: Exploring Its Strategic Shift Explained by ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/uncover-hidden-cameras-fix-their-absence-in-dm/"><u>Uncover Hidden Cameras: Fix Their Absence in DM</u></a></li>
-<li><a href="https://facebook.techidaily.com/unearthing-birthday-reminders-in-your-fb-timeline/"><u>Unearthing Birthday Reminders in Your FB Timeline</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/what-is-the-best-free-stop-motion-animation-software-check-this-article-if-you-are-curious-about-the-answer-we-will-recommend-8-editors-for-windows-and-mac-/"><u>What Is the Best Free Stop Motion Animation Software? Check This Article if You Are Curious About the Answer. We Will Recommend 8 Editors for Windows and Mac for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/why-and-how-to-access-windows-11-using-your-microsoft-365-business-account-expert-tips-from-zdnet/"><u>Why and How to Access Windows 11 Using Your Microsoft 365 Business Account | Expert Tips From ZDNET</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-techniques-for-securing-ps4-gameplay-moments/"><u>[New] In 2024, Essential Techniques for Securing PS4 Gameplay Moments</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>[New] The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-full-hd-watching-of-twit-videos-for-2024/"><u>[Updated] Streamlining Full HD Watching of Twit Videos for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-premier-5-ios-photo-background-swap-apps/"><u>[Updated] The Premier 5 iOS Photo Background Swap Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/cant-connect-to-xbox-online-server-outage-or-local-internet-problems/"><u>Can't Connect to Xbox Online - Server Outage or Local Internet Problems?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/cant-delete-mcafee-from-your-system-successful-steps-to-fully-eliminate-mcafee-antivirus/"><u>Can't Delete McAfee From Your System? Successful Steps to Fully Eliminate McAfee Antivirus</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-to-successfully-downloading-tunes-on-your-lg-smartphone/"><u>Easy Steps to Successfully Downloading Tunes on Your LG Smartphone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/find-and-install-updated-hp-deskjet-2700-printing-software-download-tutorial/"><u>Find and Install Updated HP Deskjet 2700 Printing Software: Download Tutorial</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-13-pro-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 13 Pro Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/live-streaming-smartphones-and-highlighting-user-intent-with-actionable-words-like-guide-and-switching/"><u>Live Streaming, Smartphones, and Highlighting User Intent with Actionable Words Like Guide and Switching.</u></a></li>
+<li><a href="https://win-updates.techidaily.com/resolving-connection-issues-compatibility-between-iphones-phone-manager-and-itunes-version-121/"><u>Resolving Connection Issues: Compatibility Between iPhone's Phone Manager and iTunes Version 12.1</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/smartpet-solutions-reviewed-top-value-findings/"><u>SmartPet Solutions Reviewed: Top Value Findings</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-disabling-find-my-iphone-feature-safely-without-a-passcode/"><u>Step-by-Step Guide: Disabling Find My iPhone Feature Safely without a Passcode</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-recognizing-and-stopping-malicious-programs-via-task-manager/"><u>Step-by-Step Guide: Recognizing and Stopping Malicious Programs via Task Manager</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-safeguarding-your-facebook-presence-against-hacking-and-privacy-breaches/"><u>Step-by-Step Guide: Safeguarding Your Facebook Presence Against Hacking and Privacy Breaches</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-5-stunning-websites-that-echo-the-vibe-of-lastfm/"><u>Top 5 Stunning Websites That Echo the Vibe of Last.fm</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-6-image-enhancement-software-picking-the-best-from-various-platforms/"><u>Top 6 Image Enhancement Software Picking the Best From Various Platforms</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/visual-language-warp-the-photographic-transformers-guide/"><u>Visual Language Warp The Photographic Transformer's Guide</u></a></li>
 </ul></div>
 

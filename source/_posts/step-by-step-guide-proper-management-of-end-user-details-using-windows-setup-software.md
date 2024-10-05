@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Proper Management of End-User Details Using Windows Setup Software"
-date: 2024-09-29T03:28:48.161Z
-updated: 2024-09-29T19:09:48.250Z
+date: 2024-10-01T18:39:40.612Z
+updated: 2024-10-05T17:45:26.917Z
 tags:
   - application-packaging-training
 categories:
@@ -50,13 +50,6 @@ We already have the advertised shortcut option on all of the shortcuts, so we'll
 
 ![ai vlc hkcu](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-hkcu.png "ai vlc hkcu")  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 We need user registry keys so that the self-healing mechanism detects their absence when a user launches the shortcuts and initiates the actions. When the self-healing mechanism kicks in, it also considers the custom actions in the sequence.
 
 The user data files are then moved to a per-machine location. To do so, go to the Files and Folders page and create a new folder called UserData under the Application Folder, then drag the previously created vlc folder under the Application Data and drop it under the newly created UserData. At the end, it should look like this:
@@ -64,10 +57,10 @@ The user data files are then moved to a per-machine location. To do so, go to th
 ![ai vlc user data per machine](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine.png "ai vlc user data per machine")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We can now be certain that the files that must be copied on each user profile are always present on a per-machine basis, and that the files will be available even if the MSI is deleted. The final step is to create a custom action that copies the files from the UserData folder to the %appdata% folder.
@@ -101,6 +94,13 @@ Then, launch Advanced Installer and go to the Custom Actions Page. Look for the 
 
 ![ai vlc user data per machine vbscript](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-vbscript.png "ai vlc user data per machine vbscript")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The code for the PowerShell script:
 
 $programfiles = $env:ProgramW6432
@@ -124,6 +124,13 @@ Then, launch Advanced Installer and go to the Custom Actions Page. Search for th
 
 ![ai vlc user data per machine powershell](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-powershell.png "ai vlc user data per machine powershell")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Scenario two - Active Setup
 
 The only difference between scenarios 1 and 2 is that in the active setup case, we disable the advertised shortcuts and do not require any other HKCU registry keys. After you've disabled the advertised shortcuts, go to the Product Details page and look for the Active Setup tab.
@@ -131,28 +138,15 @@ The only difference between scenarios 1 and 2 is that in the active setup case, 
 ![ai vlc user data per machine active setup page](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-active-setup-page.png "ai vlc user data per machine active setup page")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In here, click on New and you can leave everything as default in the new window that appears.
 
 ![ai vlc user data per machine active setup config](https://cdn.advancedinstaller.com/img/best-practices-for-user-data/ai-vlc-user-data-per-machine-active-setup-config.png "ai vlc user data per machine active setup config")  
-
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We have discussed more in-depth about the [Active Setup mechanism in our first book](https://tools.techidaily.com/advancedinstaller/products/), but if we check what the above settings mean we end up with the following:
 
@@ -184,17 +178,19 @@ And that is it, in both cases after the application is installed we have ensured
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-ultimate-collection-best-zero-price-photo-editing-software/"><u>[New] 2024 Approved The Ultimate Collection Best Zero-Price Photo Editing Software</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-shining-up-photos-on-instagram-three-effective-ways-for-2024/"><u>[New] Shining Up Photos on Instagram Three Effective Ways for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-rising-tide-of-infographics-for-social-insights-for-2024/"><u>[New] The Rising Tide of Infographics for Social Insights for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-frame-by-frame-findings-insightful-recorder-analysis-for-2024/"><u>[Updated] Frame by Frame Findings Insightful Recorder Analysis for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-pc-hdr-optimization-made-simple-for-2024/"><u>[Updated] PC HDR Optimization Made Simple for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/iuwlleeuuplusodhplusocpoodsplusocvplusodvoodroodvooctplusodpplusodsplusockueqhuinoplusobmeocizog44k544og44o844k644gn44kv44oq44ki44gq5yan55sf5pa55rovig/"><u>動画デインターレーションを理解する: スムーズでクリアな再生方法</u></a></li>
-<li><a href="https://win-updates.techidaily.com/compatibility-issues-with-quicktime-files-heres-how-to-resolve-them-thoroughly/"><u>Compatibility Issues with QuickTime Files? Here's How to Resolve Them Thoroughly</u></a></li>
-<li><a href="https://win-updates.techidaily.com/efficient-techniques-for-reducing-file-size-m4a-audio-compression-on-pcs-and-mac/"><u>Efficient Techniques for Reducing File Size: M4A Audio Compression on PCs & MAC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-book-migration-converting-and-sharing-reading-materials-from-windowsmac-os-to-ios-devices/"><u>Effortless Book Migration: Converting and Sharing Reading Materials From Windows/Mac OS to iOS Devices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-conversion-techniques-for-turning-dem-demos-into-watchable-mp4-formats/"><u>Effortless Conversion Techniques for Turning DEM Demos Into Watchable MP4 Formats</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/effortless-pdf-modification-techniques-discover-3-simple-strategies/"><u>Effortless PDF Modification Techniques: Discover 3 Simple Strategies</u></a></li>
-<li><a href="https://win-updates.techidaily.com/restore-your-tunes-troubleshooting-and-fixing-no-sound-problems-in-windows-media-player-for-windows-1110-users/"><u>Restore Your Tunes: Troubleshooting and Fixing No Sound Problems in Windows Media Player for WIndows 11/10 Users</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-becoming-a-snapchat-videography-pro-time-control-tactics/"><u>[New] 2024 Approved Becoming a Snapchat Videography Pro Time Control Tactics</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-capturing-screenshots-like-a-pro-the-best-recorder-reviews/"><u>[New] 2024 Approved Capturing Screenshots Like a Pro The Best Recorder Reviews</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamline-your-gameplay-win10-screen-record-tech/"><u>[New] In 2024, Streamline Your Gameplay Win10 Screen Record Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-360-degree-panoramic-shot-systems/"><u>[Updated] 2024 Approved 360 Degree Panoramic Shot Systems</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-speeding-up-periscope-live-broadcasting-tips/"><u>2024 Approved Speeding Up Periscope Live Broadcasting Tips</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comparing-repackaging-strategies-the-role-of-snapshots-and-the-psappdeploytoolkit/"><u>Comparing Repackaging Strategies: The Role of Snapshots and the PSAppDeployToolkit</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-techniques-in-command-line-for-deploying-software-packages/"><u>Effective Techniques in Command Line for Deploying Software Packages</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-guide-transforming-mp3-files-into-high-quality-320kbps-audio/"><u>Effortless Guide: Transforming MP3 Files Into High-Quality 320Kbps Audio</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-on-accelerating-slow-connection-issues/"><u>Expert Advice on Accelerating Slow Connection Issues</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-automate-driver-installation-and-removal-with-vbscript-and-powershell/"><u>How to Automate Driver Installation and Removal with VBScript & PowerShell</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/in-depth-analysis-of-top-iphone-6-screenshot-tools-a-review/"><u>In-Depth Analysis of Top iPhone 6 Screenshot Tools: A Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastery-of-spotify-ad-formats-and-best-practices/"><u>Mastery of Spotify Ad Formats and Best Practices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mcafee-uninstallation-issues-discover-the-ultimate-guide-to-completely-remove-it/"><u>McAfee Uninstallation Issues? Discover The Ultimate Guide To Completely Remove It</u></a></li>
 </ul></div>
 

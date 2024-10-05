@@ -1,7 +1,7 @@
 ---
 title: "Urgent Warning: Your Mac Compromised - Signs of Gmail Phishing & Trojan Threats"
-date: 2024-09-25T08:32:53.125Z
-updated: 2024-09-29T23:56:21.899Z
+date: 2024-10-03T16:40:19.356Z
+updated: 2024-10-05T19:52:35.998Z
 tags:
   - product
   - antivirus
@@ -31,10 +31,10 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 ![Fake Notifications Mac](https://www.malwarefox.com/wp-content/uploads/2024/02/Fake-Notifications-Mac.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Threat Analysis
@@ -47,13 +47,6 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 | **Damage**              | Annoying user Experience                                                                                                                                              |
 | **Removal**             | Scanning Your System through an antivirus/Uninstalling deceptive software/Blocking notifications from random websites                                                 |
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why am I receiving these notifications?
 
 Here’s the truth: these alerts are being dispatched to you through[website push notifications](https://tools.techidaily.com/malwarefox/products/). A dubious website has somehow tricked you into giving it permission to send notifications. Now, it’s abusing that privilege by flooding you with fabricated alarms.
@@ -61,10 +54,10 @@ Here’s the truth: these alerts are being dispatched to you through[website pus
 The masterminds behind this scheme are banking on your fear. They hope you’ll click on the alerts and be transported to their webpage. Once there, they’ll either demand payment or offer you a software download to “fix” a problem that doesn’t exist. It’s a classic scare tactic aimed to dupe you into parting with your money for a service you don’t actually need.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Am I Really Under Threat?
@@ -75,6 +68,13 @@ Manually removing threats may be a time-consuming and difficult task that needs 
 
 [Download TotalAV](https://tools.techidaily.com/malwarefox/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How Do I Remove These Fake Mac Notifications?
 
 The silver lining here is that you can halt these exasperating notifications, and it’s simpler than you anticipate. Since the alerts stem from your web browser, the removal process hinges on the browser you’re using.
@@ -84,16 +84,10 @@ For Safari users, here’s your route: Settings -> Websites -> Notifications. Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2024/02/safari-notifications.webp)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For Chrome users, your path is slightly different: 
@@ -119,19 +113,20 @@ Follow this, and you’ll [get rid of unwanted chrome alerts](https://tools.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-mastering-deleted-yt-content-two-simplified-approaches/"><u>[New] In 2024, Mastering Deleted YT Content Two Simplified Approaches</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-commencing-a-community-benefit-contest-online/"><u>2024 Approved Commencing a Community Benefit Contest Online</u></a></li>
-<li><a href="https://win-updates.techidaily.com/iuwlleeuuplusodhplusocpoodsplusocvplusodvoodroodvooctplusodpplusodsplusockueqhuinoplusobmeocizog44k544og44o844k644gn44kv44oq44ki44gq5yan55sf5pa55rovig/"><u>動画デインターレーションを理解する: スムーズでクリアな再生方法</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accelerated-learning-quick-start-to-becoming-a-lut-expert-for-2024/"><u>Accelerated Learning Quick Start to Becoming a LUT Expert for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/boost-workflow-with-these-8-cutting-edge-ai-chrome-extensions/"><u>Boost Workflow with These 8 Cutting-Edge AI Chrome Extensions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/detailed-instructions-mastering-the-art-of-uploading-vr-media-to-fb-for-2024/"><u>Detailed Instructions Mastering the Art of Uploading VR Media to FB for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-conversion-techniques-for-turning-dem-demos-into-watchable-mp4-formats/"><u>Effortless Conversion Techniques for Turning DEM Demos Into Watchable MP4 Formats</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/h-your-presentations-include-youtube-videos-in-slate/"><u>Enrich Your Presentations - Include YouTube Videos in Slate</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/restore-your-tunes-troubleshooting-and-fixing-no-sound-problems-in-windows-media-player-for-windows-1110-users/"><u>Restore Your Tunes: Troubleshooting and Fixing No Sound Problems in Windows Media Player for WIndows 11/10 Users</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-flac-file-reader-apps-for-windows-10-users/"><u>Top FLAC File Reader Apps for Windows 10 Users</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-making-triggered-memes-with-filmora-video-editor/"><u>Updated In 2024, Making Triggered Memes with Filmora Video Editor</u></a></li>
-<li><a href="https://win-updates.techidaily.com/wavmp43/"><u>WAVからMP4へ変換するための3つの最新方法とアプリケーションをご紹介</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725286037701-winxdvd/"><u>WinXDVD 용인 기술 사전 학습: 코스를 안내하는 우수한 모듈화 팩</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-architecting-top-quality-canon-chrono-films/"><u>[New] Architecting Top Quality Canon Chrono Films</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-groundbre-folio-of-gaming-loggers-alternatives-to-fbx-for-2024/"><u>[Updated] Groundbre Folio of Gaming Loggers Alternatives to FBX for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-sonic-streamline-the-playlist-conveyor-belt-trick/"><u>2024 Approved Sonic Streamline The Playlist Conveyor Belt Trick</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Infinix Hot 40</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-12-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 12 5G</u></a></li>
+<li><a href="https://win-updates.techidaily.com/implementing-tailored-responses-identify-and-halt-system-processes/"><u>Implementing Tailored Responses: Identify & Halt System Processes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-x6-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco X6 Location | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-utorrent-media-player-seamless-streaming/"><u>In 2024, UTorrent Media Player Seamless Streaming</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-video-narrative-enhancer/"><u>In 2024, Video Narrative Enhancer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/protect-your-system-with-ease-experience-exceptional-security-using-free-anti-malware-tools-by-malwarefox/"><u>Protect Your System with Ease - Experience Exceptional Security Using Free Anti-Malware Tools by MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-creating-your-own-protective-usb-key-for-windows-10-defense/"><u>Step-by-Step Guide: Creating Your Own Protective USB Key for Windows 10 Defense</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-turning-off-inprivate-browsing-in-google-chrome-with-malwarefox/"><u>Step-by-Step Guide: Turning Off InPrivate Browsing in Google Chrome with MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-solutions-for-securing-video-content-through-effective-copyright-measures/"><u>Top Solutions for Securing Video Content Through Effective Copyright Measures</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unveiling-the-truth-about-identity-theft-shields-are-they-really-helping-or-just-luring-you-into-a-false-sense-of-security/"><u>Unveiling the Truth About Identity Theft Shields: Are They Really Helping or Just Luring You Into a False Sense of Security?</u></a></li>
 </ul></div>
 

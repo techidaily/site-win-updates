@@ -1,7 +1,7 @@
 ---
 title: "Effective Application Repackaging Methods: Mastering MSI Vs. EXE File Formats"
-date: 2024-09-30T18:03:34.459Z
-updated: 2024-10-05T19:58:56.963Z
+date: 2024-10-06T02:35:35.055Z
+updated: 2024-10-10T19:56:52.631Z
 tags:
   - application-packaging-training
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/dfb31f4a374c12c54be4691af9a495853d8fa50fd
 ## Way forward for your installer
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Strategies for Repackaging Applications: MSI and EXE Approaches
@@ -42,10 +42,10 @@ The first step is to determine whether the EXE requires repackaging or if it con
 * Use [Process Monitor](https://learn.microsoft.com/en-us/sysinternals/downloads/procmon "Process Monitor")
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Using Process Monitor to Detect embedded MSI in EXE
@@ -67,10 +67,10 @@ To detect if an EXE contains an embedded MSI with Process Monitor, follow these 
 ![process monitor operation is process create](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-operation-is-process-create.png "process monitor operation is process create")  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- These filters will record events related to the EXE installer and any MSI files used during its execution.
@@ -88,10 +88,10 @@ For example, if we install Tableau Reader and start the Process Monitor tool and
 ![process monitor detect msi](https://cdn.advancedinstaller.com/img/repackaging-action-steps/process-monitor-detect-msi.png "process monitor detect msi")  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 We're most interested in the Path and Detail columns. Looking at what TableauReader.exe does, it first extracts the installer data into a temporary directory in the %temp% directory, then installs the Visual C++ Redistributables 2013, followed by the Tableau Reader. However, if we look closely, we can see that the msiexec.exe service is called, indicating that the exe file is extracting the file in that %temp% location.
@@ -113,16 +113,16 @@ This is an example where you will need to create a transform file (MST) to furth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-quick-methods-for-saving-google-voice-communication/"><u>[New] 2024 Approved Quick Methods for Saving Google Voice Communication</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/njoy-premium-video-artwork-download-at-no-cost-today/"><u>[New] Enjoy Premium Video Artwork - Download at No Cost Today</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-step-by-step-full-ps4-game-recording-in-obs-studio/"><u>[New] Step-by-Step Full PS4 Game Recording in OBS Studio</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-elaborate-inspection-gopro-silver-hero4-unit-test/"><u>[Updated] In 2024, Elaborate Inspection GoPro Silver HERO4 Unit Test</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-core-elements-in-virtual-narrative-design/"><u>2024 Approved Core Elements in Virtual Narrative Design</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-can-malicious-software-evade-detection-by-security-suites-insights-from-malwarefox/"><u>How Can Malicious Software Evade Detection by Security Suites: Insights From MalwareFox</u></a></li>
-<li><a href="https://win-updates.techidaily.com/leading-green-screen-application-tools-for-live-video-streaming-platforms/"><u>Leading Green Screen Application Tools for Live Video Streaming Platforms</u></a></li>
-<li><a href="https://win-updates.techidaily.com/learn-cutting-edge-methods-for-msi-product-packaging-using-our-comprehensive-video-series/"><u>Learn Cutting-Edge Methods for MSI Product Packaging Using Our Comprehensive Video Series</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simplest-methods-for-removing-images-from-your-ipad/"><u>Simplest Methods for Removing Images From Your iPad</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unleashing-power-integrating-chatgpt-and-wolfram-alpha-plugin-techniques/"><u>Unleashing Power: Integrating ChatGPT and Wolfram Alpha Plugin Techniques</u></a></li>
-<li><a href="https://win-updates.techidaily.com/why-does-google-send-you-to-bing-understanding-and-resolving-unintended-redirection/"><u>Why Does Google Send You to Bing? Understanding & Resolving Unintended Redirection</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-the-art-of-selecting-premium-free-srt-translation-services/"><u>[New] Mastering the Art of Selecting Premium Free SRT Translation Services</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-expert-guide-to-eliminating-red-eye-on-your-iphone-shots-for-free-for-2024/"><u>[Updated] Expert Guide to Eliminating Red Eye on Your iPhone Shots for Free for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-xiaomi-redmi-k70-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Xiaomi Redmi K70 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/advanced-techniques-in-editing-registry-settings-using-advanced-installer/"><u>Advanced Techniques in Editing Registry Settings Using Advanced Installer</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-s24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy S24 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/clear-video-logger-for-windows-10-systems-for-2024/"><u>Clear Video Logger for Windows 10 Systems for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-for-enabling-tamper-defense-in-windows-10-insights-from-malwarefox-experts/"><u>Effective Strategies for Enabling Tamper Defense in Windows 10 - Insights From MalwareFox Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-fixes-for-the-not-found-error-in-msi-dll-file/"><u>Essential Fixes for the Not Found Error in MSI DLL File</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guard-your-system-with-malwarefox-a-powerful-defense-for-ransomware-threats/"><u>Guard Your System with MalwareFox - A Powerful Defense for Ransomware Threats</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/slow-down-time-10-exceptional-video-editing-software/"><u>Slow Down Time 10 Exceptional Video Editing Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-ultimate-guide-choosing-the-top-4-best-android-emulators-for-samsungs/"><u>The Ultimate Guide: Choosing the Top 4 Best Android Emulators for Samsungs</u></a></li>
 </ul></div>
 

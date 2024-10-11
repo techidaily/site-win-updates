@@ -1,7 +1,7 @@
 ---
 title: "Guide: Utilizing VBScript and PowerShell for Efficient Driver Management Tasks"
-date: 2024-09-28T19:58:50.831Z
-updated: 2024-10-05T16:33:26.790Z
+date: 2024-10-07T02:25:06.484Z
+updated: 2024-10-10T20:31:17.608Z
 tags:
   - application-packaging-training
 categories:
@@ -44,13 +44,6 @@ For the full list of commands which DPInst supports, you can use the following:
 DPInst_x64.exe /?
 
 Copy
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### PnPUtil
 
@@ -129,26 +122,32 @@ Once we have the scripts done and the DPInst utility downloaded, open Advanced I
 ![add the DPInst utility with the HP.inf](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstvbscript.png "add the DPInst utility with the HP.inf")  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Next, navigate to the Custom Actions Page and add the **Launch attached file** predefined custom action into the sequence, select the installation vbscript file that was previously created and configure the Custom Action as such:
 
 ![add the Launch attached file predefined custom action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstvbscriptCAINST.png "add the Launch attached file predefined custom action")  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Repeat the same steps for the uninstall script and configure the custom action as follows:
 
 ![uninstall script and configure the custom action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstvbscriptCAUNINST.png "uninstall script and configure the custom action")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And that is it, build your package and install it and the driver will appear as installed.
 
@@ -246,19 +245,6 @@ Repeat the same process for the uninstall script and configure the Custom Action
 
 ![configure the Custom Action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstPSUninst.png "configure the Custom Action")  
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Next, build the package and during installation/uninstallation the PowerShell scripts will run and install/uninstall the driver.
 
 If we are going with the PnPUtil route, the script to install is quite simple:
@@ -298,9 +284,23 @@ Navigate to the Drivers page and click on **New Driver**. A window will open for
 
 ![select the .inf file](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/advinstdriverinst.png "select the .inf file")  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Advanced Installer parses the .INF file and detects what is needed and you have multiple settings to choose from:
 
 ![parses the .INF file](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/advinstdriverinstconfig.png "parses the .INF file")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 And that is it, all you have to do is build the MSI and install the package. Simple right?
 
@@ -319,22 +319,21 @@ And that is it, all you have to do is build the MSI and install the package. Sim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-unforgettable-visions-the-top-15-stop-motion-film-classics/"><u>[New] 2024 Approved Unforgettable Visions The Top 15 Stop-Motion Film Classics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/apple-unveils-vision-pro-the-ultimate-machine-for-entertainment-discover-its-features/"><u>Apple Unveils Vision Pro: The Ultimate Machine for Entertainment - Discover Its Features</u></a></li>
-<li><a href="https://win-updates.techidaily.com/best-7-mobile-digital-scrapbooking-applications-for-ios-and-android-devices/"><u>Best 7 Mobile Digital Scrapbooking Applications for iOS and Android Devices</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/canons-portable-vintage-designed-camera-powershot-g9x2-a-photographers-dream/"><u>Canon's Portable Vintage-Designed Camera, PowerShot G9X2: A Photographer’s Dream</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-steps-to-disable-and-eliminate-faux-microsoft-edge-security-warnings/"><u>Effective Steps to Disable and Eliminate Faux Microsoft Edge Security Warnings</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-display-of-bluetooth-in-computer-settings/"><u>How To Restore Display of Bluetooth in Computer Settings</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-poco-c55-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Poco C55</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-authoritative-list-affordable-visuals-online/"><u>In 2024, Authoritative List Affordable Visuals Online</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-space-saver-strategies-pioneering-the-best-cloud-platforms/"><u>In 2024, Space-Saver Strategies Pioneering the Best Cloud Platforms</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-the-art-of-editing-with-apowerpdf-a-comprehensive-guide/"><u>Mastering the Art of Editing with ApowerPDF: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-proper-management-of-end-user-details-using-windows-setup-software/"><u>Step-by-Step Guide: Proper Management of End-User Details Using Windows Setup Software</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/straightforward-steps-to-mastering-flipper-written-communication-on-windows-for-2024/"><u>Straightforward Steps to Mastering Flipper' Written Communication on Windows for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/strengthen-your-network-safeguards-with-these-8-basic-tips-by-malwarefox/"><u>Strengthen Your Network Safeguards with These 8 Basic Tips by MalwareFox</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/top-5-apps-for-language-teachers/"><u>Top 5 Apps For Language Teachers</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-techniques-for-downloading-high-quality-anime-audio-files/"><u>Top Techniques for Downloading High-Quality Anime Audio Files</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-tips-effortless-conversion-from-avi-to-m4v-files/"><u>Top Tips: Effortless Conversion From AVI to M4V Files</u></a></li>
-<li><a href="https://win-updates.techidaily.com/trustworthy-anti-spyware-software-malwarefoxs-proven-defense-strategy-against-unwanted-tracking/"><u>Trustworthy Anti-Spyware Software: MalwareFox's Proven Defense Strategy Against Unwanted Tracking</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-best-fusion-of-cost-effective-and-premium-video-collage-for-android-devices/"><u>[New] Best Fusion of Cost-Effective and Premium Video Collage for Android Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-future-of-content-creation-profitability-on-youtube-for-2024/"><u>[New] The Future of Content Creation Profitability on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-building-a-successful-online-presence-wirecast-streaming-to-youtube/"><u>[Updated] Building a Successful Online Presence WireCast Streaming to Youtube</u></a></li>
+<li><a href="https://win-updates.techidaily.com/essential-techniques-for-preserving-contact-information-on-android-devices/"><u>Essential Techniques for Preserving Contact Information on Android Devices</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-zte-nubia-z60-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/leveraging-digital-intelligence-how-modern-businesses-are-evolving-with-abbyys-insights/"><u>Leveraging Digital Intelligence: How Modern Businesses Are Evolving with ABBYY's Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-the-art-with-sony-fdr-x1000v-action-footage/"><u>Mastering the Art with Sony FDR-X1000V Action Footage</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-in-2024-the-ultimate-list-of-no-cost-audio-to-text-transformation-tools-for-multimedia-creators/"><u>New In 2024, The Ultimate List of No-Cost Audio-to-Text Transformation Tools for Multimedia Creators</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mac-gopro-editing-101-from-import-to-export/"><u>New Mac GoPro Editing 101 From Import to Export</u></a></li>
+<li><a href="https://win-updates.techidaily.com/new-release-alert-explore-the-advanced-capabilities-of-apowermanager-version-30/"><u>New Release Alert: Explore the Advanced Capabilities of ApowerManager Version 3.0!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/securing-file-transfers-comprehensive-guide-to-defending-against-krack-vulnerability/"><u>Securing File Transfers: Comprehensive Guide to Defending Against KRACK Vulnerability</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-capturing-your-safari-sessions-on-iphone/"><u>Step-by-Step Guide: Capturing Your Safari Sessions on iPhone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-disabling-find-my-iphone-feature-safely-without-a-passcode/"><u>Step-by-Step Guide: Disabling Find My iPhone Feature Safely without a Passcode</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-5-essential-tactics-to-fortify-your-gmail-security-against-cyber-attacks/"><u>Top 5 Essential Tactics to Fortify Your Gmail Security Against Cyber Attacks</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unlocking-affordable-data-rescue-solutions-the-best-free-replacement-for-mackeeper-on-macs-and-pcs/"><u>Unlocking Affordable Data Rescue Solutions: The Best Free Replacement for Mackeeper on Macs and PCs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-apple-macbook-pro-16-inch-m1-2021-the-ultimate-gadget-showdown/"><u>Unveiling Apple MacBook Pro 16-Inch (M1, 2021): The Ultimate Gadget Showdown</u></a></li>
 </ul></div>
 

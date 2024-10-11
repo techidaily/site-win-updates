@@ -1,7 +1,7 @@
 ---
 title: "Mastering DNS Configuration: A Step-by-Step Guide for Changing IP Addresses in Windows OS"
-date: 2024-10-01T17:19:30.219Z
-updated: 2024-10-05T19:28:41.163Z
+date: 2024-10-05T22:25:44.913Z
+updated: 2024-10-10T23:31:44.482Z
 tags:
   - windows
 categories:
@@ -27,24 +27,31 @@ The process for setting up God Mode is the same in Windows 10 and 11, but here, 
 
 ## How to set up God Mode in Windows 11 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Check your account
 
 First, make sure you're signed into your Windows 11 PC with an account that has administrative privileges. By default, your own account should have the necessary rights. To confirm this, go to Settings, select the category for Accounts, and then check the setting for "Your Info" to make sure your account is designated as Administrator.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 2\. Create a new folder
 
 Next, right-click on any empty area of the Desktop. In the popup menu, move to New and select the command for Folder**.**
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3\. Rename the new folder
 
@@ -56,10 +63,10 @@ When done, press Enter.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4\. Launch the icon
@@ -73,13 +80,6 @@ Screenshot by Lance Whitney/ZDNET
 Alternatively, you can search for a specific command or applet in the God Mode window. Just type the keyword or term in the Search field to view the related results.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Double-click the command to launch it
 
@@ -98,24 +98,18 @@ When done, click Next.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Name the shortcut
 
 At the next screen, you can now enter any name you wish for the shortcut. Click Finish.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 9\. Change the icon
 
@@ -162,17 +156,22 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/2024-approved-investigating-the-practical-usefulness-of-photo-stabilization/"><u>2024 Approved Investigating the Practical Usefulness of Photo Stabilization</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-tutorial-on-retrieving-files-and-photos-via-icloud-backup/"><u>Easy Tutorial on Retrieving Files and Photos via iCloud Backup</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-techniques-in-command-line-for-deploying-software-packages/"><u>Effective Techniques in Command Line for Deploying Software Packages</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-guide-transforming-mp3-files-into-high-quality-320kbps-audio/"><u>Effortless Guide: Transforming MP3 Files Into High-Quality 320Kbps Audio</u></a></li>
-<li><a href="https://windows11.techidaily.com/elevating-mouse-interaction-with-clicklock-in-windows/"><u>Elevating Mouse Interaction with ClickLock in Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-tips-for-great-title-creation/"><u>Essential Tips for Great Title Creation</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-the-huawei-p10s-user-interface-and-usability/"><u>Exploring the Huawei P10's User Interface & Usability</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/golden-text-in-3d-selecting-quality-online-sites/"><u>Golden Text in 3D Selecting Quality Online Sites</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-automate-driver-installation-and-removal-with-vbscript-and-powershell/"><u>How to Automate Driver Installation and Removal with VBScript & PowerShell</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-msvcr110dll-is-missing-advanced-guide/"><u>How to Fix MSVCR110.dll Is Missing [Advanced Guide]</u></a></li>
-<li><a href="https://win-updates.techidaily.com/in-depth-analysis-of-top-iphone-6-screenshot-tools-a-review/"><u>In-Depth Analysis of Top iPhone 6 Screenshot Tools: A Review</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-capturing-knowledge-three-approaches-with-mac/"><u>[New] Capturing Knowledge Three Approaches with Mac</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-in-2024-creating-engaging-content-for-effective-discord-live-streams/"><u>[New] In 2024, Creating Engaging Content for Effective Discord Live Streams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-harmonizing-tech-and-artistry-mac-studios/"><u>[New] In 2024, Harmonizing Tech & Artistry Mac Studios</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-6-best-nft-makers-for-artists-to-unleash-imagination/"><u>[Updated] 2024 Approved 6 Best NFT Makers for Artists to Unleash Imagination</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/decoding-the-process-how-to-use-system-restore-correctly/"><u>Decoding the Process: How to Use System Restore Correctly</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-to-capture-your-epic-lol-moments-a-beginners-guide/"><u>Easy Steps to Capture Your Epic LoL Moments: A Beginner's Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/has-dashlane-lost-its-edge-a-fresh-look-at-todays-leading-password-managers/"><u>Has Dashlane Lost Its Edge? A Fresh Look at Today's Leading Password Managers.</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-effortlessly-take-screenshots-with-your-htc-smartphone/"><u>How To Effortlessly Take Screenshots with Your HTC Smartphone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-record-movies-on-pc-mac-and-smartphones/"><u>How to Record Movies on PC, Mac, and Smartphones?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-easy-screenshot-methods-for-mac-users/"><u>In 2024, Easy Screenshot Methods for Mac Users</u></a></li>
+<li><a href="https://discover-great.techidaily.com/quick-fixes-for-damaged-mov-videos-4-simple-steps-to-recover-your-footage/"><u>Quick Fixes for Damaged MOV Videos: 4 Simple Steps to Recover Your Footage</u></a></li>
+<li><a href="https://win-updates.techidaily.com/safeguard-internet-exploration-on-chrome-the-leading-antivirus-solutions-for-banks-and-shopping/"><u>Safeguard Internet Exploration on Chrome: The Leading Antivirus Solutions for Banks & Shopping</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-the-mystery-of-googles-sudden-diverts-to-bing-causes-and-solutions-explained/"><u>Solving the Mystery of Google's Sudden Diverts to Bing: Causes & Solutions Explained</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-installing-and-setting-up-services-using-msi-package-manager/"><u>Step-by-Step Guide: Installing and Setting Up Services Using MSI Package Manager</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-prime-10-list-of-incredible-mac-friendly-monitors/"><u>The Prime 10 List of Incredible Mac-Friendly Monitors</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-8-secure-browser-add-ons-enhance-safety-with-chrome-protectors-like-malwarefox/"><u>Top 8 Secure Browser Add-Ons: Enhance Safety with Chrome Protectors Like MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-picks-the-ultimate-christmas-card-creation-apps-for-stunning-holiday-images-2022-edition/"><u>Top Picks: The Ultimate Christmas Card Creation Apps for Stunning Holiday Images - 2022 Edition</u></a></li>
 </ul></div>
 

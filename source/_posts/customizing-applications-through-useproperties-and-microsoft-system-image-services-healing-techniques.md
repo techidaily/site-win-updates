@@ -1,7 +1,7 @@
 ---
 title: Customizing Applications Through UseProperties & Microsoft System Image Services Healing Techniques
-date: 2024-10-04T17:27:23.541Z
-updated: 2024-10-05T18:57:40.372Z
+date: 2024-10-06T02:22:14.570Z
+updated: 2024-10-10T19:38:17.921Z
 tags:
   - application-packaging-training
 categories:
@@ -20,10 +20,10 @@ thumbnail: https://thmb.techidaily.com/cfe1e4fd673ca5fb5a36d3dc03d18f188db631104
 ## Application Customization
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Significance of Advertised Shortcuts
@@ -39,13 +39,6 @@ What is to take is that if your application contains multiple features, but the 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more information regarding shortcuts, check out our first [MSI Packaging Essentials ebook](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What is Self-Healing
 
 The MSI (Microsoft Installer) self-healing mechanism is a powerful feature that ensures the integrity and availability of installed applications. It is intended to detect and repair any missing or corrupted files, registry entries, or other components of an application, preserving the application's functionality and preventing potential problems.
@@ -53,13 +46,6 @@ The MSI (Microsoft Installer) self-healing mechanism is a powerful feature that 
 When an MSI-based application is installed, Windows Installer creates a comprehensive installation database known as the installation package or MSI package. This package contains all of the resources and information needed to install and maintain the application. Files, registry entries, shortcuts, components, and other configuration settings are all included. This small MSI it’s also known as the “cached MSI” and can be found in the %systemroot%\\installer folder. 
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)It is very important to mention that manual interventions for the Installer folder should never be done. For more details about the Installer folder check out [this article](https://tools.techidaily.com/advancedinstaller/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Specific events, such as the launch of an application, the opening of a document associated with the application, or the invocation of a Windows Installer action such as repair or modify, initiate the self-healing process. When any of these events occurs, Windows Installer validates the application's integrity by comparing the recorded installation information to the current state of the system.
 
@@ -116,10 +102,17 @@ It is important to understand these base concepts as we will dive deeper into th
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)For more details about Properties, check out our first [MSI Packaging Essentials ebook](https://tools.techidaily.com/advancedinstaller/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Custom vlc settings
@@ -185,6 +178,13 @@ Because all the files used by the shortcuts are included in the MSI package, we 
 
 ![ai shorcut advertised shortcut](https://cdn.advancedinstaller.com/img/application-customization/ai-shorcut-advertised-shortcut.png "ai shorcut advertised shortcut")  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When the package is installed and a user opens a shortcut, the MSI will perform a self-healing action and copy the previously placed files to the currently logged in user profile.
 
 However, while this solution may work, it does not represent industry best practice, and we must consider some other issues that may arise if we place user data in this manner.
@@ -204,22 +204,22 @@ However, while this solution may work, it does not represent industry best pract
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-enhance-videos-on-vimeo-with-top-video-editors-for-2024/"><u>[New] Enhance Videos on Vimeo with Top Video Editors for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-prime-premiere-pro-blueprints-best-free-2023/"><u>[New] Prime Premiere Pro Blueprints - Best Free 2023</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-seamless-integration-free-text-animations-both-ways/"><u>[New] Seamless Integration Free Text Animations Both Ways</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-behind-the-lens-on-your-macbook-webcam/"><u>2024 Approved Behind the Lens on Your MacBook Webcam</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/brilliant-barrage-essential-gadgets-for-clips-for-2024/"><u>Brilliant Barrage Essential Gadgets for Clips for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/complete-step-by-step-guide-to-screen-record-functionality-on-ios-11-devices/"><u>Complete Step-by-Step Guide to Screen Record Functionality on iOS 11 Devices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/demystifying-the-mrbeast-prize-scheme-tips-for-staying-safe-from-potential-frauds/"><u>Demystifying the MrBeast Prize Scheme: Tips for Staying Safe From Potential Frauds</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-techniques-to-fully-eliminate-adchoices-pop-ups-permanently/"><u>Effective Techniques to Fully Eliminate AdChoices Pop-Ups Permanently</u></a></li>
-<li><a href="https://win-updates.techidaily.com/evaluating-the-security-of-microsofts-latest-os-a-comprehensive-guide-to-windows-11-safety/"><u>Evaluating the Security of Microsoft's Latest OS: A Comprehensive Guide to Windows 11 Safety</u></a></li>
-<li><a href="https://win-updates.techidaily.com/identifying-fraudulent-android-applications-expert-tips-from-malwarefox/"><u>Identifying Fraudulent Android Applications: Expert Tips From MalwareFox</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastery-in-migration-transitioning-to-macos-11-big-sur-effortlessly/"><u>In 2024, Mastery in Migration Transitioning to macOS 11 Big Sur Effortlessly</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ultimate-guide-7-high-ranking-audio-transformation-apps/"><u>In 2024, Ultimate Guide 7 High-Ranking Audio Transformation Apps</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-6-fantastic-tools-to-sharpen-your-images-in-2n2-free-and-premium-options-available/"><u>Top 6 Fantastic Tools to Sharpen Your Images in 2N2 - Free and Premium Options Available</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-8-secure-password-management-tools-compatible-with-windows-10/"><u>Top 8 Secure Password Management Tools Compatible with Windows 10</u></a></li>
-<li><a href="https://win-updates.techidaily.com/transferring-iphone-visuals-onto-desktop-techniques-and-tools-for-easy-display-syncing/"><u>Transferring iPhone Visuals Onto Desktop: Techniques and Tools for Easy Display Syncing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-10-cutting-edge-tools-that-outshine-chatgpt/"><u>Unveiling the Top 10 Cutting-Edge Tools That Outshine ChatGPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-flawless-cross-sound-mixing-in-audacity-pro/"><u>[New] Flawless Cross-Sound Mixing in Audacity Pro</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-lenovo-quick-guide-effortless-screenshots/"><u>[New] In 2024, Lenovo Quick Guide Effortless Screenshots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-non-retweeting-video-tweets-from-your-phone/"><u>[Updated] 2024 Approved Non-Retweeting Video Tweets From Your Phone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unraveling-the-merits-of-stabilized-photo-editing-with-adobe/"><u>[Updated] Unraveling the Merits of Stabilized Photo Editing with Adobe</u></a></li>
+<li><a href="https://win-updates.techidaily.com/2-step-by-step-guide-moving-android-chat-history-to-your-personal-computer/"><u>2. Step-by-Step Guide: Moving Android Chat History to Your Personal Computer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-tutorial-on-retrieving-files-and-photos-via-icloud-backup/"><u>Easy Tutorial on Retrieving Files and Photos via iCloud Backup</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-techniques-in-command-line-for-deploying-software-packages/"><u>Effective Techniques in Command Line for Deploying Software Packages</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-guide-transforming-mp3-files-into-high-quality-320kbps-audio/"><u>Effortless Guide: Transforming MP3 Files Into High-Quality 320Kbps Audio</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-gigabyte-network-adapter-drivers-download-latest-versions-available/"><u>Free Gigabyte Network Adapter Drivers Download - Latest Versions Available</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-automate-driver-installation-and-removal-with-vbscript-and-powershell/"><u>How to Automate Driver Installation and Removal with VBScript & PowerShell</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-8-unavailable-issue-with-ease-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 8 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-yuva-2-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Yuva 2 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-v-purse-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor V Purse</u></a></li>
+<li><a href="https://win-updates.techidaily.com/in-depth-analysis-of-top-iphone-6-screenshot-tools-a-review/"><u>In-Depth Analysis of Top iPhone 6 Screenshot Tools: A Review</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mac-video-excellence-the-creme-de-la-liste-for-sierra-users/"><u>Mac Video Excellence The Crème De La Liste for Sierra Users</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mcafee-uninstallation-issues-discover-the-ultimate-guide-to-completely-remove-it/"><u>McAfee Uninstallation Issues? Discover The Ultimate Guide To Completely Remove It</u></a></li>
+<li><a href="https://win-updates.techidaily.com/quick-guide-how-to-seamlessly-add-vcard-contacts-to-your-iphone/"><u>Quick Guide: How to Seamlessly Add vCard Contacts to Your iPhone</u></a></li>
 </ul></div>
 

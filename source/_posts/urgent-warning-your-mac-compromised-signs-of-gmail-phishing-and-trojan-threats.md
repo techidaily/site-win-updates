@@ -1,7 +1,7 @@
 ---
 title: "Urgent Warning: Your Mac Compromised - Signs of Gmail Phishing & Trojan Threats"
-date: 2024-10-03T16:40:19.356Z
-updated: 2024-10-05T19:52:35.998Z
+date: 2024-10-03T16:15:36.776Z
+updated: 2024-10-11T02:21:36.337Z
 tags:
   - product
   - antivirus
@@ -31,10 +31,16 @@ That’s right. These messages are not real but merely attention-seeking gimmick
 ![Fake Notifications Mac](https://www.malwarefox.com/wp-content/uploads/2024/02/Fake-Notifications-Mac.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Threat Analysis
@@ -54,10 +60,10 @@ Here’s the truth: these alerts are being dispatched to you through[website pus
 The masterminds behind this scheme are banking on your fear. They hope you’ll click on the alerts and be transported to their webpage. Once there, they’ll either demand payment or offer you a software download to “fix” a problem that doesn’t exist. It’s a classic scare tactic aimed to dupe you into parting with your money for a service you don’t actually need.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Am I Really Under Threat?
@@ -69,10 +75,10 @@ Manually removing threats may be a time-consuming and difficult task that needs 
 [Download TotalAV](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How Do I Remove These Fake Mac Notifications?
@@ -84,10 +90,16 @@ For Safari users, here’s your route: Settings -> Websites -> Notifications. Fr
 ![](https://www.malwarefox.com/wp-content/uploads/2024/02/safari-notifications.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For Chrome users, your path is slightly different: 
@@ -113,20 +125,16 @@ Follow this, and you’ll [get rid of unwanted chrome alerts](https://tools.tech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-architecting-top-quality-canon-chrono-films/"><u>[New] Architecting Top Quality Canon Chrono Films</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-groundbre-folio-of-gaming-loggers-alternatives-to-fbx-for-2024/"><u>[Updated] Groundbre Folio of Gaming Loggers Alternatives to FBX for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sonic-streamline-the-playlist-conveyor-belt-trick/"><u>2024 Approved Sonic Streamline The Playlist Conveyor Belt Trick</u></a></li>
-<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-infinix-hot-40-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Infinix Hot 40</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-realme-12-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Realme 12 5G</u></a></li>
-<li><a href="https://win-updates.techidaily.com/implementing-tailored-responses-identify-and-halt-system-processes/"><u>Implementing Tailored Responses: Identify & Halt System Processes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-poco-x6-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Poco X6 Location | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-utorrent-media-player-seamless-streaming/"><u>In 2024, UTorrent Media Player Seamless Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-video-narrative-enhancer/"><u>In 2024, Video Narrative Enhancer</u></a></li>
-<li><a href="https://win-updates.techidaily.com/protect-your-system-with-ease-experience-exceptional-security-using-free-anti-malware-tools-by-malwarefox/"><u>Protect Your System with Ease - Experience Exceptional Security Using Free Anti-Malware Tools by MalwareFox</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-creating-your-own-protective-usb-key-for-windows-10-defense/"><u>Step-by-Step Guide: Creating Your Own Protective USB Key for Windows 10 Defense</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-turning-off-inprivate-browsing-in-google-chrome-with-malwarefox/"><u>Step-by-Step Guide: Turning Off InPrivate Browsing in Google Chrome with MalwareFox</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-solutions-for-securing-video-content-through-effective-copyright-measures/"><u>Top Solutions for Securing Video Content Through Effective Copyright Measures</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unveiling-the-truth-about-identity-theft-shields-are-they-really-helping-or-just-luring-you-into-a-false-sense-of-security/"><u>Unveiling the Truth About Identity Theft Shields: Are They Really Helping or Just Luring You Into a False Sense of Security?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlined-techniques-for-efficient-apple-screenshots/"><u>[New] In 2024, Streamlined Techniques for Efficient Apple Screenshots</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamline-your-video-production-ipad-time-lapse/"><u>[New] Streamline Your Video Production IPad Time-Lapse</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000305380-solved-among-us-keeps-crashing-2024-tips/"><u>[SOLVED] Among Us Keeps Crashing - 2024 Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-cutting-with-vivacuts-full-review-2024/"><u>[Updated] Master the Art of Cutting with VivaCut's Full Review 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-boosting-video-playback-speed-on-instagram/"><u>2024 Approved Boosting Video Playback Speed on Instagram</u></a></li>
+<li><a href="https://win-updates.techidaily.com/essential-techniques-for-preserving-contact-information-on-android-devices/"><u>Essential Techniques for Preserving Contact Information on Android Devices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guide-utilizing-vbscript-and-powershell-for-efficient-driver-management-tasks/"><u>Guide: Utilizing VBScript and PowerShell for Efficient Driver Management Tasks</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/navigating-a-silent-printer-in-office/"><u>Navigating a Silent Printer in Office</u></a></li>
+<li><a href="https://win-updates.techidaily.com/new-release-alert-explore-the-advanced-capabilities-of-apowermanager-version-30/"><u>New Release Alert: Explore the Advanced Capabilities of ApowerManager Version 3.0!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-capturing-your-safari-sessions-on-iphone/"><u>Step-by-Step Guide: Capturing Your Safari Sessions on iPhone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-5-essential-tactics-to-fortify-your-gmail-security-against-cyber-attacks/"><u>Top 5 Essential Tactics to Fortify Your Gmail Security Against Cyber Attacks</u></a></li>
 </ul></div>
 

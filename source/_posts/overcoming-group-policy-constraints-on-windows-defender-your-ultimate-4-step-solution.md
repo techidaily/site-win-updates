@@ -1,7 +1,7 @@
 ---
 title: Overcoming Group Policy Constraints on Windows Defender – Your Ultimate 4-Step Solution
-date: 2024-09-28T19:37:50.422Z
-updated: 2024-10-05T19:14:36.019Z
+date: 2024-10-10T00:48:51.938Z
+updated: 2024-10-10T19:30:15.717Z
 tags:
   - product
   - antivirus
@@ -52,13 +52,6 @@ There could be a number of reasons for this error to happen. Here are the most c
 * Cybercriminals might have used infiltrate Group Policy using [malware](https://tools.techidaily.com/malwarefox/products/) to disable the security of the Windows system.
 * Some unauthorized changes in the Group Policies can also lead to the error. The changes can be made by mistake or intentionally too.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to fix “Windows Defender is Turned off by Group Policy”?
 
 ### **Using Group Policy Editor**
@@ -67,14 +60,28 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 1. Search for the **Group Policy Editor** in the windows search bar and launch it.![Open Group Policy Editor](https://www.malwarefox.com/wp-content/uploads/2020/06/Group-Policy-Editor.png)
 2. In the editor, navigate to: **Computer Configuration** \-> **Administrative Templates** \-> **Windows Components** \-> **Microsoft Defender Antivirus**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Locate “**Turn off Microsoft Defender Antivirus**” and double click on it to open it.![Turn Off Microsoft Defender Antivirus](https://www.malwarefox.com/wp-content/uploads/2020/10/Turn-Off-Microsoft-Defender-Antivirus.png)
 4. In order to enable the Microsoft Defender, click on the **Disabled** bullet.![Enable-MS-Defender](https://www.malwarefox.com/wp-content/uploads/2020/10/Enable-MS-Defender.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Click **Apply** and **OK** to finish the configuration.
@@ -89,21 +96,14 @@ There could be a number of reasons for this error to happen. Here are the most c
 2. Navigate to or copy & paste this path to reach the Windows Defender folder: **HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Policies\\Microsoft\\Windows Defender**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Right-click on the **DisableRealTimeMonitoring** key and Delete it.![Delete DisableRealtimeMonitoring key](https://www.malwarefox.com/wp-content/uploads/2020/10/Delete-DisableRealtimeMonitoring-key.png)
 4. Exit from the Registry Editor and reboot your system to apply the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -115,10 +115,10 @@ There could be a number of reasons for this error to happen. Here are the most c
 2. Type or copy & paste this command and hit the enter key: **_Set-MpPreference -DisableRealtimeMonitoring 0_**![Enable MS defender with Powershell](https://www.malwarefox.com/wp-content/uploads/2020/10/Enable-MS-defender-with-Powershell.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -127,25 +127,32 @@ There could be a number of reasons for this error to happen. Here are the most c
 
 1. Right-click on the windows start icon and choose Settings from the list.![Settings](https://www.malwarefox.com/wp-content/uploads/2020/10/Settings.png)
 2. Select **Update & Security** settings.![Update and Security](https://www.malwarefox.com/wp-content/uploads/2020/10/Update-and-Security.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. From the left-pane choose **Windows Security**![launch windows security](https://www.malwarefox.com/wp-content/uploads/2020/10/launch-windows-security.png)
 4. Next, click on **Virus & threat protection**.![Choose virus & threat protection](https://www.malwarefox.com/wp-content/uploads/2020/10/Choose-virus-threat-protection.png)
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Navigate to Virus & threat protection settings and click on **Manage settings**.![manage V&T settings](https://www.malwarefox.com/wp-content/uploads/2020/10/manage-VT-settings.png)
 6. Toggle the switch to turn on the Microsoft Defender **real-time protection**.![turn On the Real Time protection](https://www.malwarefox.com/wp-content/uploads/2020/10/turn-On-the-RT-protection.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -168,6 +175,13 @@ Windows Defender on your system can be turned off because of the various reasons
 **Where is Windows Defender in group policy?** 
 
 To edit the Windows Defender settings in the group policy editor, you can follow this path: **Local Computer Policy > Administrative Templates > Windows Components > Windows Defender Antivirus.** In the latest Windows version, the name of the Windows Defender is changed to **Microsoft Defender.** On those systems, the path to be followed is: **Local Computer Policy > Administrative Templates > Windows Components > Microsoft Defender Antivirus**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -194,22 +208,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-level-up-your-livestream-game-using-obs-youtube-and-twitch/"><u>[New] In 2024, Level-Up Your Livestream Game Using OBS, YouTube & Twitch</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-professional-video-capture-techniques-mastering-movs-on-win10/"><u>[Updated] 2024 Approved Professional Video Capture Techniques Mastering MOVs on Win10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insta-story-mastery-adjusting-focus-like-a-pro/"><u>[Updated] In 2024, Insta Story Mastery Adjusting Focus Like a Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-editing-how-to-load-music-in-inshot/"><u>2024 Approved Streamline Editing How to Load Music in InShot</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-you-utilize-chatgpt-for-smart-home-automation-controls/"><u>Can You Utilize ChatGPT for Smart Home Automation Controls?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-steps-to-capture-your-epic-lol-moments-a-beginners-guide/"><u>Easy Steps to Capture Your Epic LoL Moments: A Beginner's Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-migration-how-to-sync-your-huawei-nova-9-with-a-windows-or-mac-pc/"><u>Effortless Migration: How to Sync Your Huawei Nova 9 with a Windows or Mac PC</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/find-and-install-updated-zebra-printer-drivers-on-your-windows-machine-easily/"><u>Find and Install Updated Zebra Printer Drivers on Your Windows Machine Easily</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-effortlessly-take-screenshots-with-your-htc-smartphone/"><u>How To Effortlessly Take Screenshots with Your HTC Smartphone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-capturing-the-unseen-gopro-hero-vs-nikons-km-170/"><u>In 2024, Capturing the Unseen GoPro HERO vs Nikon's KM-170</u></a></li>
-<li><a href="https://driver-download.techidaily.com/new-release-download-the-most-recent-amd-radeon-pro-w5700-drivers-for-windows-11107/"><u>New Release: Download the Most Recent AMD Radeon Pro W5700 Drivers for Windows 11/10/7</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-tutorial-on-reverting-google-chrome-mozilla-firefox-and-microsoft-edge-back-to-their-original-state/"><u>Simple Tutorial on Reverting Google Chrome, Mozilla Firefox and Microsoft Edge Back to Their Original State</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-installing-and-setting-up-services-using-msi-package-manager/"><u>Step-by-Step Guide: Installing and Setting Up Services Using MSI Package Manager</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-8-secure-browser-add-ons-enhance-safety-with-chrome-protectors-like-malwarefox/"><u>Top 8 Secure Browser Add-Ons: Enhance Safety with Chrome Protectors Like MalwareFox</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-picks-the-ultimate-christmas-card-creation-apps-for-stunning-holiday-images-2022-edition/"><u>Top Picks: The Ultimate Christmas Card Creation Apps for Stunning Holiday Images - 2022 Edition</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-rated-youtube-summary-tools-and-apps-the-ultimate-guide/"><u>Top Rated YouTube Summary Tools & Apps: The Ultimate Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-flv-video-editing-software-top-picks/"><u>Updated 2024 Approved Free FLV Video Editing Software Top Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-elevate-your-video-game-with-fb-upload-on-pc-and-android/"><u>[New] 2024 Approved Elevate Your Video Game with FB Upload on PC and Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-picks-exploring-the-best-screen-recorder-apps/"><u>[New] In 2024, Top Picks Exploring the Best Screen Recorder Apps</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-transform-your-videos-effortlessly-top-2-apps-for-changing-formats/"><u>1. Transform Your Videos Effortlessly: Top 2 Apps for Changing Formats</u></a></li>
+<li><a href="https://win-updates.techidaily.com/2-step-by-step-tutorial-effortlessly-signing-your-photos-in-minutes/"><u>2. Step-by-Step Tutorial: Effortlessly Signing Your Photos in Minutes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-selfie-sticks-for-iphone-users/"><u>2024 Approved Ideal Selfie Sticks for iPhone Users</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/camera-stabilizers-for-youtube-for-2024/"><u>Best Camera Stabilizers for YouTube for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-sony-xperia-1-v-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Sony Xperia 1 V Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comparing-individual-and-device-specific-software-deployment-strategies/"><u>Comparing Individual and Device-Specific Software Deployment Strategies</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-steps-for-developing-sturdy-and-protected-msi-programs/"><u>Comprehensive Steps for Developing Sturdy and Protected MSI Programs</u></a></li>
+<li><a href="https://win-updates.techidaily.com/identifying-smartphone-infections-a-step-by-step-guide-to-detecting-and-removing-mobile-viruses/"><u>Identifying Smartphone Infections: A Step-by-Step Guide to Detecting and Removing Mobile Viruses</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-account-security-changing-your-apple-id-password-on-various-iphones/"><u>Mastering Account Security: Changing Your Apple ID Password on Various iPhones</u></a></li>
+<li><a href="https://games-able.techidaily.com/selecting-your-ideal-raspberry-pi-emulator-batocera-vs-retropie/"><u>Selecting Your Ideal Raspberry Pi Emulator: Batocera Vs. RetroPie</u></a></li>
+<li><a href="https://win-updates.techidaily.com/strategies-and-tips-for-dominating-famous-war-games-on-a-personal-pc/"><u>Strategies and Tips for Dominating Famous War Games on a Personal PC</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y17s-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y17s Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unlocking-mastery-in-computer-case-customization-with-our-expertly-crafted-msi-packaging-manual/"><u>Unlocking Mastery in Computer Case Customization with Our Expertly Crafted MSI Packaging Manual</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-printer-software-hp-laserjet-pro-m428fdw-driver-supported-by-win7-10-and-11/"><u>Update Your Printer Software: HP LaserJet Pro M428fdw Driver Supported by Win7, 10, & 11</u></a></li>
 </ul></div>
 

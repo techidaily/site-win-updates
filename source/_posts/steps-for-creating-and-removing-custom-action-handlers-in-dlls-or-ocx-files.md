@@ -1,7 +1,7 @@
 ---
 title: Steps for Creating and Removing Custom Action Handlers in DLLs or OCX Files
-date: 2024-10-03T19:07:01.280Z
-updated: 2024-10-05T16:48:47.534Z
+date: 2024-10-03T20:51:52.803Z
+updated: 2024-10-10T21:14:51.165Z
 tags:
   - application-packaging-training
 categories:
@@ -22,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/971161d0d4b1da3c5be518691bc7a9fd7e29d3fe8
 Object Linking and Embedding (OLE) is a proprietary Microsoft technology that allows developers to embed and link to other objects. With OLE Control Extension (OCX), you can develop and use custom user interface elements. You can also achieve OLE controls via Dynamic-Link Library(.dll) files.
 
 However, to make sure the data transfer between applications work , these OLE controls must be registered on the system. How can we do that? That's what we will show you in this article.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What is the Regsvr32 tool?
 
@@ -54,10 +47,10 @@ Regsvr32 \[/u\] \[/n\] \[/i\[:cmdline\]\] <dllname>
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Regsvr32 must always be used from an elevated command prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For example, to register a DLL/OCX, you can use:
@@ -73,13 +66,6 @@ Regsvr32.exe /U PATHTODLL\name.DLL
 Copy
 
 ![Regsvr32 command-line utility](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/regsvr32.png "Regsvr32 command-line utility")  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with VBscript?
 
@@ -126,11 +112,25 @@ Copy
 
 ![register the DLL](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLRegisterVB.png "register the DLL")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We also want to unregister the DLL during uninstallation, so let's create another custom action the same way as we did previously. Except this time, select the unregister script and configure the Custom Action as seen below:
 
 ![unregister the DLL during uninstallation](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLUnregisterVB.png "unregister the DLL during uninstallation")  
 
 And that is it, all you need to do is **Build the MSI and install it.** The DLL will be registered.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with PowerShell?
 
@@ -163,14 +163,14 @@ For the unregister action, we follow the same steps as above and configure the C
 
 ![DLL Unregister PowerShell script](https://cdn.advancedinstaller.com/img/register-unregister-dll-ocx-files/DLLUnregisterPS.png "DLL Unregister PowerShell script")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And you're done, now you can Build the MSI and install it. The DLL will be registered.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Register DLL/OCX with Advanced Installer?
 
@@ -214,19 +214,16 @@ It creates the required registry entries so that your assembly is operable throu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-high-def-odyssey-of-youtubes-twitter-vids/"><u>[New] In 2024, The High-Def Odyssey of YouTube's Twitter Vids</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unveiling-the-secrets-of-video-filter-application-techniques/"><u>[New] Unveiling the Secrets of Video Filter Application Techniques</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-the-essential-guide-to-creating-cinematic-videos-in-camtasa/"><u>[Updated] In 2024, The Essential Guide to Creating Cinematic Videos in Camtasa</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/convert-and-enjoy-movies-on-ipod-touch-effortless-video-format-modification-tools/"><u>Convert and Enjoy Movies on iPod Touch: Effortless Video Format Modification Tools</u></a></li>
-<li><a href="https://win-updates.techidaily.com/convert-blu-ray-movies-into-playstation-3-compatible-format/"><u>Convert Blu-Ray Movies Into PlayStation 3 Compatible Format</u></a></li>
-<li><a href="https://win-updates.techidaily.com/exploring-the-ins-and-outs-of-msi-academy/"><u>Exploring the Ins and Outs of MSI Academy</u></a></li>
-<li><a href="https://win-updates.techidaily.com/hassle-free-techniques-how-to-efficiently-backup-your-ipad-by-bypassing-itunes/"><u>Hassle-Free Techniques: How to Efficiently Backup Your iPad by Bypassing iTunes</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-go-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark Go (2023) without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-true-black-and-vivid-colors-on-asus-pa32u/"><u>In 2024, Unleashing True Black & Vivid Colors on ASUS PA32U</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maintaining-image-quality-the-ultimate-guide-to-adjusting-gif-size-without-loss-of-clarity/"><u>Maintaining Image Quality: The Ultimate Guide to Adjusting GIF Size without Loss of Clarity</u></a></li>
-<li><a href="https://tools.techidaily.com/pcdj/products/"><u>Pcdj's Products</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-restore-your-data-using-the-top-rated-lg-optimus-g-pro-recovery-software/"><u>Step-by-Step Guide: Restore Your Data Using the Top Rated LG Optimus G Pro Recovery Software</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-companion-power-ups-a-playmates-guide-to-conquering-pokemon-go/"><u>Unlocking Companion Power-Ups: A Playmate's Guide to Conquering 'Pokemon GO'</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-chucklecraft-pixel-perfect-humor/"><u>[New] ChuckleCraft Pixel-Perfect Humor</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-methods-for-a-no-ads-experience-on-social-platforms-for-2024/"><u>[New] Methods for a No-Ads Experience on Social Platforms for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/custom-action-enabled-process-detection-and-termination-techniques/"><u>Custom Action-Enabled Process Detection & Termination Techniques</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/get-fluent-in-swedish-script-and-sounds-speedily/"><u>Get Fluent in Swedish Script & Sounds Speedily</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-nubia-z50-ultra-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Nubia Z50 Ultra Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-protected-are-your-files-on-windows-10-expert-advice-from-malwarefox/"><u>How Protected Are Your Files on Windows 10? Expert Advice From MalwareFox</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/master-the-solution-a-detailed-guide-to-prevent-fifa-21-game-crashes-on-pc/"><u>Master the Solution: A Detailed Guide to Prevent FIFA 21 Game Crashes on PC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/simple-steps-to-unlock-your-iphone-6-a-beginners-manual/"><u>Simple Steps to Unlock Your iPhone 6: A Beginner's Manual</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-transferring-your-redmi-smartphone-data-to-your-computer/"><u>Step-by-Step Guide: Transferring Your Redmi Smartphone Data to Your Computer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-capturing-screenshots-on-your-alcatel-one-touch-device/"><u>Ultimate Guide to Capturing Screenshots on Your Alcatel One Touch Device</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-comparing-titans-in-digital-audio-workstations-is-magix-samplitude-at-the-pinnacle/"><u>Updated In 2024, Comparing Titans in Digital Audio Workstations Is MAGIX Samplitude at the Pinnacle?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Repackaging Strategies: Revitalizing Your ClickOnce Software"
-date: 2024-09-29T18:16:03.020Z
-updated: 2024-10-05T19:59:08.513Z
+date: 2024-10-03T21:41:27.083Z
+updated: 2024-10-10T17:29:09.415Z
 tags:
   - application-packaging-training
 categories:
@@ -25,13 +25,6 @@ In one of our previous articles, we discussed [How to Replace the ClickOnce app 
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you want to learn more about repackaging, take a look at our [repackaging best practices](https://tools.techidaily.com/advancedinstaller/products/).
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### What are the challenges of repackaging a ClickOnce application?
 
 ClickOnce shares some similarities with MSIX – the main one being that they are **per-user applications**.
@@ -44,12 +37,26 @@ One mistake that we see happening very frequently is for IT Pros to convert Clic
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Never change the installation type of an application unless you fully understand how it works.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Usually, you want an application to save some settings or running information in files. For per-user applications, most vendors consider placing those setting files near the executable.
 
 The problem comes if you try to convert the application to per-machine. Why? Because users in an infrastructure will probably not have the necessary rights to write in a per-machine location.
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)Some might say that you can always give [additional permissions](https://tools.techidaily.com/advancedinstaller/products/) when you build your package, but that is a security point that needs a deeper discussion.   
 For now, let’s consider that additional permissions are not allowed on per-machine installations. Check out the [MSI Permissions Guide: Three Ways to Add Rights With your Installer](https://tools.techidaily.com/advancedinstaller/products/)  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to Repackage ClickOnce Applications?
 
@@ -59,13 +66,6 @@ As you will see, repackaging a ClickOnce application is not very different from 
 2. Once you repackaged your application, your AIP(Advanced Installer Project) should contain all the files in a per-user location:
 
 ![ClickOnce Repackaging](https://cdn.advancedinstaller.com/img/repackage-clickonce-application/clickonce-repackaging.png "ClickOnce Repackaging")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Best practices for Per-user applications
 
@@ -119,24 +119,18 @@ Copy
 
 ![ClickOnce Custom Action](https://cdn.advancedinstaller.com/img/repackage-clickonce-application/clickonce-custom-action.png "ClickOnce Custom Action")  
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4\. The next step is to implement a simple Active Setup into the MSI. In Advanced Installer,navigate to the [Product Details page](https://tools.techidaily.com/advancedinstaller/products/) and click on the Active Setup tab. 
 
 5\. There, click on **New** and only change the **Stub Path** from /fou to /fus and click **OK**.
 
 ![ClickOnce Active Setup](https://cdn.advancedinstaller.com/img/repackage-clickonce-application/clickonce-active-setup.png "ClickOnce Active Setup")  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6\. Now, the package is installing on a per-machine location and we have an Active Setup which will trigger the Custom Action that is introduced to copy the files to a per-user location once a user logs in. 
 
@@ -146,13 +140,6 @@ Copy
 
 ![ClickOnce Property](https://cdn.advancedinstaller.com/img/repackage-clickonce-application/clickonce-property.png "ClickOnce Property")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7.2 Once we have the property created, navigate to the [Shortcuts Page](https://tools.techidaily.com/advancedinstaller/products/) and create a new “External File” shortcut. The most important part here is to define the **Shortcut Targetdir** to point to:
 
 [SHORPATH]\Sample.exe
@@ -161,15 +148,28 @@ Copy
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)SHORPATH is the property we previously created, replace it with the property name you have created in your project.
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8\. At the end, the shortcut should look something like this:
 
 ![ClickOnce Shortcut](https://cdn.advancedinstaller.com/img/repackage-clickonce-application/clickonceshortcut.png "ClickOnce Shortcut")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 As you can see, the shortcut is placed on a per-machine location, but the target of the shortcut will point at the end to %appdata%\\Sample.exe:
@@ -191,21 +191,22 @@ As you can see, the shortcut is placed on a per-machine location, but the target
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-fostering-friendship-through-conversations-with-viewers/"><u>[New] Fostering Friendship Through Conversations With Viewers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-therapeutic-effects-of-asmr-for-everyone/"><u>[Updated] 2024 Approved The Therapeutic Effects of ASMR for Everyone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-high-altitude-heroes-aerospaces-persistent-innovations-top-10/"><u>[Updated] High Altitude Heroes Aerospace's Persistent Innovations (Top 10)</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-5-top-tier-gaming-displays-in-4k-quality/"><u>2024 Approved 5 Top-Tier Gaming Displays in 4K Quality</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-capturewin-the-hassle-free-screen-recorder/"><u>2024 Approved CaptureWin The Hassle-Free Screen Recorder</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/best-strategies-mastering-the-art-of-writing-in-pdf-documents/"><u>Best Strategies: Mastering the Art of Writing in PDF Documents</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to Android? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expedite-your-experience-quick-iphone-time-lapse/"><u>In 2024, Expedite Your Experience Quick iPhone Time-Lapse</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-the-removal-of-superfluous-android-programs-on-your-personal-computer-top-strategies-and-techniques/"><u>Mastering the Removal of Superfluous Android Programs on Your Personal Computer: Top Strategies and Techniques</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/quick-and-easy-way-to-record-iphone-screens-for-2024/"><u>Quick & Easy Way to Record iPhone Screens for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ransomware-explained-insights-and-prevention-tips-from-malwarefox/"><u>Ransomware Explained: Insights and Prevention Tips From MalwareFox</u></a></li>
-<li><a href="https://win-updates.techidaily.com/restore-missing-voicemail-audio-files-on-your-ios-device/"><u>Restore Missing Voicemail Audio Files on Your iOS Device</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-removing-the-white-canvas-in-microsoft-paint/"><u>Step-by-Step Guide: Removing the White Canvas in Microsoft Paint</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-5-online-image-shrinkers-of-2022-choosing-the-best-one/"><u>Top 5 Online Image Shrinkers of 2022 - Choosing the Best One</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-cloud-based-antivirus-advantages-over-classic-security-solutions/"><u>Understanding Cloud-Based Antivirus: Advantages Over Classic Security Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maintain-eye-contact-this-helps-establish-rapport-with-the-speaker-and-shows-your-engagement/"><u>[Updated] Maintain Eye Contact This Helps Establish Rapport with the Speaker and Shows Your Engagement</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/arias-novelty-in-audio-wearables/"><u>Aria's Novelty in Audio Wearables</u></a></li>
+<li><a href="https://win-updates.techidaily.com/best-techniques-for-professional-audio-capture-on-a-windows-10-pc/"><u>Best Techniques for Professional Audio Capture on a Windows 10 PC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-step-by-step-guide-to-screen-record-functionality-on-ios-11-devices/"><u>Complete Step-by-Step Guide to Screen Record Functionality on iOS 11 Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-fixes-for-when-rockalldlldll-is-mia-a-comprehensive-error-handling-tutorial/"><u>Easy Fixes for When Rockalldll.dll Is MIA: A Comprehensive Error Handling Tutorial</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-itel-p40-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Itel P40</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-methods-for-packaging-applications-using-a-repacker/"><u>Effective Methods for Packaging Applications Using a Repacker</u></a></li>
+<li><a href="https://win-updates.techidaily.com/evaluating-the-security-of-microsofts-latest-os-a-comprehensive-guide-to-windows-11-safety/"><u>Evaluating the Security of Microsoft's Latest OS: A Comprehensive Guide to Windows 11 Safety</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-on-dealing-with-microsoft-word-files-that-wont-load/"><u>Guide on Dealing with Microsoft Word Files That Won't Load</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-a-broken-link-in-terraria-5-effective-methods/"><u>How To Repair A Broken Link In Terraria - 5 Effective Methods</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-transfer-your-free-iphone-tracks-to-pc-or-mac-without-costs/"><u>How to Transfer Your Free iPhone Tracks to PC or Mac Without Costs</u></a></li>
+<li><a href="https://win-updates.techidaily.com/identifying-fraudulent-android-applications-expert-tips-from-malwarefox/"><u>Identifying Fraudulent Android Applications: Expert Tips From MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/protect-your-chrome-from-malicious-notification-attacks-essential-tips/"><u>Protect Your Chrome From Malicious Notification Attacks: Essential Tips</u></a></li>
+<li><a href="https://win-updates.techidaily.com/revive-your-missing-office-documents-expert-strategies-for-restoring-deleted-file-versions/"><u>Revive Your Missing Office Documents: Expert Strategies for Restoring Deleted File Versions</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/step-by-step-guide-converting-your-vimeo-videos-into-various-formats-like-mov-mp4-and-more/"><u>Step-by-Step Guide: Converting Your Vimeo Videos Into Various Formats Like MOV, MP4, and More</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-cutting-edge-of-cinematography-kinemasters-zoom-excellence/"><u>The Cutting Edge of Cinematography Kinemaster’s Zoom Excellence</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformation-gratuite-de-fichiers-jpg-en-bmp-directement-dans-votre-navigateur-solutions-de-movavi/"><u>Transformation Gratuite De Fichiers JPG en BMP Directement Dans Votre Navigateur - Solutions De Movavi</u></a></li>
 </ul></div>
 

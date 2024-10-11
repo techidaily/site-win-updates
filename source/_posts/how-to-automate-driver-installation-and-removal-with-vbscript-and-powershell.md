@@ -1,7 +1,7 @@
 ---
 title: How to Automate Driver Installation and Removal with VBScript & PowerShell
-date: 2024-09-30T18:55:49.807Z
-updated: 2024-10-05T17:52:26.930Z
+date: 2024-10-07T01:49:29.464Z
+updated: 2024-10-10T22:47:19.310Z
 tags:
   - application-packaging-training
 categories:
@@ -24,10 +24,10 @@ Working with drivers is not something to be worried about. Although the MSI tech
 Let’s have a look at how you can install drivers with MSI by taking different approaches.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### DPInst
@@ -52,19 +52,6 @@ DPInst_x64.exe /?
 
 Copy
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### PnPUtil
 
 Unlike DPInst, [PnPUtil](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/pnputil "PnPUtil")tool comes natively into the OS and lets an administrator perform actions on driver packages. lets an administrator perform actions on driver packages. With it you can add a driver package to the store, install a driver package on the computer and delete a driver package.
@@ -82,6 +69,19 @@ PNPUtil.exe /?
 Copy
 
 Now that we know two methods which we can use to install the drivers, let’s see how we can use them in VBScript or PowerShell.
+
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installing drivers with VBScript
 
@@ -241,6 +241,13 @@ Next, navigate to the Custom Actions Page and add the **Run PowerShell script fi
 
 ![add the Run PowerShell script file predefined custom action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstPSInst.png "add the Run PowerShell script file predefined custom action")  
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Repeat the same process for the uninstall script and configure the Custom Action as follows:
 
 ![configure the Custom Action](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/dpinstPSUninst.png "configure the Custom Action")  
@@ -277,10 +284,10 @@ Thescript performs the following actions:
 Once we have the scripts we need to do the same steps as we did with the DPInst method and then build and install the package.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Installing drivers with Advanced Installer
@@ -294,13 +301,6 @@ Navigate to the Drivers page and click on **New Driver**. A window will open for
 Advanced Installer parses the .INF file and detects what is needed and you have multiple settings to choose from:
 
 ![parses the .INF file](https://cdn.advancedinstaller.com/img/install-uninstall-driver-using-custom-actions/advinstdriverinstconfig.png "parses the .INF file")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And that is it, all you have to do is build the MSI and install the package. Simple right?
 
@@ -319,21 +319,18 @@ And that is it, all you have to do is build the MSI and install the package. Sim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-converting-gifs-to-emoticon-stickers-on-telegram-and-friends-servers/"><u>[New] 2024 Approved Converting GIFs to Emoticon Stickers on Telegram & Friends Servers</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-building-personalized-instagram-feed-outlines-for-2024/"><u>[New] Building Personalized Instagram Feed Outlines for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-exclusive-list-general-knowledge-quiz-channels-24/"><u>[New] In 2024, Exclusive List General Knowledge Quiz Channels '24</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlock-15-simple-vlog-inspirations-today/"><u>[New] Unlock 15 Simple Vlog Inspirations Today</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-live-streaming-selection-guide-for-2024/"><u>[Updated] Ultimate Live Streaming Selection Guide for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/st-youtube-keyword-tools-to-get-more-views/"><u>10 Best YouTube Keyword Tools to Get More Views</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-imo-messenger-app-evaluation/"><u>Comprehensive Imo Messenger App Evaluation</u></a></li>
-<li><a href="https://win-updates.techidaily.com/has-dashlane-lost-its-edge-a-fresh-look-at-todays-leading-password-managers/"><u>Has Dashlane Lost Its Edge? A Fresh Look at Today's Leading Password Managers.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improper-installation/"><u>Improper Installation:</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-evasion-of-ennui-comical-cells-and-chuckles-in-facebooks-boundaries/"><u>In 2024, Evasion of Ennui Comical Cells and Chuckles in Facebook's Boundaries</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1727401240850-master-the-switch-seamless-conversion-from-markdown-to-pdf-in-minutes-revised-tutorial/"><u>Master the Switch: Seamless Conversion From Markdown to PDF in Minutes (Revised Tutorial)</u></a></li>
-<li><a href="https://win-updates.techidaily.com/recognizing-the-warning-indicators-how-to-determine-if-your-pc-is-infected-with-malware/"><u>Recognizing the Warning Indicators: How to Determine If Your PC Is Infected With Malware</u></a></li>
-<li><a href="https://win-updates.techidaily.com/safeguard-internet-exploration-on-chrome-the-leading-antivirus-solutions-for-banks-and-shopping/"><u>Safeguard Internet Exploration on Chrome: The Leading Antivirus Solutions for Banks & Shopping</u></a></li>
-<li><a href="https://win-updates.techidaily.com/solving-the-mystery-of-googles-sudden-diverts-to-bing-causes-and-solutions-explained/"><u>Solving the Mystery of Google's Sudden Diverts to Bing: Causes & Solutions Explained</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-getting-started-with-genshin-impact-on-pc-platforms/"><u>Step-by-Step Tutorial: Getting Started with Genshin Impact on PC Platforms</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-strategies-for-effectively-removing-items-from-images/"><u>Top Strategies for Effectively Removing Items From Images</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-asian-themed-mini-mansions-for-creative-builders/"><u>[New] In 2024, Asian Themed Mini Mansions for Creative Builders</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-transform-your-videos-effortlessly-top-2-apps-for-changing-formats/"><u>1. Transform Your Videos Effortlessly: Top 2 Apps for Changing Formats</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-journey-to-audio-excellence-mastering-ios-based-recording-techniques/"><u>2024 Approved Journey to Audio Excellence Mastering iOS-Based Recording Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-personalized-video-setups-a-beginners-guide-to-selfies-on-youtube/"><u>2024 Approved Personalized Video Setups A Beginner's Guide to Selfies on YouTube</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-realme-gt-5-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Realme GT 5 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mastering-instagrams-most-appreciated-ae-layouts/"><u>In 2024, Mastering Instagram's Most Appreciated AE Layouts</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-one-step-trick-stellar-instagram-collage-design/"><u>In 2024, One-Step Trick Stellar Instagram Collage Design</u></a></li>
+<li><a href="https://win-updates.techidaily.com/learn-with-msis-interactive-digital-course-videos/"><u>Learn with MSI's Interactive Digital Course Videos</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-account-security-changing-your-apple-id-password-on-various-iphones/"><u>Mastering Account Security: Changing Your Apple ID Password on Various iPhones</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cut-mp4-videos-for-free-9-excellent-options/"><u>New Cut MP4 Videos for Free 9 Excellent Options</u></a></li>
+<li><a href="https://win-updates.techidaily.com/strategies-and-tips-for-dominating-famous-war-games-on-a-personal-pc/"><u>Strategies and Tips for Dominating Famous War Games on a Personal PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-language-of-tweets-what-do-you-call-sharing-on-twitter-retweet-or-re-tweet/"><u>The Language of Tweets: What Do You Call Sharing on Twitter - Retweet or Re-Tweet?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unlocking-mastery-in-computer-case-customization-with-our-expertly-crafted-msi-packaging-manual/"><u>Unlocking Mastery in Computer Case Customization with Our Expertly Crafted MSI Packaging Manual</u></a></li>
 </ul></div>
 

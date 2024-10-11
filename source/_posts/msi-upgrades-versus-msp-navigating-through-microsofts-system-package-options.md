@@ -1,7 +1,7 @@
 ---
 title: "MSI Upgrades Versus MSP: Navigating Through Microsoft's System Package Options"
-date: 2024-09-29T18:50:08.224Z
-updated: 2024-10-05T19:39:13.077Z
+date: 2024-10-07T00:39:25.502Z
+updated: 2024-10-10T16:34:53.961Z
 tags:
   - application-packaging-training
 categories:
@@ -44,10 +44,10 @@ When doing MSI upgrades, it is important that you follow some of the best practi
 * Automation and Deployment: To speed up the upgrade process, use automation tools or software deployment systems, especially in enterprise environments. This helps to ensure consistency, reduces manual effort, and allows for centralized upgrade management.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Patch vs upgrade
@@ -91,6 +91,26 @@ The following are the most common patch restrictions:
 
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)You can find the full list of restrictions for patches on the [Microsoft website](https://learn.microsoft.com/en-us/windows/win32/msi/changing-the-product-code?redirectedfrom=MSDN "Microsoft website").
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Example patch for VLC
 
 If you're new to patching, you might notice that creating an MSP is a difficult task. Unlike MSIs, which can be created with the click of a button, MSPs require additional steps and can appear more complicated. But don't be concerned! Here are the straightforward steps for creating an MSP in Advanced Installer:
@@ -103,6 +123,13 @@ We already repackaged VLC Media player earlier, but let’s assume that a new ve
 
 ![ai modified vlc for patch](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-modified-vlc-for-patch.png "ai modified vlc for patch")  
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 We will simply copy the resulted VLC Media Player MSI and change any desired file and registry and we will assume that this is the second MSI for VLC Media Player.
 
 Once we have our 2 MSI files, let's get started with creating the patch file using Advanced Installer:
@@ -111,42 +138,21 @@ Once we have our 2 MSI files, let's get started with creating the patch file usi
 
 ![ai patch](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch.png "ai patch")  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)If you haven't installed Advanced Installer yet, you can download a 30-day full-featured trial from our website.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 \- Create a new Installer Patch project and fill in all the necessary information related to your patch identification in the Patch Details page and then in the Product Details.
 
 ![ai patch details](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch-details.png "ai patch details")  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 \- Configure the Add/Remove (Control Panel) information. This sets up the display name in the Control Panel. There, you can also set the option to Allow patch removal.
 
 ![ai patch control panel](https://cdn.advancedinstaller.com/img/msi-upgrades-and-patches/ai-patch-control-panel.png "ai patch control panel")  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 \- Optional: Digitally sign the patch. This step helps ensure the integrity and authenticity of the patch.
@@ -188,18 +194,18 @@ Copy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-mastery-in-motion-steam-switch-controller-techniques/"><u>[New] 2024 Approved Mastery in Motion Steam Switch Controller Techniques</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-premier-5-minute-longshot-recorder/"><u>[New] 2024 Approved Premier 5-Minute Longshot Recorder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-ios-compatible-ps2-software/"><u>[Updated] In 2024, Ultimate iOS Compatible PS2 Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-top-5-no-cost-asf-to-mp4-format-converter-tools/"><u>1. Top 5 No-Cost ASF to MP4 Format Converter Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/6-ways-to-transfer-contacts-from-oneplus-ace-2-pro-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>6 Ways To Transfer Contacts From OnePlus Ace 2 Pro to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-12r-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 12R Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/follow-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-does-a-browser-fingerprint-reveal-your-online-identity-and-what-steps-can-you-take-to-guard-it/"><u>How Does a Browser Fingerprint Reveal Your Online Identity & What Steps Can You Take to Guard It?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-change-your-youtube-video-collection-into-mp3-files/"><u>How to Change Your YouTube Video Collection Into MP3 Files</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-getting-rid-of-deceptive-windows-security-warnings/"><u>Step-by-Step Guide: Getting Rid of Deceptive Windows Security Warnings</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-ultimate-list-of-leading-sd-card-restoration-apps-find-your-perfect-match/"><u>The Ultimate List of Leading SD Card Restoration Apps - Find Your Perfect Match!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-iphone-contact-restoration-apps-how-to-retrieve-your-lost-connections/"><u>Top iPhone Contact Restoration Apps: How to Retrieve Your Lost Connections</u></a></li>
-<li><a href="https://win-updates.techidaily.com/urgent-warning-your-mac-compromised-signs-of-gmail-phishing-and-trojan-threats/"><u>Urgent Warning: Your Mac Compromised - Signs of Gmail Phishing & Trojan Threats</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unrivaled-portable-play-gba-on-your-phone/"><u>[New] 2024 Approved Unrivaled Portable Play GBA on Your Phone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-accelerating-your-watch-experience-on-instagram-videos-for-2024/"><u>[Updated] Accelerating Your Watch Experience on Instagram Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-maximizing-visibility-post-facebook-update/"><u>2024 Approved Maximizing Visibility Post-Facebook Update</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-user-manual-mastering-apowercompress-tools/"><u>Complete User Manual: Mastering ApowerCompress Tools</u></a></li>
+<li><a href="https://win-updates.techidaily.com/daily-exposure-a-detailed-analysis-of-our-daily-encounter-with-advertisements/"><u>Daily Exposure: A Detailed Analysis of Our Daily Encounter with Advertisements</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-for-downloading-images-from-your-icloud-account/"><u>Effective Strategies for Downloading Images From Your iCloud Account</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-podcast-discoverability-through-effective-seo/"><u>In 2024, Maximizing Podcast Discoverability Through Effective SEO</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/inverted-screen-position-fixed-in-windows-10/"><u>Inverted Screen Position Fixed in Windows 10</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-honor-80-pro-straight-screen-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Honor 80 Pro Straight Screen Edition to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fixes-for-loading-issues-on-discord-software/"><u>Quick Fixes for Loading Issues on Discord Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-distance-jobs-in-tech-with-vr-and-digital-twins-a-deep-dive-by-zdnet/"><u>Revolutionizing Distance Jobs in Tech with VR and Digital Twins – A Deep Dive by ZDNET</u></a></li>
+<li><a href="https://win-updates.techidaily.com/text-messaging-a-gateway-for-smartphone-intrusion-discover-what-malwarefox-has-found-out/"><u>Text Messaging: A Gateway for Smartphone Intrusion? Discover What MalwareFox Has Found Out</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-lava-blaze-2-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Lava Blaze 2 5G Users</u></a></li>
 </ul></div>
 

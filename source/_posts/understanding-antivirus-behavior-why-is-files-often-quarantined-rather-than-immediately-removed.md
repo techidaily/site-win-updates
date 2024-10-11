@@ -1,7 +1,7 @@
 ---
 title: "Understanding Antivirus Behavior: Why Is Files Often Quarantined Rather Than Immediately Removed?"
-date: 2024-10-03T17:26:01.788Z
-updated: 2024-10-05T16:43:34.459Z
+date: 2024-10-07T17:20:36.670Z
+updated: 2024-10-10T16:16:50.086Z
 tags:
   - product
   - antivirus
@@ -62,10 +62,10 @@ What if it deletes an essential system file? What if it deletes an important fil
 Another reason files are put into quarantine are false alarms. Some legitimate and safe files may carry a signature similar to a virus or a malware. Deleting these files may render its parent program to stop working properly. Moreover, some security programs may identify “threats” in another security program. That is why you should not install two antivirus applications on your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Quarantine vs Deleting
@@ -80,21 +80,34 @@ Additionally, most modern viruses make their own files. Security programs can ea
 
 It is easy to remedy false alarms by teaching the security programs to always ignore certain files from legitimate applications. This will significantly reduce false alarm reports in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Final Thoughts
 
 It is important to keep your security program updated to reduce false alarms, easily identify threats, and quarantine questionable files. Virus and malware in quarantine are perfectly harmless. They cannot run and well-hidden. Only delete if you are sure that the files are infected and all applications in your system are running without any issues.
+
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2 thoughts on “Why Does Antivirus Quarantine Instead of Deleting?”
 
 1. ![](https://secure.gravatar.com/avatar/b1c9dc97877b8abded69d855c9e630f5?s=50&d=mm&r=g)  
 RogerH  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [July 12, 2019 at 2:21 pm](https://tools.techidaily.com/malwarefox/products/)  
 How do I tell Malwarewe NOT to quarantine a program in the future. When I restore the qwuarantined program it gets put back in there as soon as I try to open it. I am on trial run of your system but if I can’t run my necessary program, will not go ahead with a purcvhase after the trial period ends?  
@@ -103,22 +116,15 @@ Thanks
    * ![](https://secure.gravatar.com/avatar/85929922e25d4bbc528a838420943841?s=50&d=mm&r=g)  
    Shawn Abraham  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    [July 25, 2019 at 12:40 pm](https://tools.techidaily.com/malwarefox/products/)  
    You must add the program in Whitelist of the program to avoid being detected / quarantined in future.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -146,18 +152,16 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-choosing-between-projectors-and-tvs-for-superior-4k-viewing/"><u>[New] Choosing Between Projectors & TVs for Superior 4K Viewing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-manual-how-to-turn-off-igtv/"><u>[Updated] 2024 Approved Manual How to Turn Off IGTV</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-ultimate-gear-guide-for-streaming-sensations/"><u>2024 Approved Ultimate Gear Guide for Streaming Sensations</u></a></li>
-<li><a href="https://win-updates.techidaily.com/convert-webm-files-free-fast-online-mp4-video-format-transformation/"><u>Convert WebM Files Free: Fast Online MP4 Video Format Transformation</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-steps-transforming-images-into-motion-a-beginners-guide/"><u>Easy Steps: Transforming Images Into Motion - A Beginner's Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/essential-windows-apowerrec-keyboard-shortcut-cheat-sheet-a-comprehensive-guide/"><u>Essential Windows ApowerREC Keyboard Shortcut Cheat Sheet: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/expert-guide-mastering-registry-modifications-through-the-advanced-installer-platform/"><u>Expert Guide: Mastering Registry Modifications Through the Advanced Installer Platform</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-cellphone-viruses-operate-and-threaten-security-a-deep-dive-by-malwarefox/"><u>How Cellphone Viruses Operate and Threaten Security: A Deep Dive by MalwareFox</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-5-key-strategies-to-correct-iphone-hdri-premiere-pro-edition/"><u>In 2024, 5 Key Strategies to Correct iPhone HDRI Premiere Pro Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quirky-expressions-in-text-master-meme-creation/"><u>In 2024, Quirky Expressions in Text Master Meme Creation</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/mastering-spotify-downloads-an-expert-guide-for-extracting-songs-for-2024/"><u>Mastering Spotify Downloads An Expert Guide for Extracting Songs for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/revamping-clickonce-deployments-a-step-by-step-guide/"><u>Revamping ClickOnce Deployments: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-becoming-a-broadcast-guru-1080p-facebook-streaming-essentials/"><u>[New] 2024 Approved Becoming a Broadcast Guru 1080P Facebook Streaming Essentials</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-inquiry-into-youtubes-monetary-frequency/"><u>[New] In 2024, Inquiry Into YouTube's Monetary Frequency</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-affordable-reliable-a-list-of-the-best-free-mobile-streamers/"><u>[Updated] Affordable, Reliable A List of the Best Free Mobile Streamers</u></a></li>
+<li><a href="https://win-updates.techidaily.com/free-download-ultimate-pdf-key-generator-app/"><u>Free Download: Ultimate PDF Key Generator App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-motorola-moto-g04-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Motorola Moto G04 Through Google Earth?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/in-depth-tutorial-efficiently-deploying-applications-via-advanced-installer-techniques/"><u>In-Depth Tutorial: Efficiently Deploying Applications via Advanced Installer Techniques</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-conditionals-a-guide-to-implementing-in-msi-package-deployments/"><u>Mastering Conditionals: A Guide to Implementing In MSI Package Deployments</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/restoring-lost-documents-on-windows-10-a-simple-and-effective-guide/"><u>Restoring Lost Documents on Windows 10: A Simple & Effective Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unlocking-itunes-backup-files-a-comprehensive-how-to-for-users/"><u>Unlocking iTunes Backup Files: A Comprehensive How-To for Users</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unveiling-the-impact-of-adware-understanding-and-deleting-intrusive-tracking-cookies/"><u>Unveiling the Impact of Adware: Understanding & Deleting Intrusive Tracking Cookies</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/whats-shaking-the-breaking-down-of-top-8-social-videos-for-2024/"><u>What's Shaking? The Breaking Down of Top 8 Social Videos for 2024</u></a></li>
 </ul></div>
 

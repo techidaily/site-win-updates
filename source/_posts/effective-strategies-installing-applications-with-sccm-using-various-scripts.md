@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies: Installing Applications with SCCM Using Various Scripts"
-date: 2024-10-04T16:08:05.942Z
-updated: 2024-10-05T20:00:04.736Z
+date: 2024-10-05T22:20:09.068Z
+updated: 2024-10-10T23:48:12.876Z
 tags:
   - application-packaging-training
 categories:
@@ -29,36 +29,56 @@ SCCM is critical for streamlining IT operations, reducing manual efforts, ensuri
 
 When it comes to SCCM, there are two methods for deploying packages. If the package is an MSI, the steps are much simpler, as shown below. Of course, if you want to use wrappers or EXE bundles, you can, but there are some extra steps to take.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Deploy MSI via SCCM
 
 To deploy an MSI via SCCM, go to Software Library -> Application Management -> Applications -> right click Create Application
 
 ![sccm create application](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application.png "sccm create application")  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Because the source is an MSI, choose Windows Installer and browse for source content
 
 ![sccm create application msi](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-msi.png "sccm create application msi")  
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This warning is present with most MSI packages, so we can click YES:
 
 ![sccm create application msi warning](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-msi-warning.png "sccm create application msi warning")  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next steps require only to acknowledge what is going to be created so click Next until the wizard is finished.
 
 ![sccm create application msi info](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-msi-info.png "sccm create application msi info")  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![sccm create application msi general info](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-msi--general-info.png "sccm create application msi general info")  
@@ -67,24 +87,18 @@ The next steps require only to acknowledge what is going to be created so click 
 
 An that is it, all that is left to be done is to distribute the package content on all available Distribution Points and deploy the packaged to the desired list of devices/users in the infrastructure.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Deploy EXE/VBscript/PowerShell via SCCM
 
 When it comes to other forms of installers, there are a few additional steps which need to be taken. First, go to Software Library -> Application Management -> Applications -> right click Create Application
 
 ![sccm create application](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application.png "sccm create application")  
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We will have to choose Manually specify the application information, which will give you the option to choose Script Installer later on this wizard.
 
@@ -94,16 +108,16 @@ Next, fill in all the information for the General Information tab. Keep in mind 
 
 ![sccm create application script general information](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-general-information.png "sccm create application script general information")  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, select English default and remove all other languages if not specifically mentioned otherwise. The Localized application name is the name shown is Software Center:
 
 ![sccm create application script selected language](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-selected-language.png "sccm create application script selected language")  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 We will need to create a deployment type. A deployment type includes all of the information and instructions required for SCCM to successfully install and manage the application. Details such as the installation command, installation behavior, requirements, detection methods, and user experience settings are all included. SCCM supports a variety of deployment types to accommodate a variety of application scenarios and deployment needs.
 
@@ -114,10 +128,10 @@ When we reach the specify settings dialog, we choose again Script Installer:
 ![sccm create application script select script installer](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-select-script-installer.png "sccm create application script select script installer")  
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Next, we fill in the application deployment type name:
@@ -127,6 +141,13 @@ Next, we fill in the application deployment type name:
 Now is the part where we add the Content location from the master share and the install and uninstall lines.
 
 ![sccm create application script deployment content location](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-deployment-content-location.png "sccm create application script deployment content location")  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 On the next tab, add the detection method. The detection method checks for the existence of an application using specific criteria or rules. When you deploy an application in SCCM, you define a detection method to ensure that the application is only installed on devices that require it, or to determine whether an upgrade or update is needed.
 
@@ -140,13 +161,6 @@ The detection method can be configured to use various criteria, such as:
 With the MSI deployment method, this is easy because SCCM uses the Windows Installer detection which checks for the presence of the product code, and these steps which we are doing here are skipped. In case your package contains an MSI it is recommended to use the Windows Installer Detection.
 
 ![sccm create application script detection method](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-detection-method.png "sccm create application script detection method")  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![sccm create application script detection method options](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-detection-method-options.png "sccm create application script detection method options")  
 
@@ -173,25 +187,11 @@ In the final part, click Next until everything is done.
 
 ![sccm create application script confirm deployment](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-confirm-deployment.png "sccm create application script confirm deployment")  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![sccm create application script confirm deployment success](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-confirm-deployment-success.png "sccm create application script confirm deployment success")  
 
 ![sccm create application script confirm application creation](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-confirm-application-creation.png "sccm create application script confirm application creation")  
 
 ![sccm create application script confirm application creation success](https://cdn.advancedinstaller.com/img/sccm-package-deployment/sccm-create-application-script-confirm-application-creation-success.png "sccm create application script confirm application creation success")  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And that is it. As with MSI deployments, all that remains is to distribute the package content to all available Distribution Points and deploy the package to the desired list of infrastructure devices/users.
 
@@ -210,22 +210,14 @@ And that is it. As with MSI deployments, all that remains is to distribute the p
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/he-ultimate-guide-to-aspect-ratios-for-youtube-images/"><u>[New] The Ultimate Guide to Aspect Ratios for YouTube Images</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instavideo-magic-crafting-a-plan-to-capture-your-audiences-attention/"><u>2024 Approved InstaVideo Magic Crafting a Plan to Capture Your Audience's Attention</u></a></li>
-<li><a href="https://network-issues.techidaily.com/d3d-startup-error-successfully-overcome/"><u>D3D Startup Error, Successfully Overcome</u></a></li>
-<li><a href="https://win-updates.techidaily.com/essential-techniques-for-preserving-contact-information-on-android-devices/"><u>Essential Techniques for Preserving Contact Information on Android Devices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guide-utilizing-vbscript-and-powershell-for-efficient-driver-management-tasks/"><u>Guide: Utilizing VBScript and PowerShell for Efficient Driver Management Tasks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-convert-amv-video-formats-for-free-using-movavis-easy-to-use-software/"><u>How to Convert AMV Video Formats for Free Using Movavi's Easy-to-Use Software</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-xiaomi-mix-fold-3-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Xiaomi Mix Fold 3 Through Google Earth?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-face-id-make-purchases-on-iphone-8-plus-by-drfone-ios-unlock-ios-unlock/"><u>How to Use Face ID make purchases on iPhone 8 Plus ?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/insightful-review-the-comprehensive-theta-s-experience/"><u>Insightful Review The Comprehensive Theta S Experience</u></a></li>
-<li><a href="https://win-updates.techidaily.com/new-release-alert-explore-the-advanced-capabilities-of-apowermanager-version-30/"><u>New Release Alert: Explore the Advanced Capabilities of ApowerManager Version 3.0!</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-itel-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Itel</u></a></li>
-<li><a href="https://win-updates.techidaily.com/securing-file-transfers-comprehensive-guide-to-defending-against-krack-vulnerability/"><u>Securing File Transfers: Comprehensive Guide to Defending Against KRACK Vulnerability</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-capturing-your-safari-sessions-on-iphone/"><u>Step-by-Step Guide: Capturing Your Safari Sessions on iPhone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-disabling-find-my-iphone-feature-safely-without-a-passcode/"><u>Step-by-Step Guide: Disabling Find My iPhone Feature Safely without a Passcode</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-5-essential-tactics-to-fortify-your-gmail-security-against-cyber-attacks/"><u>Top 5 Essential Tactics to Fortify Your Gmail Security Against Cyber Attacks</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-tier-drones-for-sale-today-for-2024/"><u>Top-Tier Drones for Sale Today for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unlocking-affordable-data-rescue-solutions-the-best-free-replacement-for-mackeeper-on-macs-and-pcs/"><u>Unlocking Affordable Data Rescue Solutions: The Best Free Replacement for Mackeeper on Macs and PCs</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-excellence-in-image-making-via-premium-grid-makers-for-2024/"><u>[New] Excellence in Image Making via Premium Grid Makers for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-your-viewing-unlocking-the-potential-of-netflixs-pip/"><u>[Updated] In 2024, Elevate Your Viewing Unlocking the Potential of Netflix’s PIP</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-through-luts-for-improved-photography-techniques/"><u>[Updated] Navigating Through LUTs for Improved Photography Techniques</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/anticipate-the-future-of-communication-with-the-new-arrival-from-samsung/"><u>Anticipate the Future of Communication with the New Arrival From Samsung</u></a></li>
+<li><a href="https://win-updates.techidaily.com/hassle-free-techniques-how-to-efficiently-backup-your-ipad-by-bypassing-itunes/"><u>Hassle-Free Techniques: How to Efficiently Backup Your iPad by Bypassing iTunes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-major-sites-like-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement on Major Sites Like Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://win-updates.techidaily.com/practical-strategies-for-minimizing-bmp-image-dimensions-efficiently/"><u>Practical Strategies for Minimizing BMP Image Dimensions Efficiently</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-on-modifying-documents-in-apowerpdf/"><u>Step-by-Step Tutorial on Modifying Documents in ApowerPDF</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-4-methods-for-effective-background-removal-in-images-desktop-and-mobile-solutions/"><u>Top 4 Methods for Effective Background Removal in Images: Desktop and Mobile Solutions</u></a></li>
 </ul></div>
 

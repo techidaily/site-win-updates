@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Truth About Identity Theft Shields: Are They Really Helping or Just Luring You Into a False Sense of Security?"
-date: 2024-09-28T17:35:49.095Z
-updated: 2024-10-05T18:44:59.489Z
+date: 2024-10-03T18:03:30.359Z
+updated: 2024-10-10T18:04:59.582Z
 tags:
   - product
   - antivirus
@@ -54,23 +54,9 @@ The main reason a criminal wants access to your information is for financial gai
 
 Criminals use this personal information to open bank accounts and apply for loans. Additionally, they can also ask for a false tax return with the Internal Revenue Service (IRS) using your Social Security Number. Moreover, they can use your credit card information to purchase items anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Child and Senior Identity Theft
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/children.png "children")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Children and senior citizens don’t often care so much about their financial and legal activities for obvious reasons. Children and some senior citizens do not have their income. Therefore, there is no need to be concerned about information such as Social Security numbers.
 
@@ -79,13 +65,6 @@ Criminals can use their information for a long time without consequences. The la
 ### Medical Identity Theft
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/medical-insurance.png "medical-insurance")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Most countries offer public and private medical insurance. Having these insurance plans entitle the members to receive various benefits. Stealing information such as health insurance member numbers allows criminals to apply for different medical services. They can even use it to collect benefits associated with illnesses or injuries.
 
@@ -98,6 +77,13 @@ There are various ways criminals steal your information. The most significant da
 A more current and more severe case was the [Equifax data breach](https://www.csoonline.com/article/3223229/security/equifax-says-website-vulnerability-exposed-143-million-us-consumers.html) just last year. It compromised the information of 143 million consumers. The Equifax breach affected significantly fewer people than Yahoo’s case. However, names, birth dates, addresses, Social Security Numbers, and drivers’ licenses were exposed. Additionally, hackers also download 200,000 credit card information. Worse, the company only discovered the breach on July 29, but Equifax says it likely started around May.
 
 However, there are more personal types of attacks. Criminals can target individuals and spend time collecting personal information.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dumpster Diving
 
@@ -123,6 +109,13 @@ Their services include alerts for credit fraud and other questionable financial 
 
 Various reimbursements are available. But, typically these just cover the expenses you will incur while restoring your identity and credit. However, a majority of victims [don’t typically face out-of-pocket expenses](https://www.marketwatch.com/story/is-identity-theft-insurance-a-waste-of-money-2014-03-31).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why Not Buy Identity Theft Protection?
 
 A lot of customers think that identity protection and insurance protect you from identity theft. In essence, these companies do not prevent identity theft. No single entity can do that for you. You share information across a large number of services and institutions. The amount of information you share on social media alone is difficult to protect.
@@ -139,28 +132,55 @@ More importantly, identity theft protection cannot prevent data breaches. Securi
 
 [5 Best Spyware Scanners](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Should you do Against Identity Theft?
 
 You are mostly buying peace of mind when you are paying for identity theft protection. Most of the services are redundant. This means, that these services are already offered by banks and other insurance plans. Here are a few things to do to protect yourself instead.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Go Paperless
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/file.png "file")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Criminals are not above dumpster diving as described above. Therefore, it is a good idea to ditch paper bills altogether. Companies and government offices often offer paperless billing depending on your location. It is also a great way to track your bills online easily.
 
 Shred any bills or documents that you are going to throw away if you are not comfortable going paperless. It needs a little bit more attention. But, it is a small extra step to protect you from more significant damages.
 
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Get a P.O. Box
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/post-office.png "post-office")
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 It is not exactly free. But, getting a P.O. box is stronger protection against possible identity theft. The [United States Postal Service](https://www.usps.com/manage/po-boxes.htm) offers secure and affordable P.O. box rates depending on your needs.
 
@@ -176,13 +196,6 @@ One proper detection of identity theft is through your credit reports. It is one
 
 You can head over to [annualcreditreport.com](https://www.annualcreditreport.com/index.action) to easily request credit reports from Equifax, Experian, and TransUnion. Additionally, you can stagger the request every few months. This report makes it easier to spot anomalies in your credit.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Free Fraud Alerts
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/siren.png "siren")
@@ -195,16 +208,22 @@ Additionally, the nonprofit [Identity Theft Resource Center](https://www.idtheft
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2018/02/payment-security.png "payment-security")
 
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In case of data breaches or if you suspect that you are in danger of identity theft, you can set a [credit freeze](https://www.usatoday.com/story/money/columnist/2015/10/17/weisman-credit-freeze/73383650/). It is available for free or for a small cost depending on your location.
 
 A credit freeze prevents your credit report or credit score from being assessed. That means, the information cannot be used to apply for loans, obtain new credit cards or open accounts under your name. You are provided a PIN to “thaw” your account.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Tighten Online Account Security
 
@@ -220,13 +239,6 @@ You may also enable two-factor authentication for your [email](https://tools.tec
 
 ![](https://www.malwarefox.com//www.malwarefox.com/wp-content/uploads/2016/12/cropped-shield-fox-512.png "cropped-shield-fox-512.png")
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 More importantly, install all-around anti-malware protection on your system. The malware collects data from your computer. Therefore, it is essential to protect your machine using software such as [MalwareFox](https://tools.techidaily.com/malwarefox/products/).
 
 It protects you by removing existing malware that may be “spying” on you. Additionally, it protects you in real-time by blocking potential attacks. It also keeps your browser clean where most phishing attacks happen. MalwareFox also protects you from unknown threats such as ransomware.
@@ -238,10 +250,10 @@ It protects you by removing existing malware that may be “spying” on you. Ad
 The decision of whether to sign-up for identity protection services relies on your willingness to take extra steps to protect yourself. Most of the services are available for free. The additional effort you need to take might just be more effective than paying more for identity theft protection.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
@@ -269,24 +281,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/igh-performance-7-cameras-for-cutting-edge-vlogging-tech-for-2024/"><u>[New] High-Performance 7 Cameras For Cutting-Edge Vlogging Tech for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-disabling-facebook-video-ad-pop-ups-quickly/"><u>[New] In 2024, Disabling Facebook Video Ad Pop-Ups Quickly</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-perfect-skype-recordings-mastering-the-art-of-obs/"><u>[New] Perfect Skype Recordings Mastering the Art of OBS</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-how-to-speed-up-tiktok-videos-simple-guide-for-2024/"><u>[Updated] How to Speed Up TikTok Videos? [Simple Guide] for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-reverting-to-classic-from-sierra-to-os-x-1010/"><u>2024 Approved Reverting to Classic From Sierra To OS X 10.10</u></a></li>
-<li><a href="https://win-updates.techidaily.com/advanced-techniques-in-editing-registry-settings-using-advanced-installer/"><u>Advanced Techniques in Editing Registry Settings Using Advanced Installer</u></a></li>
-<li><a href="https://techidaily.com/annual-energy-usage-how-a-modern-ai-powered-gpu-can-use-up-to-37mwh-surpassing-the-power-needs-of-over-13-million-homes/"><u>Annual Energy Usage: How a Modern AI-Powered GPU Can Use Up to 3.7MWh - Surpassing the Power Needs of Over 1.3 Million Homes</u></a></li>
-<li><a href="https://win-updates.techidaily.com/bts-permission-to-dance-live-show-airing-schedule-how-and-where-to-tune-in/"><u>BTS Permission to Dance Live Show Airing Schedule: How and Where to Tune In</u></a></li>
-<li><a href="https://win-updates.techidaily.com/complete-user-manual-mastering-apowercompress-tools/"><u>Complete User Manual: Mastering ApowerCompress Tools</u></a></li>
-<li><a href="https://win-updates.techidaily.com/daily-exposure-a-detailed-analysis-of-our-daily-encounter-with-advertisements/"><u>Daily Exposure: A Detailed Analysis of Our Daily Encounter with Advertisements</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-ways-to-shift-songs-from-itunes-onto-your-android-phone-or-tablet/"><u>Easy Ways to Shift Songs From iTunes Onto Your Android Phone or Tablet</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-strategies-for-downloading-images-from-your-icloud-account/"><u>Effective Strategies for Downloading Images From Your iCloud Account</u></a></li>
-<li><a href="https://program-issues.techidaily.com/error-free-experience-achieved-effective-fixes-for-continuous-crashing-in-age-of-wonders-planetfall-on-pc/"><u>Error-Free Experience Achieved: Effective Fixes for Continuous Crashing in 'Age of Wonders: Planetfall' On PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/pro-tips-for-rapidly-creating-effective-subtitles-on-fb/"><u>Pro Tips for Rapidly Creating Effective Subtitles on FB</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-adding-pictures-seamlessly-into-a-pdf/"><u>Step-by-Step Guide: Adding Pictures Seamlessly Into a PDF</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/targeted-success-identifying-youtube-niche-demand-for-2024/"><u>Targeted Success Identifying YouTube Niche Demand for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/text-messaging-a-gateway-for-smartphone-intrusion-discover-what-malwarefox-has-found-out/"><u>Text Messaging: A Gateway for Smartphone Intrusion? Discover What MalwareFox Has Found Out</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-the-distinction-package-creation-vs-package-repackaging/"><u>Understanding the Distinction: Package Creation vs Package Repackaging</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-is-videopad-the-right-video-editor-for-you-our-expert-review/"><u>Updated 2024 Approved Is Videopad the Right Video Editor for You? Our Expert Review</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-exclusive-insight-free-access-to-1-6-video-clips/"><u>[New] Exclusive Insight Free Access to #1-#6 Video Clips</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-video-for-bedtime-stories-elements-and-reviews-for-2024/"><u>[New] Video for Bedtime Stories Elements and Reviews for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-voice-changer-expertise-unlocking-morphvox-potential/"><u>[Updated] Voice Changer Expertise Unlocking MorphVOX Potential</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-a-step-by-step-aspect-ratio-guide-for-youtube-creators/"><u>2024 Approved A Step-by-Step Aspect Ratio Guide for YouTube Creators</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-efficient-editing-harnessing-photoshops-powerful-eraser/"><u>2024 Approved Efficient Editing Harnessing Photoshop’s Powerful Eraser</u></a></li>
+<li><a href="https://win-updates.techidaily.com/audio-downloader-from-youtube-on-pc-and-mac-ultimate-guide/"><u>Audio Downloader From YouTube on PC & MAC: Ultimate Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-methods-how-to-transform-vob-files-into-avi-format/"><u>Effortless Methods: How to Transform VOB Files Into AVI Format</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-xiaomi-redmi-note-12-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Xiaomi Redmi Note 12 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/innovative-msi-container-solutions-enhancing-product-presentation-and-protection/"><u>Innovative MSI Container Solutions: Enhancing Product Presentation and Protection</u></a></li>
+<li><a href="https://win-updates.techidaily.com/seamless-file-sharing-how-to-move-content-from-iphone-to-mac/"><u>Seamless File Sharing: How to Move Content From iPhone to Mac</u></a></li>
+<li><a href="https://win-updates.techidaily.com/streaming-the-ultimate-arena-of-valor-tournament-live-a-guide/"><u>Streaming the Ultimate Arena of Valor Tournament Live - A Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unlock-youtube-potential-with-top-igtv-editors-for-2024/"><u>Unlock YouTube Potential with Top IGTV Editors for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unveiling-apowersofts-newly-launched-background-eraser-impressive-capabilities-await/"><u>Unveiling Apowersoft's Newly Launched Background Eraser: Impressive Capabilities Await!</u></a></li>
 </ul></div>
 

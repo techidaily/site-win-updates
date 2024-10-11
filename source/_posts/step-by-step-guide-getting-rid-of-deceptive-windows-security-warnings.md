@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Getting Rid of Deceptive Windows Security Warnings"
-date: 2024-10-01T16:32:54.178Z
-updated: 2024-10-05T18:27:03.713Z
+date: 2024-10-10T01:58:34.158Z
+updated: 2024-10-10T21:27:56.556Z
 tags:
   - product
   - antivirus
@@ -72,6 +72,13 @@ Such faux alert frightens the users who receive them, and in anticipation of get
 
 Windows users should never pay attention to such fake pop-up messages as following its instructions can cause many troubles. It is essential to know that Microsoft never includes any number in the error message. In fact, Microsoft would never ask its user to call them and then ask for private information such as bank details.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Why did I get the “Windows Security Alert” Pop-Up?
 
 If you see the “Windows Security Alert” pop-up message on your screen, it might be because of one of the following reasons:
@@ -83,24 +90,31 @@ If you see the “Windows Security Alert” pop-up message on your screen, it mi
 
 [How to Remove Adware and Pop-Up Ads](https://tools.techidaily.com/malwarefox/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix “Windows Security Alert” Virus alert?
 
 If you are dealing with this message or pop-up repeatedly, you have to get rid of the root cause redirecting this fake message to you.
 
 Here are the steps for that:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Restart your PC in Safe Mode**
 
 Windows Safe Mode is the perfect environment to find out and solve critical errors in the system. In safe mode, only system programs and some crucial programs run. Safe mode would most likely kill the applications and their files that try to run automatically on your system. [Follow this guide to boot your Windows 10 PC in **Safe Mode**](https://www.windowschimp.com/how-to-boot-windows-10-into-safe-mode/)**.**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Uninstall Suspicious Applications**
 
@@ -116,20 +130,13 @@ If the “Windows Security Alert” Scam still appears on your PC, try to find t
 5. Open Control Panel and click on **Uninstall a program** and check for suspicious apps. One by one, select and uninstall them.![uninstall the apps](https://www.malwarefox.com/wp-content/uploads/2020/07/uninstall-the-apps.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Delete Temporary Files**
 
@@ -141,21 +148,14 @@ Here are the steps to eliminate the temporary files:
 2. Type **%temp%** and hit the enter key.![temp run command](https://www.malwarefox.com/wp-content/uploads/2020/07/temp-run-command.png)
 3. This run command would navigate you to this path: **_C:\\Users\\\[username\]\\AppData\\Local\\Temp,_** that is, the temp folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Select all Files and Folders of this folder and delete them. Don’t hesitate to delete them, as they are not essential for any of your tasks. ![Delete temp files](https://www.malwarefox.com/wp-content/uploads/2020/07/Delete-temp-files.png)
 5. Next right-click on the **Recycle Bin** and select **Empty Recycle Bin.**![Empty recycle bin](https://www.malwarefox.com/wp-content/uploads/2020/07/Empty-recycle-bin.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Reset Web Browser Settings**
@@ -164,14 +164,34 @@ If your browser is misbehaving because of the “Windows Security Alert” Scam,
 
 1. Open Chrome and navigate to **Settings** by clicking on the three-dots at the top right.![Chrome Settings](https://www.malwarefox.com/wp-content/uploads/2020/03/Chrome-Malware-Scanner-1.png)
 2. Click on advanced **Advanced**.![Chrome Advanced Settings](https://www.malwarefox.com/wp-content/uploads/2020/05/Chrome-Malware-Scanner-2.png)
+
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under **Reset and cleanup,** click on “**Restore settings to their original defaults.”**![Restore chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/Restore-chrome.png)
 4. Select **Reset settings** on the next prompt.![reset the chrome](https://www.malwarefox.com/wp-content/uploads/2020/07/reset-the-chrome.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Relaunch your browser.
@@ -186,13 +206,6 @@ MalwareFox is reliable security software that promises to protect your system an
 2. Perform a full system scan to get rid of every malware that is troubling your system.![MalwareFox Antimalware](https://www.malwarefox.com/wp-content/uploads/2020/02/malwarefox.png)
 
 [Why Windows get More Virus Attacks than Mac or Linux](https://tools.techidaily.com/malwarefox/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Avoid such Threats?
 
@@ -215,16 +228,10 @@ Microsoft never blocks any computer. You see the warning of “Microsoft has blo
 [5 Things to do when your Facebook Account is Hacked](https://tools.techidaily.com/malwarefox/products/)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1 thought on “How To Remove “Windows Security Alert” Tech Support Scam?”
@@ -261,14 +268,18 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-elevating-your-video-content-youtube-to-igtv-transition/"><u>[New] In 2024, Elevating Your Video Content YouTube to IGTV Transition</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-virtual-realms-the-finest-vr-accessories-unveiled/"><u>[New] In 2024, Virtual Realms The Finest VR Accessories Unveiled</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-blur-proof-iphones-achieving-flawless-budget-friendly-edits-for-2024/"><u>[Updated] Blur-Proof iPhones Achieving Flawless, Budget-Friendly Edits for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-diagnose-and-rectify-high-resource-utilization-in-wsappx-applications/"><u>How to Diagnose and Rectify High Resource Utilization in Wsappx Applications</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>In 2024, 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-the-art-of-editing-with-apowerpdf-a-comprehensive-guide/"><u>Mastering the Art of Editing with ApowerPDF: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-proper-management-of-end-user-details-using-windows-setup-software/"><u>Step-by-Step Guide: Proper Management of End-User Details Using Windows Setup Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/strengthen-your-network-safeguards-with-these-8-basic-tips-by-malwarefox/"><u>Strengthen Your Network Safeguards with These 8 Basic Tips by MalwareFox</u></a></li>
-<li><a href="https://win-updates.techidaily.com/trustworthy-anti-spyware-software-malwarefoxs-proven-defense-strategy-against-unwanted-tracking/"><u>Trustworthy Anti-Spyware Software: MalwareFox's Proven Defense Strategy Against Unwanted Tracking</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-a-deep-dive-into-youtube-writers-workshop-space-for-2024/"><u>[New] A Deep Dive Into YouTube’ Writers' Workshop Space for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximizing-profits-the-ultimate-guide-to-youtube-revenue/"><u>[New] Maximizing Profits The Ultimate Guide to YouTube Revenue</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-flip-the-script-on-instagram-vids-complete-guide/"><u>[Updated] In 2024, Flip the Script on Instagram Vids [Complete Guide]</u></a></li>
+<li><a href="https://win-updates.techidaily.com/best-4-video-compression-apps-for-optimized-sharing-on-facebook/"><u>Best 4 Video Compression Apps for Optimized Sharing on Facebook</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/build-your-own-mythical-landscape-leveraging-chatgpt-for-world-creation/"><u>Build Your Own Mythical Landscape - Leveraging ChatGPT for World Creation</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effectiveness-of-factory-restores-does-it-wipe-out-android-trojans-worms-and-spyware-as-per-malwarefox-analysis/"><u>Effectiveness of Factory Restores: Does It Wipe Out Android Trojans, Worms, and Spyware as per MalwareFox Analysis?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/exploring-the-landscape-of-cyber-threats-219-ransomware-insights-and-graphical-overview/"><u>Exploring the Landscape of Cyber Threats: 2^19 Ransomware Insights and Graphical Overview</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-innovative-approaches-to-healthcare-marketing-on-facebook/"><u>In 2024, Innovative Approaches to Healthcare Marketing on Facebook</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-from-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide from iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-updates.techidaily.com/msi-upgrades-versus-msp-navigating-through-microsofts-system-package-options/"><u>MSI Upgrades Versus MSP: Navigating Through Microsoft's System Package Options</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/photoshop-magic-master-the-art-of-background-elimination-for-2024/"><u>Photoshop Magic Master the Art of Background Elimination for 2024</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/ultimate-guide-top-substitutes-for-bandicam-on-computers-and-apple-devices/"><u>Ultimate Guide: Top Substitutes for Bandicam on Computers and Apple Devices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-rootkits-detection-techniques-and-operational-mechanisms-on-windows-systems/"><u>Understanding Rootkits: Detection Techniques & Operational Mechanisms on Windows Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating Your Own Protective USB Key for Windows 10 Defense"
-date: 2024-09-30T17:43:56.203Z
-updated: 2024-10-05T17:59:32.129Z
+date: 2024-10-05T01:35:45.834Z
+updated: 2024-10-10T16:51:15.539Z
 tags:
   - product
   - antivirus
@@ -52,6 +52,13 @@ The cheaper alternative is creating your own USB login key. However, for that, y
 
 Every coin has two sides. Likewise, security keys also have two sides, positive and negative. Let us list them out.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Pros:**
 
 * A USB security would provide an extra layer of protection to your device by forming a two-factor authentication.
@@ -74,13 +81,6 @@ You can create a USB security key on Windows 10 using an in-built program – **
 
 The first step is to enable the BitLocker on your system Drive, that is, the drive where the Windows 10 is installed.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Enable Bitlocker**
 
 – Open File Explorer and go to “My PC.”
@@ -89,16 +89,16 @@ The first step is to enable the BitLocker on your system Drive, that is, the dri
 
 ![Turn on BitLocker.](https://www.malwarefox.com/wp-content/uploads/2020/06/Turn-on-BitLocker.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 – Follow the on-screen steps, and at the end, click on “**Start encrypting.**“
 
 ![Start encrypting](https://www.malwarefox.com/wp-content/uploads/2020/06/Bitlocker-encryption.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 – Your system would restart, and then encryption would begin, which would take some time, depending on the size of the drive.
 
@@ -111,13 +111,6 @@ In Windows search bar, type “group policy editor” and click on the relatable
 ![Open Group Policy Editor](https://www.malwarefox.com/wp-content/uploads/2020/06/Group-Policy-Editor.png)
 2. **Navigate to Operating System Drives**  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Follow this path **Computer Configuration -> Administrative Templates -> Windows Components -> BitLocker Drive Encryption -> Operating System Drives**
 3. **Open Require Additional Authentication at startup**  
 Look for “**Require Additional Authentication at startup**” and open it.  
@@ -125,19 +118,40 @@ Look for “**Require Additional Authentication at startup**” and open it.
 4. **Enable it and Configure its settings**  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 A new window would open, click on **Enable** bullet option. There’s a drop-down menu labeled “**Configure TPM startup key**.” Change this to “**Require Startup Key With TPM.**“  
 ![Enable additional authentication](https://www.malwarefox.com/wp-content/uploads/2020/06/Enable-additional-authentication.png)
 5. **Run Command Prompt**  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In the final step, run Command Prompt as admin and type this command:  
 **manage-bde -protectors -add c: -TPMAndStartupKey j:**  
 Where ‘c:’ is the drive where Windows is installed and ‘j:’ is assigned to the USB drive.  
 ![Run Command](https://www.malwarefox.com/wp-content/uploads/2020/06/USB-key.png)
+
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [How to Reset Web Browser to Default Setting](https://tools.techidaily.com/malwarefox/products/)
 
@@ -146,13 +160,6 @@ That’s it. The security key is created, and you would be asked to insert it wh
 ## How to create a USB Security Key Using Third-party App?
 
 If you are a Windows 10 home user or you didn’t want to use the complicated method of Windows Bitlocker to create your USB security key, then some third-party applications could help you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **USB Raptor**
 
@@ -165,13 +172,6 @@ With Raptor, you can link the key to the serial number of the drive. The only pr
 [Get Raptor](https://sourceforge.net/projects/usbraptor/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Predator**
 
@@ -186,13 +186,6 @@ Installation of the Predator is easy. Download the installation file and open it
 [Get Predator](https://www.predator-usb.com/predator/en/index.php)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Rohos Logon Key**
 
@@ -209,10 +202,10 @@ Rohos store your login credential into the USB drive, and during startup, when y
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -231,6 +224,13 @@ While creating a key, you would always be prompted to create a recovery method i
 
 [According to YubiKey](https://support.yubico.com/support/solutions/articles/15000010242-can-i-duplicate-or-back-up-a-yubikey-), due to security reasons, the firmware of YubiKey does not allow the system to read the drive after it is written. Therefore, it is impossible to create a backup of YubiKey.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 2 thoughts on “How to Make a USB Security Key to Protect Windows 10 PC”
 
 1. ![](https://secure.gravatar.com/avatar/1f15aeebf604b14368e5d572c11913a9?s=50&d=mm&r=g)  
@@ -243,6 +243,13 @@ what about windows 11 this is now outdated information I been looking up informa
    [February 25, 2022 at 2:41 am](https://tools.techidaily.com/malwarefox/products/)  
    Windows 11 is literally just a reskin of Windows 10 (with a few extra features). All of these should work perfectly fine.  
    [Reply](https://tools.techidaily.com/malwarefox/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Leave a Comment [Cancel reply](https://tools.techidaily.com/malwarefox/products/)
 
@@ -269,18 +276,22 @@ Save my name, email, and website in this browser for the next time I comment.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-updates.techidaily.com/comparing-individual-and-device-specific-software-deployment-strategies/"><u>Comparing Individual and Device-Specific Software Deployment Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-baldurs-gate-3-spec-requirements-and-more/"><u>Delving Into Baldur's Gate 3: Spec Requirements & More</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/easy-and-fast-conversion-guide-transforming-gifs-into-avi-format/"><u>Easy and Fast Conversion Guide: Transforming GIFs Into AVI Format</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-methods-to-switch-your-stereo-soundtracks-into-monophonic-playback/"><u>Easy Methods to Switch Your Stereo Soundtracks Into Monophonic Playback</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-effortlessly-configure-task-automation-in-windows-and-macos-systems/"><u>How to Effortlessly Configure Task Automation in Windows and macOS Systems</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/identifying-system-compromise-key-symptoms-of-viruses-on-your-computer/"><u>Identifying System Compromise: Key Symptoms of Viruses on Your Computer</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-motorola-edge-40-neo-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Motorola Edge 40 Neo to Your PC/Mac | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-transformative-typography-in-after-effects/"><u>In 2024, Transformative Typography in After Effects</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/microsoft-office-substitutes-the-best-picks/"><u>Microsoft Office Substitutes: The Best Picks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-15-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-fine-tuned-focus-mastering-online-zooms-and-closures/"><u>[New] 2024 Approved Fine-Tuned Focus Mastering Online Zooms and Closures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-perfect-the-cinematic-ig-look-invest-in-slowing-down/"><u>[Updated] Perfect the Cinematic IG Look Invest in Slowing Down</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/apple-musicmp3/"><u>Apple MusicからMP3へのシームレスな曲変換ガイド</u></a></li>
+<li><a href="https://win-updates.techidaily.com/bts-permission-to-dance-live-show-airing-schedule-how-and-where-to-tune-in/"><u>BTS Permission to Dance Live Show Airing Schedule: How and Where to Tune In</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-ways-to-shift-songs-from-itunes-onto-your-android-phone-or-tablet/"><u>Easy Ways to Shift Songs From iTunes Onto Your Android Phone or Tablet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-poco-m6-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Poco M6 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a24-phone-without-google-account-by-drfone-android/"><u>How to Unlock Samsung Galaxy A24 Phone without Google Account?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-deciphering-revenue-sharing-in-youtube-shorts/"><u>In 2024, Deciphering Revenue Sharing in YouTube Shorts</u></a></li>
+<li><a href="https://network-issues.techidaily.com/settling-the-riddle-peculiar-x-error-in-lol-unraveled/"><u>Settling the Riddle: Peculiar X Error in LoL Unraveled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-adding-pictures-seamlessly-into-a-pdf/"><u>Step-by-Step Guide: Adding Pictures Seamlessly Into a PDF</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-new-age-of-youtube-branding-ideal-channel-titles-for-video-blogging-limited-to-156-characters-for-2024/"><u>The New Age of YouTube Branding Ideal Channel Titles for Video Blogging (Limited to 156 Characters) for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-10-deadliest-cybercriminals-in-history-a-profile-by-malwarefox/"><u>Top 10 Deadliest Cybercriminals in History: A Profile by MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-androids-secure-socket-layer-ssl-certificate-errors/"><u>Troubleshooting Android's Secure Socket Layer (SSL) Certificate Errors</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-changing-content-using-the-apowerpdf-tool/"><u>Ultimate Guide to Changing Content Using the ApowerPDF Tool</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-scareware-a-comprehensive-guide-on-its-risks-to-your-digital-security/"><u>Understanding Scareware: A Comprehensive Guide on Its Risks to Your Digital Security</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-the-distinction-package-creation-vs-package-repackaging/"><u>Understanding the Distinction: Package Creation vs Package Repackaging</u></a></li>
 </ul></div>
 

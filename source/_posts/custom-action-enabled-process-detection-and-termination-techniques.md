@@ -1,7 +1,7 @@
 ---
 title: Custom Action-Enabled Process Detection & Termination Techniques
-date: 2024-10-02T17:33:04.308Z
-updated: 2024-10-05T16:59:58.386Z
+date: 2024-10-10T01:14:21.394Z
+updated: 2024-10-10T23:15:33.166Z
 tags:
   - application-packaging-training
 categories:
@@ -24,10 +24,10 @@ The [custom actions](https://tools.techidaily.com/advancedinstaller/products/) t
 So let’s start an article series where we touch 9 of the most popular custom actions that are used in the industry. In these articles we will have a look on how you can implement them easily with Advanced Installer but also by using VBScript or PowerShell custom actions.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Terminate Process in Advanced Installer
@@ -43,6 +43,13 @@ For example, let’s say I want to terminate the notepad.exe process. With Advan
 3\. Type the process name (in our case notepad.exe)
 
 ![AI Terminate Process](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AITermProcess.png "AI Terminate Process")  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4\. Build and run the installation
 
@@ -80,6 +87,13 @@ This VBScript code is used to terminate all instances of the "Notepad.exe" proce
 
 ![Note](https://cdn.advancedinstaller.com/svg/common/IconMessageNote.svg)To learn more parameters for the taskkill utility type taskkill.exe /? In 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. Using the Win32\_Process via WMI query
 
 strComputer = "."
@@ -115,13 +129,6 @@ Once you have your VBScript ready, open Advanced Installer and perform the follo
 ![Launch Attached File](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/AIVBscriptTermProcess.png "Launch Attached File")  
 
 4\. Build and run the installer
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Terminate Process with PowerShell
 
@@ -162,10 +169,10 @@ Once you have your PowerShell script ready, open Advanced Installer and perform 
 5\. Build and run the Installer
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Particular Terminate Process Scenario
@@ -175,6 +182,13 @@ While the above examples are covering most of the cases when it comes to process
 If you have multiple Java applications opened and check the Task Manager, you will see that you actually have multiple Java.exe processes running.
 
 ![Java.exe processes running](https://cdn.advancedinstaller.com/img/process-handling-with-custom-actions/java1.png "Java.exe processes running")  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 As you might imagine, if you are using the above techniques you will close all the Java processes which is not something we are aiming for. What we need is a way to identify each Java process for which application it is. The best way to do this is to find the command line for each Java process and find out which command line corresponds to your application. For full details on how to get the command line [check out this article](https://www.alexandrumarin.com/close-specific-java-process-application-with-vbscript/ "check out this article").
 
@@ -318,17 +332,10 @@ This VBScript checks if the process "notepad.exe" is running on the local comput
 ![Important](https://cdn.advancedinstaller.com/svg/common/IconMessageInfo.svg)Make sure that the ISPROCESSRUNNING property is available in the MSI before executing the script.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Detect Process with PowerShell
@@ -398,13 +405,6 @@ While notepad.exe is running, the script continues to run, thus blocking the ins
 * Loop: Returns to the start of the loop and checks the process collection count again. If there are still processes, the loop continues.
 * Set objWMIService = Nothing and Set colProcessList = Nothing: Releases the references to the WMI service and the process collection to free up system resources.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Wait for Process with PowerShell
 
 With PowerShell it’s even easier to wait for a process because PowerShell offers the [Wait-Process cmdlet](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/wait-process?view=powershell-7.3 "Wait-Process cmdlet") which can be easily used as such:
@@ -430,24 +430,20 @@ Of course you can easily add it in Advanced Installer as previously shown with t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-techniques-for-securing-ps4-gameplay-moments/"><u>[New] In 2024, Essential Techniques for Securing PS4 Gameplay Moments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-pinnacle-of-scripts-across-the-cinematic-universes-sections/"><u>[New] The Pinnacle of Scripts Across the Cinematic Universe's Sections</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-full-hd-watching-of-twit-videos-for-2024/"><u>[Updated] Streamlining Full HD Watching of Twit Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-premier-5-ios-photo-background-swap-apps/"><u>[Updated] The Premier 5 iOS Photo Background Swap Apps</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cant-connect-to-xbox-online-server-outage-or-local-internet-problems/"><u>Can't Connect to Xbox Online - Server Outage or Local Internet Problems?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/cant-delete-mcafee-from-your-system-successful-steps-to-fully-eliminate-mcafee-antivirus/"><u>Can't Delete McAfee From Your System? Successful Steps to Fully Eliminate McAfee Antivirus</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-steps-to-successfully-downloading-tunes-on-your-lg-smartphone/"><u>Easy Steps to Successfully Downloading Tunes on Your LG Smartphone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/find-and-install-updated-hp-deskjet-2700-printing-software-download-tutorial/"><u>Find and Install Updated HP Deskjet 2700 Printing Software: Download Tutorial</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-13-pro-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 13 Pro Stuck at attempting data recovery Loop | Stellar</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/live-streaming-smartphones-and-highlighting-user-intent-with-actionable-words-like-guide-and-switching/"><u>Live Streaming, Smartphones, and Highlighting User Intent with Actionable Words Like Guide and Switching.</u></a></li>
-<li><a href="https://win-updates.techidaily.com/resolving-connection-issues-compatibility-between-iphones-phone-manager-and-itunes-version-121/"><u>Resolving Connection Issues: Compatibility Between iPhone's Phone Manager and iTunes Version 12.1</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/smartpet-solutions-reviewed-top-value-findings/"><u>SmartPet Solutions Reviewed: Top Value Findings</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-disabling-find-my-iphone-feature-safely-without-a-passcode/"><u>Step-by-Step Guide: Disabling Find My iPhone Feature Safely without a Passcode</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-recognizing-and-stopping-malicious-programs-via-task-manager/"><u>Step-by-Step Guide: Recognizing and Stopping Malicious Programs via Task Manager</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-safeguarding-your-facebook-presence-against-hacking-and-privacy-breaches/"><u>Step-by-Step Guide: Safeguarding Your Facebook Presence Against Hacking and Privacy Breaches</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-5-stunning-websites-that-echo-the-vibe-of-lastfm/"><u>Top 5 Stunning Websites That Echo the Vibe of Last.fm</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-6-image-enhancement-software-picking-the-best-from-various-platforms/"><u>Top 6 Image Enhancement Software Picking the Best From Various Platforms</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/visual-language-warp-the-photographic-transformers-guide/"><u>Visual Language Warp The Photographic Transformer's Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-prime-portals-for-digital-type-art/"><u>[New] 2024 Approved Prime Portals for Digital Type Art</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-seamless-video-recording-on-ios-and-android-select-the-best-apps/"><u>[New] Seamless Video Recording on iOS & Android Select the Best Apps</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unraveling-time-reverse-video-on-instagram-secrets-for-2024/"><u>[Updated] Unraveling Time Reverse Video on Instagram Secrets for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oneplus-ace-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on OnePlus Ace 2 | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/alert-protect-your-apple-device-from-gmail-malware-and-trojan-invasion/"><u>Alert! Protect Your Apple Device From Gmail Malware and Trojan Invasion</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-application-repackaging-methods-mastering-msi-vs-exe-file-formats/"><u>Effective Application Repackaging Methods: Mastering MSI Vs. EXE File Formats</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-6s-by-drfone-ios/"><u>How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 6s</u></a></li>
+<li><a href="https://windows11.techidaily.com/lost-thumbnail-images-on-windows-11-a-step-by-step-resolution/"><u>Lost Thumbnail Images on Windows 11: A Step-by-Step Resolution</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/make-the-right-choice-a-detailed-comparison-between-iphone-and-android-devices/"><u>Make The Right Choice: A Detailed Comparison Between iPhone and Android Devices</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterful-mix-sweeping-sound-sections-for-2024/"><u>Masterful Mix Sweeping Sound Sections for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/msi-upgrades-versus-msp-navigating-through-microsofts-system-package-options/"><u>MSI Upgrades Versus MSP: Navigating Through Microsoft's System Package Options</u></a></li>
+<li><a href="https://fox-info.techidaily.com/premiere-mkv-player-suite-pcmobile-for-2024/"><u>Premiere MKV Player Suite (PC/Mobile) for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ransomware-explained-insights-and-prevention-tips-from-malwarefox/"><u>Ransomware Explained: Insights and Prevention Tips From MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-10-effective-online-protection-strategies-for-children-insights-from-malwarefox/"><u>Top 10 Effective Online Protection Strategies for Children: Insights From MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-online-toolset-for-effective-photo-background-elimination/"><u>Ultimate Online Toolset for Effective Photo Background Elimination</u></a></li>
 </ul></div>
 

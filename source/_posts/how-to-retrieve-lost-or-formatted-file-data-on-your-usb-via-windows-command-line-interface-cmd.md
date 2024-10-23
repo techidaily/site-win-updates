@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve Lost or Formatted File Data on Your USB via Windows Command Line Interface (CMD)
-date: 2024-10-11T09:02:14.219Z
-updated: 2024-10-16T22:28:27.635Z
+date: 2024-10-17T19:31:15.982Z
+updated: 2024-10-22T18:40:35.871Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de84f78ea466db32363417497.jpg
@@ -50,10 +50,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -76,6 +76,13 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -93,13 +100,6 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -177,13 +177,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -204,6 +197,13 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -218,13 +218,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -234,16 +227,10 @@ Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affronta
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusione
@@ -258,13 +245,6 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -275,6 +255,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Scarica Gratis AOMEI Backupper Ora
 
 Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione.
@@ -282,6 +269,13 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -300,20 +294,22 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-how-to-add-border-to-instagram-video/"><u>[New] In 2024, How to Add Border to Instagram Video?</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-retro-revelry-on-snapchat-camera-roll-insights/"><u>[Updated] 2024 Approved Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-the-ultimate-process-to-update-your-videos-cover-images/"><u>[Updated] 2024 Approved The Ultimate Process to Update Your Videos' Cover Images</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-view-comments-on-youtube/"><u>2024 Approved How to View Comments on YouTube</u></a></li>
-<li><a href="https://win-updates.techidaily.com/7-ways-to-recover-deleted-photos-from-pc-android-or-iphone-detailed-guide/"><u>7 Ways to Recover Deleted Photos From PC, Android or iPhone - Detailed Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728490238176-hddssd/"><u>安全にデータ保護しつつ自分でHDDをSSDにアップグレードする方法</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-analysis-unpacking-the-long-lasting-performance-of-hps-newest-laptop-omnibook-x-with-snapdragon-x-processor/"><u>Expert Analysis: Unpacking the Long-Lasting Performance of HP's Newest Laptop, OmniBook X with Snapdragon X Processor</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guida-passo-passo-per-creare-un-disco-di-ripristino-di-emergenza-su-windows-nnovation/"><u>Guida Passo-Passo per Creare Un Disco Di Ripristino Di Emergenza Su Windows Nnovation.</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guide-how-to-clone-a-hard-drive-with-dual-booting-on-an-ssd/"><u>Guide: How to Clone a Hard Drive with Dual Booting on an SSD</u></a></li>
-<li><a href="https://win-updates.techidaily.com/hp-elitebook-850-g6-storage-upgrade-tutorial-step-by-step-instructional-video/"><u>HP EliteBook 850 G6 Storage Upgrade Tutorial: Step-by-Step Instructional Video</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cerebral-showdowns-top-general-knowledge-videos/"><u>In 2024, Cerebral Showdowns - Top General Knowledge Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-secrets-of-slow-motion-expert-advice-using-photo-apps-and-websites/"><u>In 2024, Unlock the Secrets of Slow Motion Expert Advice Using Photo Apps & Websites</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-trio-techniques-retrieving-data-seagate-portable-hdd-3-step-guide-and-restore-files/"><u>Simple, Trio Techniques, Retrieving Data, Seagate Portable HDD, 3-Step Guide, and Restore Files.</u></a></li>
-<li><a href="https://windows11.techidaily.com/typingspeed-surge-with-typingaid-tools/"><u>TypingSpeed Surge with TypingAid Tools</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-solving-the-persistent-windows-11-spinner-problem-in-any-situation/"><u>Ultimate Guide to Solving the Persistent Windows 11 Spinner Problem in Any Situation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-hulu-recording-guide-for-pcmacios-devices-for-2024/"><u>[Updated] Comprehensive Hulu Recording Guide for PC/Mac/iOS Devices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-examining-the-elite-the-top-10-pc-vr-headsets-of-now/"><u>[Updated] Examining the Elite The Top 10 PC VR Headsets of Now</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728485228156-windows-113/"><u>画面回転機能を無効化する:Windows 11のための3つの解決策</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728493496491-5/"><u>消えてしまった文書を取り戻す！パソコンで実行する5つの迅速なテクニック</u></a></li>
+<li><a href="https://win-updates.techidaily.com/come-ripristinare-la-tua-partizione-gpt-una-guida-completa/"><u>Come Ripristinare La Tua Partizione GPT: Una Guida Completa</u></a></li>
+<li><a href="https://win-updates.techidaily.com/como-criar-uma-particao-de-restaurar-o-fabricante-com-o-aomei-onekey-recovery/"><u>Como Criar Uma Partição De Restaurar O Fabricante Com O AOMEI OneKey Recovery</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/five-to-fiveteen-tactics-against-oculus-discomfort-for-2024/"><u>Five to Fiveteen Tactics Against Oculus Discomfort for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-xiaomi-redmi-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-add-music-in-premiere-pro-in-2024/"><u>How To Add Music In Premiere Pro, In 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-capturing-the-skies-in-depth-mavic-pro-discussion/"><u>In 2024, Capturing the Skies - In-Depth Mavic Pro Discussion</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-mastering-instagram-utilizing-search-to-expand-your-filters/"><u>In 2024, Mastering Instagram Utilizing Search to Expand Your Filters</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mise-en-place-de-la-sauvegarde-automatique-avec-un-stockage-nas-synology-sous-windows-11/"><u>Mise en Place De La Sauvegarde Automatique Avec Un Stockage NAS Synology Sous Windows 11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/relative-roughness-ed-is-a-critical-parameter-along-with-reynolds-number-when-using-the-moody-chart/"><u>Relative Roughness (Ε/D) Is a Critical Parameter Along with Reynolds Number when Using the Moody Chart.</u></a></li>
+<li><a href="https://win-updates.techidaily.com/schnell-und-einfach-wie-uberspielst-du-nicht-gekaufte-musik-auf-dein-neues-iphone/"><u>Schnell Und Einfach: Wie Überspielst Du Nicht Gekaufte Musik Auf Dein Neues iPhone?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-on-asus-maximus-x-hero-driver-updates-for-enhanced-performance/"><u>Step-by-Step Tutorial on ASUS Maximus X Hero Driver Updates for Enhanced Performance</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-expansion-coefficient-is-the-rate-at-which-a-material-expands-or-contracts-in-response-to-temperature-changes-matching-this-closely-with-natural-tooth-s347/"><u>The Expansion Coefficient Is the Rate at Which a Material Expands or Contracts in Response to Temperature Changes. Matching This Closely with Natural Tooth Structure Minimizes Stress and Potential Damage.</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-tutorial-creating-a-bootable-win-image-plus-top-substitutes/"><u>Ultimate Tutorial: Creating a Bootable Win Image - Plus Top Substitutes</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2024-11-28T17:28:35.401Z
-updated: 2024-11-30T17:12:52.011Z
+date: 2024-12-04T22:41:16.307Z
+updated: 2024-12-08T22:09:23.488Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,20 +60,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-decoding-whatsapps-vocal-messaging-innovation/"><u>[New] Decoding WhatsApp's Vocal Messaging Innovation</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-windowcut-film-maker/"><u>[New] In 2024, WindowCut Film Maker</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-achieving-pristine-video-quality-on-youtube/"><u>[Updated] 2024 Approved Achieving Pristine Video Quality on YouTube</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-secrets-of-storing-whatsapp-conversations/"><u>[Updated] In 2024, Secrets of Storing WhatsApp Conversations</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-strategies-for-creating-hit-memes/"><u>[Updated] Strategies for Creating Hit Memes</u></a></li>
-<li><a href="https://win-updates.techidaily.com/3-effektive-strategien-fur-die-erstellung-von-windows-11-bootfreundlichen-sicherungskopien/"><u>3 Effektive Strategien Für Die Erstellung Von Windows 11-Bootfreundlichen Sicherungskopien</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728485868485-windows-11/"><u>修复 Windows 11 问题：管理员手册 - 详细指南于批量删除下载</u></a></li>
-<li><a href="https://win-updates.techidaily.com/back-up-your-iphone-effortlessly-onto-a-usb-hard-drive-in-windows-10/"><u>Back Up Your iPhone Effortlessly Onto a USB Hard Drive in Windows 10</u></a></li>
-<li><a href="https://article-helps.techidaily.com/conquering-hdr-photography-with-ease/"><u>Conquering HDR Photography with Ease</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-se-2020-5-ways-to-get-into-a-locked-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone SE (2020)? 5 Ways to get into a Locked Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-8-live-video-enhancers-for-online-broadcasts/"><u>In 2024, Top 8 Live Video Enhancers for Online Broadcasts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/sicheres-loschen-von-datentragern-umfassender-leitfaden-zum-entfernen-von-dateien-auf-ssds-in-windows-11/"><u>Sicheres Löschen Von Datenträgern: Umfassender Leitfaden Zum Entfernen Von Dateien Auf SSDs in Windows 11</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-for-making-a-windows-11-boot-image-in-just-five-easy-steps/"><u>Step-by-Step Tutorial for Making a Windows 11 Boot Image in Just Five Easy Steps</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-troubleshooting-guide-solving-iphone-xs-x-app-download-issues/"><u>Ultimate Troubleshooting Guide: Solving iPhone XS-X - App Download Issues</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728497641223-windows/"><u>Windowsサーバーにおけるバックアップミスを解消する専門的なガイド</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate-for-2024/"><u>[New] Unleashing Potential in Screen Recording Expertise in Adobe Captivate for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-organize-a-virtual-gathering-using-zoom-on-android/"><u>[Updated] How to Organize a Virtual Gathering Using Zoom on Android</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-master-youtube-sound-playback-variations/"><u>[Updated] In 2024, Master YouTube Sound Playback Variations</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-comprehensive-guide-monitor-multiple-cryptocurrency-wallets-bsv-bch-btc-simultaneously-with-yl-computings-unified-dashboard-solution/"><u>1. Comprehensive Guide: Monitor Multiple Cryptocurrency Wallets (BSV, BCH, BTC) Simultaneously with YL Computing's Unified Dashboard Solution</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>2024 Approved Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-best-5-programs-for-snagging-facebook-feeds/"><u>2024 Approved The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/easy-access-to-expert-tech-insights/"><u>Easy Access to Expert Tech Insights</u></a></li>
+<li><a href="https://win-updates.techidaily.com/repair-techniques-for-malfunctioning-pc-parts-insights-by-yl-technology-experts/"><u>Repair Techniques for Malfunctioning PC Parts: Insights by YL Technology Experts</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/securely-reset-your-windows-10-or-11-os-for-free-protect-and-preserve-your-files/"><u>Securely Reset Your Windows 10 or 11 OS for Free – Protect and Preserve Your Files!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/transforming-music-interaction-a-solution-beyond-ksr-web-app-for-artists-song-choices/"><u>Transforming Music Interaction: A Solution Beyond KSR Web-App for Artists' Song Choices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-guide-for-non-responsive-scanners-by-yl-software-experts/"><u>Troubleshooting Guide for Non-Responsive Scanners by YL Software Experts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-lenovo-keyboard/"><u>Troubleshooting Tips: How to Fix a Non-Responsive Lenovo Keyboard</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unexpected-pc-power-losses-identifying-causes-and-fixes-expert-advice-from-yl-computing/"><u>Unexpected PC Power Losses: Identifying Causes & Fixes - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/what-are-luts-and-how-they-change-your-photography/"><u>What Are LUTs and How They Change Your Photography</u></a></li>
 </ul></div>
 

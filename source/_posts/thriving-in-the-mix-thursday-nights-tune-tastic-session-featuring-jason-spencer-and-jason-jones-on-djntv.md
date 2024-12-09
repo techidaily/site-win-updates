@@ -1,7 +1,7 @@
 ---
 title: "Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV"
-date: 2024-11-29T18:06:19.739Z
-updated: 2024-11-30T16:09:13.323Z
+date: 2024-12-06T22:56:55.335Z
+updated: 2024-12-08T18:24:27.079Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
 **In this video Jason Spencer discusses how he plays to the crowd, and what crowd queue’s to read to ensure you keep the dance floor packed and the night a memorable one.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,21 +44,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/mobilemusiccoverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mac-tools-to-tighten-instagram-video-content/"><u>[Updated] 2024 Approved Mac Tools to Tighten Instagram Video Content</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-mastering-the-art-of-moving-twitter-videos-into-whatsapp/"><u>[Updated] In 2024, Mastering the Art of Moving Twitter Videos Into WhatsApp</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-from-novice-to-pro-the-essentials-in-zooming-for-youtube-broadcasts/"><u>2024 Approved From Novice to Pro The Essentials in Zooming for YouTube Broadcasts</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-ultimate-guide-to-alternative-screen-recording-software/"><u>2024 Approved The Ultimate Guide to Alternative Screen Recording Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728489539826-win10/"><u>易如反掌的 Win10 硬碟分割區救回方法</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-steps-downloading-and-installing-insignia-adapter-usb-drivers/"><u>Easy Steps: Downloading & Installing Insignia Adapter USB Drivers</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effortless-steps-to-transfer-your-operating-system-onto-a-new-solid-state-drive/"><u>Effortless Steps to Transfer Your Operating System Onto a New Solid State Drive</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-14-pro-max-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 14 Pro Max Factory Reset? | Stellar</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-tapered-music-transitions-an-intuitive-premiere-pro-tutorial/"><u>In 2024, Tapered Music Transitions An Intuitive Premiere Pro Tutorial</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-x100-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo X100 Location | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/instalacion-rapida-de-windows-cuenta-sin-contrasena-en-una-sola-pc-tecnica-de-creacion-de-un-usb-bootable/"><u>Instalación Rápida De Windows Cuenta Sin Contraseña en Una Sola PC - Técnica De Creación De Un USB Bootable</u></a></li>
-<li><a href="https://win-updates.techidaily.com/story-2-the-kernel-confusion/"><u>Story 2: The Kernel Confusion</u></a></li>
-<li><a href="https://review-topics.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshooting-excessive-resource-use-21-strategies-for-dealing-with-overutilized-system-storage/"><u>Troubleshooting Excessive Resource Use: 21 Strategies for Dealing with Overutilized System Storage</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728461960439-windows-11/"><u>Windows 11: ゴミ箱から消えたファイルの完全復活方法講座</u></a></li>
-<li><a href="https://win-updates.techidaily.com/windows-11-0x800f0806-kb5017321/"><u>Windows 11におけるエラー 0X800f0806: KB5017321を成功裏にインストールする方法</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-star-stirred-stories-for-your-whatsapp-bio/"><u>[New] 2024 Approved Crafting Star-Stirred Stories for Your WhatsApp Bio</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-launched-visuals-review-synopsis/"><u>[New] 2024 Approved Launched Visuals Review Synopsis</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-minecraft-screen-capture-a-mac-guide/"><u>[New] 2024 Approved Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-digital-design-integrating-text-with-visuals-for-improved-clarity/"><u>[Updated] Master Digital Design Integrating Text with Visuals for Improved Clarity</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy Z Flip 5 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/come-clonare-la-partizione-di-ripristino-da-uno-a-un-altro-disco-rigido/"><u>Come Clonare La Partizione Di Ripristino Da Uno a Un Altro Disco Rigido</u></a></li>
+<li><a href="https://win-updates.techidaily.com/dr-who-themed-wallpapers-and-desktop-backgrounds-visual-collection-yl-software-solutions/"><u>Dr. Who Themed Wallpapers & Desktop Backgrounds: Visual Collection - YL Software Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/elevate-your-space-with-hinano-kurahashi-inspired-backgrounds-from-yl-software-experts/"><u>Elevate Your Space with Hinano Kurahashi-Inspired Backgrounds From YL Software Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-stop-your-pc-from-hangingcrashing-expert-advice-by-yl-software/"><u>How To Stop Your PC From Hanging/Crashing: Expert Advice by YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-a38-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo A38 Through Google Earth?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/retrieve-past-buys-quickly-view-archived-orders-on-the-yl-software-platform/"><u>Retrieve Past Buys Quickly - View Archived Orders on the YL Software Platform!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/section-cuestionario-de-seccion-2c-five-levels-of-questions-with-solutions/"><u>Section Cuestionario De Sección 2C: Five Levels of Questions with Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-windows-defender-comprehensive-guide-to-its-role-in-securing-your-pc-yl-tech-insights/"><u>Understanding Windows Defender: Comprehensive Guide to Its Role in Securing Your PC - YL Tech Insights</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/unleash-creativity-for-captivating-fb-video-marketing-strategies/"><u>Unleash Creativity for Captivating Fb Video Marketing Strategies</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-run-a-costless-on-site-version-of-chatgpt-on-windows-using-the-revolutionary-gpt4all-technology/"><u>Unlock the Power of AI: Run a Costless, On-Site Version of ChatGPT on Windows Using the Revolutionary GPT4All Technology</u></a></li>
+<li><a href="https://win-updates.techidaily.com/winutilities-a-step-by-step-guide-to-purging-large-obsolete-files-and-video-data/"><u>WinUtilities: A Step-by-Step Guide to Purging Large, Obsolete Files and Video Data</u></a></li>
 </ul></div>
 

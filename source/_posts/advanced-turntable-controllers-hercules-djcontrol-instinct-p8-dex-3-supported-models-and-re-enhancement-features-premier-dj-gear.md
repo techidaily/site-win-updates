@@ -1,7 +1,7 @@
 ---
 title: "Advanced Turntable Controllers: Hercules DJControl Instinct P8, DEX 3 Supported Models and RE Enhancement Features | Premier DJ Gear"
-date: 2024-11-24T16:52:50.537Z
-updated: 2024-11-30T17:59:32.796Z
+date: 2024-12-07T01:16:11.188Z
+updated: 2024-12-08T23:04:52.638Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,19 +66,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-unlocking-srt-secrets-comprehensive-knowledge-guide-for-2024/"><u>[Updated] Unlocking SRT Secrets Comprehensive Knowledge Guide for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/best-techniques-for-professional-audio-capture-on-a-windows-10-pc/"><u>Best Techniques for Professional Audio Capture on a Windows 10 PC</u></a></li>
-<li><a href="https://win-updates.techidaily.com/convert-webm-files-free-fast-online-mp4-video-format-transformation/"><u>Convert WebM Files Free: Fast Online MP4 Video Format Transformation</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-steps-transforming-images-into-motion-a-beginners-guide/"><u>Easy Steps: Transforming Images Into Motion - A Beginner's Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/expert-guide-mastering-registry-modifications-through-the-advanced-installer-platform/"><u>Expert Guide: Mastering Registry Modifications Through the Advanced Installer Platform</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/stream-to-screen-how-to-download-youtube-on-iphoneipad-for-2024/"><u>From Stream to Screen How to Download Youtube on iPhone/iPad for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-transfer-your-free-iphone-tracks-to-pc-or-mac-without-costs/"><u>How to Transfer Your Free iPhone Tracks to PC or Mac Without Costs</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-realme-c53-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Realme C53 Without PUK Codes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-iphone-video-clarity-in-premiere-pro-amidst-highlights-and-shadows-for-2024/"><u>Mastering iPhone Video Clarity in Premiere Pro Amidst Highlights and Shadows for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/maximizing-impact-in-snapchat-spotlight/"><u>Maximizing Impact in Snapchat Spotlight</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-most-popular-3d-video-making-tools-among-professionals-for-2024/"><u>New The Most Popular 3D Video Making Tools Among Professionals for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/protect-your-chrome-from-malicious-notification-attacks-essential-tips/"><u>Protect Your Chrome From Malicious Notification Attacks: Essential Tips</u></a></li>
-<li><a href="https://win-data.techidaily.com/repariert-iphone-nachrichten-und-bilder-werden-nicht-angezeigt-losungswege/"><u>Repariert: IPhone-Nachrichten Und Bilder Werden Nicht Angezeigt - Lösungswege</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-undercover-upscalers-guide-to-clear-visuals-for-2024/"><u>The Undercover Upscaler's Guide to Clear Visuals for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-dial-in-to-youtube-chat-no-huge-follower-requirement/"><u>[New] 2024 Approved Dial in to YouTube Chat, No Huge Follower Requirement</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-advanced-motion-cameras-12-featuring-accurate-position-tracking/"><u>[New] Advanced Motion Cameras 12 Featuring Accurate Position Tracking</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-comprehensive-guide-monitor-multiple-cryptocurrency-wallets-bsv-bch-btc-simultaneously-with-yl-computings-unified-dashboard-solution/"><u>1. Comprehensive Guide: Monitor Multiple Cryptocurrency Wallets (BSV, BCH, BTC) Simultaneously with YL Computing's Unified Dashboard Solution</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>2024 Approved Unboxing Titans of YouTube - The Most Popular</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-installation-made-easy-for-windows-users/"><u>ChatGPT Installation Made Easy for Windows Users!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oppo-a1x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Oppo A1x 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y100-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y100 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>In 2024, Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
+<li><a href="https://win-updates.techidaily.com/is-your-pc-slower-after-upgrading-to-windows-11-uncover-why-and-how-to-fix-it-insights-from-yl-software/"><u>Is Your PC Slower After Upgrading to Windows 11? Uncover Why and How to Fix It | Insights From YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/repair-techniques-for-malfunctioning-pc-parts-insights-by-yl-technology-experts/"><u>Repair Techniques for Malfunctioning PC Parts: Insights by YL Technology Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/significant-moments-in-chinese-civilization-explored-by-yl-computing-and-yl-software-experts/"><u>Significant Moments in Chinese Civilization Explored by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide-to-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide to Latest Hardware</u></a></li>
+<li><a href="https://win-updates.techidaily.com/transforming-music-interaction-a-solution-beyond-ksr-web-app-for-artists-song-choices/"><u>Transforming Music Interaction: A Solution Beyond KSR Web-App for Artists' Song Choices</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unexpected-pc-power-losses-identifying-causes-and-fixes-expert-advice-from-yl-computing/"><u>Unexpected PC Power Losses: Identifying Causes & Fixes - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/utilizing-command-line-arguments-for-multi-window-operation-in-emeditor-text-editor/"><u>Utilizing Command-Line Arguments for Multi-Window Operation in EmEditor Text Editor</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Turntable Controllers: Hercules DJControl Instinct P8, DEX 3 Supported Models and RE Enhancement Features | Premier DJ Gear"
-date: 2024-12-07T01:16:11.188Z
-updated: 2024-12-08T23:04:52.638Z
+date: 2024-12-07T22:02:46.553Z
+updated: 2024-12-14T22:52:09.460Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,20 +66,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-dial-in-to-youtube-chat-no-huge-follower-requirement/"><u>[New] 2024 Approved Dial in to YouTube Chat, No Huge Follower Requirement</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-advanced-motion-cameras-12-featuring-accurate-position-tracking/"><u>[New] Advanced Motion Cameras 12 Featuring Accurate Position Tracking</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-comprehensive-guide-monitor-multiple-cryptocurrency-wallets-bsv-bch-btc-simultaneously-with-yl-computings-unified-dashboard-solution/"><u>1. Comprehensive Guide: Monitor Multiple Cryptocurrency Wallets (BSV, BCH, BTC) Simultaneously with YL Computing's Unified Dashboard Solution</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unboxing-titans-of-youtube-the-most-popular/"><u>2024 Approved Unboxing Titans of YouTube - The Most Popular</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-installation-made-easy-for-windows-users/"><u>ChatGPT Installation Made Easy for Windows Users!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-without-backup-on-oppo-a1x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery without backup on Oppo A1x 5G</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y100-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y100 Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-make-gif-on-iphone-top-10-gif-apps-for-iphone-x876/"><u>In 2024, Make GIF on iPhone Top 10 GIF Apps for iPhone X/8/7/6</u></a></li>
-<li><a href="https://win-updates.techidaily.com/is-your-pc-slower-after-upgrading-to-windows-11-uncover-why-and-how-to-fix-it-insights-from-yl-software/"><u>Is Your PC Slower After Upgrading to Windows 11? Uncover Why and How to Fix It | Insights From YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/repair-techniques-for-malfunctioning-pc-parts-insights-by-yl-technology-experts/"><u>Repair Techniques for Malfunctioning PC Parts: Insights by YL Technology Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/significant-moments-in-chinese-civilization-explored-by-yl-computing-and-yl-software-experts/"><u>Significant Moments in Chinese Civilization Explored by YL Computing and YL Software Experts</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-guide-to-latest-hardware/"><u>Tom's Tech Reviews: Comprehensive Guide to Latest Hardware</u></a></li>
-<li><a href="https://win-updates.techidaily.com/transforming-music-interaction-a-solution-beyond-ksr-web-app-for-artists-song-choices/"><u>Transforming Music Interaction: A Solution Beyond KSR Web-App for Artists' Song Choices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unexpected-pc-power-losses-identifying-causes-and-fixes-expert-advice-from-yl-computing/"><u>Unexpected PC Power Losses: Identifying Causes & Fixes - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/utilizing-command-line-arguments-for-multi-window-operation-in-emeditor-text-editor/"><u>Utilizing Command-Line Arguments for Multi-Window Operation in EmEditor Text Editor</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-razer-kiyo-webcam-detailed-review/"><u>[New] In 2024, Razer Kiyo Webcam - Detailed Review</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-evaluation-of-samsungs-image-editing-software-for-2024/"><u>[New] The Ultimate Evaluation of Samsung's Image Editing Software for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[Updated] In 2024, Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>[Updated] The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-adding-sparkle-to-your-content-incorinasing-unique-story-emojis/"><u>2024 Approved Adding Sparkle to Your Content Incorinasing Unique Story Emojis</u></a></li>
+<li><a href="https://win-updates.techidaily.com/boost-your-pcs-efficiency-top-tips-and-tricks-from-yl-computing-and-software/"><u>Boost Your PC's Efficiency: Top Tips & Tricks From YL Computing & Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/can-you-fix-a-broken-keyboard-with-ease-uncover-the-truth-in-our-guide-yl-tech-solutions/"><u>Can You Fix a Broken Keyboard with Ease? Uncover the Truth in Our Guide - YL Tech Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-of-logitech-c270-video-camera-driver-for-enhanced-streaming-on-windows-10-and-11/"><u>Easy Installation of Logitech C270 Video Camera Driver for Enhanced Streaming on Windows 10 and 11</u></a></li>
+<li><a href="https://win-updates.techidaily.com/essential-strategies-for-djs-boosting-your-trivia-showbook-with-top-notch-tactics/"><u>Essential Strategies For DJs: Boosting Your Trivia Showbook With Top-Notch Tactics</u></a></li>
+<li><a href="https://win-updates.techidaily.com/expert-tips-on-restoring-your-failed-hard-drive-with-yls-trusted-solutions/"><u>Expert Tips on Restoring Your Failed Hard Drive with YL's Trusted Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-14-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi 14 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revamping-subtitles-from-srt-with-ease/"><u>In 2024, Revamping Subtitles From SRT with Ease</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-quick-fixes-with-one-click-maintenance-a-step-by-step-guide-for-windows-7-to-11-using-winutilities-powered-by-yl-software/"><u>Mastering Quick Fixes with One-Click Maintenance: A Step-by-Step Guide for Windows 7 to 11 Using WinUtilities - Powered by YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-identifying-your-graphics-cards-driver-version-on-a-windows-pc-tech-insights-by-yl/"><u>Step-by-Step Guide: Identifying Your Graphics Card's Driver Version on a Windows PC - Tech Insights by YL</u></a></li>
+<li><a href="https://win-updates.techidaily.com/yl-software-tips-how-to-easily-navigate-to-the-control-panel-through-the-windows-start-menu/"><u>YL Software Tips: How to Easily Navigate to the Control Panel Through the Windows Start Menu</u></a></li>
 </ul></div>
 

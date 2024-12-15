@@ -1,7 +1,7 @@
 ---
 title: "Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV"
-date: 2024-12-06T22:56:55.335Z
-updated: 2024-12-08T18:24:27.079Z
+date: 2024-12-09T21:07:57.549Z
+updated: 2024-12-14T18:56:21.582Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
 **In this video Jason Spencer discusses how he plays to the crowd, and what crowd queue’s to read to ensure you keep the dance floor packed and the night a memorable one.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,21 +44,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/mobilemusiccoverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-crafting-star-stirred-stories-for-your-whatsapp-bio/"><u>[New] 2024 Approved Crafting Star-Stirred Stories for Your WhatsApp Bio</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-launched-visuals-review-synopsis/"><u>[New] 2024 Approved Launched Visuals Review Synopsis</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-minecraft-screen-capture-a-mac-guide/"><u>[New] 2024 Approved Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-digital-design-integrating-text-with-visuals-for-improved-clarity/"><u>[Updated] Master Digital Design Integrating Text with Visuals for Improved Clarity</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Samsung Galaxy Z Flip 5 to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/come-clonare-la-partizione-di-ripristino-da-uno-a-un-altro-disco-rigido/"><u>Come Clonare La Partizione Di Ripristino Da Uno a Un Altro Disco Rigido</u></a></li>
-<li><a href="https://win-updates.techidaily.com/dr-who-themed-wallpapers-and-desktop-backgrounds-visual-collection-yl-software-solutions/"><u>Dr. Who Themed Wallpapers & Desktop Backgrounds: Visual Collection - YL Software Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/elevate-your-space-with-hinano-kurahashi-inspired-backgrounds-from-yl-software-experts/"><u>Elevate Your Space with Hinano Kurahashi-Inspired Backgrounds From YL Software Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-stop-your-pc-from-hangingcrashing-expert-advice-by-yl-software/"><u>How To Stop Your PC From Hanging/Crashing: Expert Advice by YL Software</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-a38-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo A38 Through Google Earth?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/retrieve-past-buys-quickly-view-archived-orders-on-the-yl-software-platform/"><u>Retrieve Past Buys Quickly - View Archived Orders on the YL Software Platform!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/section-cuestionario-de-seccion-2c-five-levels-of-questions-with-solutions/"><u>Section Cuestionario De Sección 2C: Five Levels of Questions with Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-windows-defender-comprehensive-guide-to-its-role-in-securing-your-pc-yl-tech-insights/"><u>Understanding Windows Defender: Comprehensive Guide to Its Role in Securing Your PC - YL Tech Insights</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/unleash-creativity-for-captivating-fb-video-marketing-strategies/"><u>Unleash Creativity for Captivating Fb Video Marketing Strategies</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-ai-run-a-costless-on-site-version-of-chatgpt-on-windows-using-the-revolutionary-gpt4all-technology/"><u>Unlock the Power of AI: Run a Costless, On-Site Version of ChatGPT on Windows Using the Revolutionary GPT4All Technology</u></a></li>
-<li><a href="https://win-updates.techidaily.com/winutilities-a-step-by-step-guide-to-purging-large-obsolete-files-and-video-data/"><u>WinUtilities: A Step-by-Step Guide to Purging Large, Obsolete Files and Video Data</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ultimate-watchlist-best-apps-for-real-time-track-and-field-events/"><u>[New] 2024 Approved Ultimate Watchlist Best Apps for Real-Time Track & Field Events</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop/"><u>[New] From Amateurs to Pros Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-book-trailers-reviewed-top-5-picks-revealed/"><u>[New] In 2024, Book Trailers Reviewed Top 5 Picks Revealed</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-step-by-step-guide-directly-print-from-your-browser-with-yl-software-yl-computing/"><u>1. Step-by-Step Guide: Directly Print From Your Browser with YL Software - YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/dance-through-the-pandemic-unleashing-the-power-of-djs-in-helping-us-flourish-amidst-social-isolation/"><u>Dance Through the Pandemic: Unleashing the Power of DJs in Helping Us Flourish Amidst Social Isolation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fortnite-troubleshooting-overcoming-permission-denied-to-play-issues/"><u>Fortnite Troubleshooting: Overcoming 'Permission Denied to Play' Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-shake-reduction-companion-for-cams/"><u>In 2024, Quick Shake Reduction Companion for Cams</u></a></li>
+<li><a href="https://win-updates.techidaily.com/master-your-mixing-skills-with-numark-controllers-featuring-party-mix-liveparty-mix-ii-plus-dex-3-support/"><u>Master Your Mixing Skills with Numark Controllers, Featuring Party Mix Live/Party Mix II + DEX 3 Support!</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mastering-the-art-of-choosing-and-crafting-whatsapp-alerts-for-2024/"><u>Mastering the Art of Choosing & Crafting WhatsApp Alerts for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-to-making-a-new-folder-tips-from-yl-software-experts/"><u>Step-by-Step Guide to Making a New Folder: Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-updating-your-pcs-device-drivers-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC's Device Drivers - Tips by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/three-essential-steps-apple-needs-to-take-for-successful-vision-pro-launch-insights/"><u>Three Essential Steps Apple Needs to Take for Successful Vision Pro Launch: Insights</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/trouble-connecting-in-lol-heres-a-step-by-step-guide-for-stable-gameplay/"><u>Trouble Connecting in LoL? Here's a Step-by-Step Guide for Stable Gameplay</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-your-pc-pinpointing-faulty-hardware-in-your-windows-environment-tips-from-yl-computing/"><u>Troubleshooting Your PC: Pinpointing Faulty Hardware in Your Windows Environment - Tips From YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unveiling-microsofts-secret-a-step-by-step-guide-on-accessing-windows-registry/"><u>Unveiling Microsoft's Secret: A Step-by-Step Guide on Accessing Windows Registry</u></a></li>
 </ul></div>
 

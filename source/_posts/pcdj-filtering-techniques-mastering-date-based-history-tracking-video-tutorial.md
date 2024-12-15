@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Filtering Techniques: Mastering Date-Based History Tracking - Video Tutorial"
-date: 2024-12-05T20:07:32.422Z
-updated: 2024-12-09T01:01:07.532Z
+date: 2024-12-11T19:41:42.728Z
+updated: 2024-12-14T23:51:27.907Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,24 +59,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unlock-growth-potential-with-savvy-analysis-of-youtube-data/"><u>[New] In 2024, Unlock Growth Potential with Savvy Analysis of YouTube Data</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-10-drone-teams-for-cinematic-mastery/"><u>[New] Premier 10-Drone Teams for Cinematic Mastery</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-avoiding-legal-issues-best-practices-for-zoom-records/"><u>[Updated] In 2024, Avoiding Legal Issues Best Practices for Zoom Records</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-metaverse-versus-multi-meva-unraveling-their-differences/"><u>[Updated] In 2024, The Metaverse Versus Multi-Meva Unraveling Their Differences</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-optimizing-titles-and-tags-for-improved-youtube-visibility/"><u>2024 Approved Optimizing Titles and Tags for Improved YouTube Visibility</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oneplus-nord-3-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror OnePlus Nord 3 5G to Roku | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726027639469-facebook/"><u>Facebook動画編集技術：トリミングから混合まで</u></a></li>
-<li><a href="https://win-updates.techidaily.com/honda-nsx-digital-artwork-and-backgrounds-by-yl-computing-premium-desktop-decor/"><u>Honda NSX Digital Artwork and Backgrounds by YL Computing: Premium Desktop Decor</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-protect-your-pc-from-virus-induced-slowdowns-tips-by-yl-computing/"><u>How to Protect Your PC From Virus-Induced Slowdowns - Tips by YL Computing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-how-to-make-a-youtube-subscribe-link-easy/"><u>In 2024, How to Make a YouTube Subscribe Link - Easy</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-tax-compliance-your-guide-to-understanding-tax-rules-with-yl-computings-expert-software-solutions/"><u>Mastering Tax Compliance: Your Guide to Understanding Tax Rules with YL Computing's Expert Software Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/navigating-notification-settings-on-windows-10-a-comprehensive-guide-by-yl-computing/"><u>Navigating Notification Settings on Windows 10: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/proactive-measures-identifying-and-shielding-your-pc-from-spyware-threats-a-guide-by-yl-computing/"><u>Proactive Measures: Identifying & Shielding Your PC From Spyware Threats - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/setting-up-a-new-user-profile-a-step-by-step-guide-with-yl-computings-software/"><u>Setting Up a New User Profile: A Step-by-Step Guide with YL Computing's Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/specialist-recommendations-the-quintessential-5-cameras-for-2024/"><u>Specialist Recommendations The Quintessential 5 Cameras for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/understanding-intellectual-property-rights-on-video-screen-captures/"><u>Understanding Intellectual Property Rights on Video Screen Captures</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unveiling-mao-zedongs-role-as-the-establisher-of-prc-insights-from-yl-tech-solutions/"><u>Unveiling Mao Zedong's Role as the Establisher of PRC - Insights From YL Tech Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/yl-softwares-cryptocurrency-balance-checker-is-it-free-or-does-it-charge/"><u>YL Software's Cryptocurrency Balance Checker: Is It Free or Does It Charge?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/your-crowd-favorite-fifty-songs-feature-karaoke-cloud-pro-update-51217-unveiled/"><u>Your Crowd Favorite: Fifty Songs Feature - Karaoke Cloud Pro Update (5/12/17) Unveiled!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-overcoming-error-code-887a0005/"><u>Black Ops Cold War Troubleshooting Guide: Overcoming Error Code 887A0005</u></a></li>
+<li><a href="https://win-updates.techidaily.com/expert-dj-tips-unveiling-the-pros-and-cons-of-youtube-downloads-in-beatmixing-and-karaoke/"><u>Expert DJ Tips: Unveiling the Pros and Cons of YouTube Downloads in Beatmixing & Karaoke</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-microsoft-sound-drivers-installed-on-windows-systems-now/"><u>Get the Newest Microsoft Sound Drivers Installed on Windows Systems Now!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/getting-started-installing-your-epson-xp-245-driver-on-various-windows-versions/"><u>Getting Started: Installing Your Epson XP-245 Driver on Various Windows Versions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-profitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>In 2024, Profitability Probe DailyMovement Versus YouTube's Financial Edge</u></a></li>
+<li><a href="https://win-updates.techidaily.com/navigating-through-user-account-settings-with-windows-control-panel-a-guide-by-yl-software/"><u>Navigating Through User Account Settings with Windows Control Panel: A Guide by YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/safe-mode-operations-ensuring-your-graphics-processing-unit-gpu-is-functional-tips-from-yl-software-experts/"><u>Safe Mode Operations: Ensuring Your Graphics Processing Unit (GPU) Is Functional - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/setting-up-your-gadgets-a-step-by-step-guide-with-yl-computings-solutions/"><u>Setting Up Your Gadgets: A Step-by-Step Guide with YL Computing's Solutions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlined-update-process-for-windows-11s-nvidia-sound-system/"><u>Streamlined Update Process for Windows 11’S NVIDIA Sound System</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-5-benefits-of-choosing-our-pcdj-dj-software-a-comprehensive-guide/"><u>Top 5 Benefits of Choosing Our PCDJ DJ Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y28-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y28 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-steps-repairing-defective-memory-modules-insights-by-yl-computing/"><u>Troubleshooting Steps: Repairing Defective Memory Modules - Insights by YL Computing</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-cut-editing-time-in-half-40-final-cut-pro-x-keyboard-shortcuts/"><u>Updated 2024 Approved Cut Editing Time in Half 40 Final Cut Pro X Keyboard Shortcuts</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-and-cut-divx-videos-without-spending-a-dime-2023-guide/"><u>Updated 2024 Approved Edit and Cut Divx Videos Without Spending a Dime (2023 Guide)</u></a></li>
+<li><a href="https://win-updates.techidaily.com/when-your-pc-acts-up-determining-if-its-time-to-replace-your-motherboard-due-to-cpu-issues-tips-from-yl-software/"><u>When Your PC Acts Up: Determining if It's Time to Replace Your Motherboard Due to CPU Issues – Tips From YL Software</u></a></li>
 </ul></div>
 

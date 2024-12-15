@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2024-12-04T22:41:16.307Z
-updated: 2024-12-08T22:09:23.488Z
+date: 2024-12-12T00:00:01.153Z
+updated: 2024-12-14T21:30:34.819Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,19 +60,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate-for-2024/"><u>[New] Unleashing Potential in Screen Recording Expertise in Adobe Captivate for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-organize-a-virtual-gathering-using-zoom-on-android/"><u>[Updated] How to Organize a Virtual Gathering Using Zoom on Android</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-master-youtube-sound-playback-variations/"><u>[Updated] In 2024, Master YouTube Sound Playback Variations</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-comprehensive-guide-monitor-multiple-cryptocurrency-wallets-bsv-bch-btc-simultaneously-with-yl-computings-unified-dashboard-solution/"><u>1. Comprehensive Guide: Monitor Multiple Cryptocurrency Wallets (BSV, BCH, BTC) Simultaneously with YL Computing's Unified Dashboard Solution</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-charting-the-course-to-youtube-success-top-5-strategies-inside/"><u>2024 Approved Charting the Course to YouTube Success – Top 5 Strategies Inside</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-best-5-programs-for-snagging-facebook-feeds/"><u>2024 Approved The Best 5 Programs for Snagging Facebook Feeds</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/easy-access-to-expert-tech-insights/"><u>Easy Access to Expert Tech Insights</u></a></li>
-<li><a href="https://win-updates.techidaily.com/repair-techniques-for-malfunctioning-pc-parts-insights-by-yl-technology-experts/"><u>Repair Techniques for Malfunctioning PC Parts: Insights by YL Technology Experts</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/securely-reset-your-windows-10-or-11-os-for-free-protect-and-preserve-your-files/"><u>Securely Reset Your Windows 10 or 11 OS for Free – Protect and Preserve Your Files!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/transforming-music-interaction-a-solution-beyond-ksr-web-app-for-artists-song-choices/"><u>Transforming Music Interaction: A Solution Beyond KSR Web-App for Artists' Song Choices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshooting-guide-for-non-responsive-scanners-by-yl-software-experts/"><u>Troubleshooting Guide for Non-Responsive Scanners by YL Software Experts</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-how-to-fix-a-non-responsive-lenovo-keyboard/"><u>Troubleshooting Tips: How to Fix a Non-Responsive Lenovo Keyboard</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unexpected-pc-power-losses-identifying-causes-and-fixes-expert-advice-from-yl-computing/"><u>Unexpected PC Power Losses: Identifying Causes & Fixes - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/what-are-luts-and-how-they-change-your-photography/"><u>What Are LUTs and How They Change Your Photography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mov-files-saving-methods-for-windows-10-users-for-2024/"><u>[New] .mov Files Saving Methods for Windows 10 Users for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-precision-in-sound-10-tips-for-professional-audio-quality-for-2024/"><u>[Updated] Precision in Sound 10 Tips for Professional Audio Quality for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/avoiding-the-pitfalls-of-fake-icos-tips-and-techniques-by-yl-software-professionals/"><u>Avoiding the Pitfalls of Fake ICOs: Tips & Techniques by YL Software Professionals</u></a></li>
+<li><a href="https://win-updates.techidaily.com/check-if-your-windows-machine-meets-dj-hardware-requirements-using-our-reliable-dpc-latency-tester/"><u>Check if Your Windows Machine Meets DJ Hardware Requirements Using Our Reliable DPC Latency Tester</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-hot-40i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Hot 40i Face Lock?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-fix-a-non-responsive-scanner-solutions-from-yl-computings-software-suite/"><u>How to Fix a Non-Responsive Scanner: Solutions From YL Computing's Software Suite</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g04-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G04 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://os-tips.techidaily.com/permanent-removal-of-your-iphones-google-location-data-a-step-by-step-guide/"><u>Permanent Removal of Your iPhone's Google Location Data: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-d3dx926dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_26.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/safeguarding-your-blockchain-wealth-expert-tips-on-securing-crypto-assets-using-yl-computing-technologies/"><u>Safeguarding Your Blockchain Wealth: Expert Tips on Securing Crypto Assets Using YL Computing Technologies</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-picks-for-your-next-shot-in-4k-reflective-tech/"><u>Top Picks for Your Next Shot in 4K Reflective Tech</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/yl-software-guidance-boosting-system-speed-and-responsiveness-after-new-hardware-installation/"><u>YL Software Guidance: Boosting System Speed and Responsiveness After New Hardware Installation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Advanced Turntable Controllers: Hercules DJControl Instinct P8, DEX 3 Supported Models and RE Enhancement Features | Premier DJ Gear"
-date: 2024-12-07T22:02:46.553Z
-updated: 2024-12-14T22:52:09.460Z
+date: 2024-12-19T02:24:00.386Z
+updated: 2024-12-24T01:26:26.872Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,20 +66,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-razer-kiyo-webcam-detailed-review/"><u>[New] In 2024, Razer Kiyo Webcam - Detailed Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-evaluation-of-samsungs-image-editing-software-for-2024/"><u>[New] The Ultimate Evaluation of Samsung's Image Editing Software for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[Updated] In 2024, Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-the-fascinating-world-of-stock-pictures-and-meme-lore/"><u>[Updated] The Fascinating World of Stock Pictures & Meme Lore</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-adding-sparkle-to-your-content-incorinasing-unique-story-emojis/"><u>2024 Approved Adding Sparkle to Your Content Incorinasing Unique Story Emojis</u></a></li>
-<li><a href="https://win-updates.techidaily.com/boost-your-pcs-efficiency-top-tips-and-tricks-from-yl-computing-and-software/"><u>Boost Your PC's Efficiency: Top Tips & Tricks From YL Computing & Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/can-you-fix-a-broken-keyboard-with-ease-uncover-the-truth-in-our-guide-yl-tech-solutions/"><u>Can You Fix a Broken Keyboard with Ease? Uncover the Truth in Our Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-installation-of-logitech-c270-video-camera-driver-for-enhanced-streaming-on-windows-10-and-11/"><u>Easy Installation of Logitech C270 Video Camera Driver for Enhanced Streaming on Windows 10 and 11</u></a></li>
-<li><a href="https://win-updates.techidaily.com/essential-strategies-for-djs-boosting-your-trivia-showbook-with-top-notch-tactics/"><u>Essential Strategies For DJs: Boosting Your Trivia Showbook With Top-Notch Tactics</u></a></li>
-<li><a href="https://win-updates.techidaily.com/expert-tips-on-restoring-your-failed-hard-drive-with-yls-trusted-solutions/"><u>Expert Tips on Restoring Your Failed Hard Drive with YL's Trusted Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-xiaomi-14-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Xiaomi 14 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-revamping-subtitles-from-srt-with-ease/"><u>In 2024, Revamping Subtitles From SRT with Ease</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-quick-fixes-with-one-click-maintenance-a-step-by-step-guide-for-windows-7-to-11-using-winutilities-powered-by-yl-software/"><u>Mastering Quick Fixes with One-Click Maintenance: A Step-by-Step Guide for Windows 7 to 11 Using WinUtilities - Powered by YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-identifying-your-graphics-cards-driver-version-on-a-windows-pc-tech-insights-by-yl/"><u>Step-by-Step Guide: Identifying Your Graphics Card's Driver Version on a Windows PC - Tech Insights by YL</u></a></li>
-<li><a href="https://win-updates.techidaily.com/yl-software-tips-how-to-easily-navigate-to-the-control-panel-through-the-windows-start-menu/"><u>YL Software Tips: How to Easily Navigate to the Control Panel Through the Windows Start Menu</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-perfect-pairing-selecting-macpc-blu-ray-player-suites/"><u>[New] 2024 Approved Perfect Pairing Selecting Mac/PC Blu-Ray Player Suites</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-masterfb-mp4-hacking-facebook-videos-with-ease-for-2024/"><u>[New] MasterFB-MP4 Hacking Facebook Videos with Ease for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-augmented-reality-excellence-mastering-the-use-of-spark-ar-luts/"><u>[Updated] 2024 Approved Augmented Reality Excellence Mastering the Use of Spark AR LUTs</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-the-metaverse-meme-phenomenon-a-comprehensive-overview/"><u>[Updated] 2024 Approved The Metaverse Meme Phenomenon A Comprehensive Overview</u></a></li>
+<li><a href="https://win-updates.techidaily.com/backup-windows-registry-with-ease-a-comprehensive-guide-by-yl-software/"><u>Backup Windows Registry with Ease: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/captivating-android-time-lapses-ideas-and-strategies-2024/"><u>Captivating Android Time-Lapses Ideas and Strategies 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-solutions-to-fix-system-lockups-advice-by-yl-software-experts/"><u>Effective Solutions to Fix System Lockups - Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/exploring-the-origins-of-the-ancient-chinese-dynasty-a-historical-overview/"><u>Exploring the Origins of the Ancient Chinese Dynasty: A Historical Overview</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-mkv-to-gif-converter-use-movavi-web-tools/"><u>Free Online MKV to GIF Converter - Use Movavi Web Tools</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-the-mystery-of-persistent-windows-crashes-expert-tips-from-yl-computing/"><u>Solving the Mystery of Persistent Windows Crashes: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-gopro-camera-leap-hero4-to-hero5/"><u>The GoPro Camera Leap (Hero4 to Hero5)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV"
-date: 2024-12-09T21:07:57.549Z
-updated: 2024-12-14T18:56:21.582Z
+date: 2024-12-21T16:04:13.966Z
+updated: 2024-12-23T22:06:17.957Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
 **In this video Jason Spencer discusses how he plays to the crowd, and what crowd queue’s to read to ensure you keep the dance floor packed and the night a memorable one.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,21 +44,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/mobilemusiccoverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-ultimate-watchlist-best-apps-for-real-time-track-and-field-events/"><u>[New] 2024 Approved Ultimate Watchlist Best Apps for Real-Time Track & Field Events</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-amateurs-to-pros-step-by-step-guide-on-mastering-background-erasing-in-adobe-photoshop/"><u>[New] From Amateurs to Pros Step-by-Step Guide on Mastering Background Erasing in Adobe Photoshop</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-book-trailers-reviewed-top-5-picks-revealed/"><u>[New] In 2024, Book Trailers Reviewed Top 5 Picks Revealed</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-step-by-step-guide-directly-print-from-your-browser-with-yl-software-yl-computing/"><u>1. Step-by-Step Guide: Directly Print From Your Browser with YL Software - YL Computing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/dance-through-the-pandemic-unleashing-the-power-of-djs-in-helping-us-flourish-amidst-social-isolation/"><u>Dance Through the Pandemic: Unleashing the Power of DJs in Helping Us Flourish Amidst Social Isolation</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fortnite-troubleshooting-overcoming-permission-denied-to-play-issues/"><u>Fortnite Troubleshooting: Overcoming 'Permission Denied to Play' Issues</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-quick-shake-reduction-companion-for-cams/"><u>In 2024, Quick Shake Reduction Companion for Cams</u></a></li>
-<li><a href="https://win-updates.techidaily.com/master-your-mixing-skills-with-numark-controllers-featuring-party-mix-liveparty-mix-ii-plus-dex-3-support/"><u>Master Your Mixing Skills with Numark Controllers, Featuring Party Mix Live/Party Mix II + DEX 3 Support!</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mastering-the-art-of-choosing-and-crafting-whatsapp-alerts-for-2024/"><u>Mastering the Art of Choosing & Crafting WhatsApp Alerts for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-to-making-a-new-folder-tips-from-yl-software-experts/"><u>Step-by-Step Guide to Making a New Folder: Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-updating-your-pcs-device-drivers-tips-by-yl-computing/"><u>Step-by-Step Guide: Updating Your PC's Device Drivers - Tips by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/three-essential-steps-apple-needs-to-take-for-successful-vision-pro-launch-insights/"><u>Three Essential Steps Apple Needs to Take for Successful Vision Pro Launch: Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/trouble-connecting-in-lol-heres-a-step-by-step-guide-for-stable-gameplay/"><u>Trouble Connecting in LoL? Here's a Step-by-Step Guide for Stable Gameplay</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshooting-your-pc-pinpointing-faulty-hardware-in-your-windows-environment-tips-from-yl-computing/"><u>Troubleshooting Your PC: Pinpointing Faulty Hardware in Your Windows Environment - Tips From YL Computing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unveiling-microsofts-secret-a-step-by-step-guide-on-accessing-windows-registry/"><u>Unveiling Microsoft's Secret: A Step-by-Step Guide on Accessing Windows Registry</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>[New] In 2024, From Viewer to Video Voyager Building Strong Backlinks in YouTube</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-selfie-impact-on-instagram-the-zoom-guide-for-2024/"><u>[Updated] Enhancing Selfie Impact on Instagram The Zoom Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-earning-on-youtube-shorts/"><u>[Updated] The Ultimate Guide to Earning on Youtube Shorts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/advanced-task-status-icons-yl-computings-premium-collection-for-business-applications/"><u>Advanced Task Status Icons: YL Computing's Premium Collection for Business Applications</u></a></li>
+<li><a href="https://win-updates.techidaily.com/controversy-at-indonesian-school-teacher-reprimanded-for-haircutting-incident-involving-10plus-students-in-hijabs-psychological-help-promised-as-calls-for-d20/"><u>Controversy at Indonesian School: Teacher Reprimanded for Haircutting Incident Involving 10+ Students in Hijabs; Psychological Help Promised as Calls for Dismissal Grow</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-secrets-of-the-top-8-social-apps-for-popularity-on-facebook-platform/"><u>In 2024, Secrets of the Top 8 Social Apps for Popularity on Facebook Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovative-audio-tools-crafting-perfect-virtual-performances/"><u>Innovative Audio Tools Crafting Perfect Virtual Performances</u></a></li>
+<li><a href="https://win-updates.techidaily.com/protect-your-tech-assets-comprehensive-guide-on-avoiding-damage-from-static-electricity-by-yl-experts/"><u>Protect Your Tech Assets: Comprehensive Guide on Avoiding Damage From Static Electricity by YL Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solutions-for-preventing-computer-overheating-expert-advice-by-yl-software-professionals/"><u>Solutions for Preventing Computer Overheating - Expert Advice by YL Software Professionals</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209528164-9780753733561-tiny-healer-meditation/"><u>Tiny Healer: Meditation | Free Book</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2024-12-12T00:00:01.153Z
-updated: 2024-12-14T21:30:34.819Z
+date: 2024-12-20T02:04:44.562Z
+updated: 2024-12-23T18:25:01.895Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,18 +60,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-mov-files-saving-methods-for-windows-10-users-for-2024/"><u>[New] .mov Files Saving Methods for Windows 10 Users for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-precision-in-sound-10-tips-for-professional-audio-quality-for-2024/"><u>[Updated] Precision in Sound 10 Tips for Professional Audio Quality for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/avoiding-the-pitfalls-of-fake-icos-tips-and-techniques-by-yl-software-professionals/"><u>Avoiding the Pitfalls of Fake ICOs: Tips & Techniques by YL Software Professionals</u></a></li>
-<li><a href="https://win-updates.techidaily.com/check-if-your-windows-machine-meets-dj-hardware-requirements-using-our-reliable-dpc-latency-tester/"><u>Check if Your Windows Machine Meets DJ Hardware Requirements Using Our Reliable DPC Latency Tester</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-hot-40i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Hot 40i Face Lock?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-fix-a-non-responsive-scanner-solutions-from-yl-computings-software-suite/"><u>How to Fix a Non-Responsive Scanner: Solutions From YL Computing's Software Suite</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-motorola-moto-g04-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Motorola Moto G04 FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://os-tips.techidaily.com/permanent-removal-of-your-iphones-google-location-data-a-step-by-step-guide/"><u>Permanent Removal of Your iPhone's Google Location Data: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-d3dx926dll-error-a-comprehensive-guide/"><u>Resolving d3dx9_26.dll Error: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/safeguarding-your-blockchain-wealth-expert-tips-on-securing-crypto-assets-using-yl-computing-technologies/"><u>Safeguarding Your Blockchain Wealth: Expert Tips on Securing Crypto Assets Using YL Computing Technologies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-picks-for-your-next-shot-in-4k-reflective-tech/"><u>Top Picks for Your Next Shot in 4K Reflective Tech</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/yl-software-guidance-boosting-system-speed-and-responsiveness-after-new-hardware-installation/"><u>YL Software Guidance: Boosting System Speed and Responsiveness After New Hardware Installation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-channeling-success-navigating-the-new-youtube-membership-model/"><u>[New] In 2024, Channeling Success Navigating the New YouTube Membership Model</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-effective-strategies-for-mov-video-recording-in-windows-11/"><u>[Updated] In 2024, Effective Strategies for MOV Video Recording in Windows 11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-minecraft-the-best-practices-to-record-gameplay/"><u>[Updated] In 2024, Mastering Minecraft The Best Practices to Record Gameplay</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-capturing-cultures-a-step-by-step-guide-for-aspiring-travel-vloggers/"><u>2024 Approved Capturing Cultures A Step-by-Step Guide for Aspiring Travel Vloggers</u></a></li>
+<li><a href="https://win-updates.techidaily.com/a-comprehensive-guide-on-purchasing-and-trading-cryptocurrencies-insights-from-yl-computings-expertise/"><u>A Comprehensive Guide on Purchasing & Trading Cryptocurrencies: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-updates.techidaily.com/adjusting-control-panel-options-on-windows-os-tutorial-by-yl-software-experts/"><u>Adjusting Control Panel Options on Windows OS Tutorial by YL Software Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/boost-your-pcs-creativity-with-top-tier-localized-ai-art-tools/"><u>Boost Your PC's Creativity with Top-Tier Localized AI Art Tools</u></a></li>
+<li><a href="https://win-updates.techidaily.com/diagnosing-graphic-glitches-the-common-culprits-affecting-your-graphics-card-explained-with-yl-software-insights/"><u>Diagnosing Graphic Glitches: The Common Culprits Affecting Your Graphics Card Explained with YL Software Insights</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-solutions-to-fix-system-lockups-advice-by-yl-software-experts/"><u>Effective Solutions to Fix System Lockups - Advice by YL Software Experts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/explore-top-ringtones-for-pixel-devices-for-2024/"><u>Explore Top Ringtones for Pixel Devices for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-remove-driver-programs-on-windows-a-guide-by-yl-computing/"><u>How to Remove Driver Programs on Windows: A Guide by YL Computing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-2023s-best-screen-recorder-discover-with-camstudio/"><u>In 2024, 2023'S Best Screen Recorder? Discover with CamStudio</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-gamers-guide-to-lgs-360-degree-vr-experience/"><u>In 2024, A Gamer's Guide to LG's 360-Degree VR Experience</u></a></li>
+<li><a href="https://win-updates.techidaily.com/key-maintenance-practices-for-optimal-pc-performance-tips-by-yl-computing-and-yl-software-experts/"><u>Key Maintenance Practices for Optimal PC Performance - Tips by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-the-mystery-of-persistent-windows-crashes-expert-tips-from-yl-computing/"><u>Solving the Mystery of Persistent Windows Crashes: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stream-disneys-content-seamlessly-connect-your-account-to-chromecast-today/"><u>Stream Disney's Content Seamlessly: Connect Your Account to Chromecast Today!</u></a></li>
 </ul></div>
 

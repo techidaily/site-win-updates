@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Filtering Techniques: Mastering Date-Based History Tracking - Video Tutorial"
-date: 2024-12-11T19:41:42.728Z
-updated: 2024-12-14T23:51:27.907Z
+date: 2024-12-17T23:00:55.428Z
+updated: 2024-12-24T03:14:13.719Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-answers.techidaily.com/black-ops-cold-war-troubleshooting-guide-overcoming-error-code-887a0005/"><u>Black Ops Cold War Troubleshooting Guide: Overcoming Error Code 887A0005</u></a></li>
-<li><a href="https://win-updates.techidaily.com/expert-dj-tips-unveiling-the-pros-and-cons-of-youtube-downloads-in-beatmixing-and-karaoke/"><u>Expert DJ Tips: Unveiling the Pros and Cons of YouTube Downloads in Beatmixing & Karaoke</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-newest-microsoft-sound-drivers-installed-on-windows-systems-now/"><u>Get the Newest Microsoft Sound Drivers Installed on Windows Systems Now!</u></a></li>
-<li><a href="https://win-dash.techidaily.com/getting-started-installing-your-epson-xp-245-driver-on-various-windows-versions/"><u>Getting Started: Installing Your Epson XP-245 Driver on Various Windows Versions</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-profitability-probe-dailymovement-versus-youtubes-financial-edge/"><u>In 2024, Profitability Probe DailyMovement Versus YouTube's Financial Edge</u></a></li>
-<li><a href="https://win-updates.techidaily.com/navigating-through-user-account-settings-with-windows-control-panel-a-guide-by-yl-software/"><u>Navigating Through User Account Settings with Windows Control Panel: A Guide by YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/safe-mode-operations-ensuring-your-graphics-processing-unit-gpu-is-functional-tips-from-yl-software-experts/"><u>Safe Mode Operations: Ensuring Your Graphics Processing Unit (GPU) Is Functional - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/setting-up-your-gadgets-a-step-by-step-guide-with-yl-computings-solutions/"><u>Setting Up Your Gadgets: A Step-by-Step Guide with YL Computing's Solutions</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-update-process-for-windows-11s-nvidia-sound-system/"><u>Streamlined Update Process for Windows 11’S NVIDIA Sound System</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-5-benefits-of-choosing-our-pcdj-dj-software-a-comprehensive-guide/"><u>Top 5 Benefits of Choosing Our PCDJ DJ Software: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y28-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y28 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshooting-steps-repairing-defective-memory-modules-insights-by-yl-computing/"><u>Troubleshooting Steps: Repairing Defective Memory Modules - Insights by YL Computing</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-cut-editing-time-in-half-40-final-cut-pro-x-keyboard-shortcuts/"><u>Updated 2024 Approved Cut Editing Time in Half 40 Final Cut Pro X Keyboard Shortcuts</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-edit-and-cut-divx-videos-without-spending-a-dime-2023-guide/"><u>Updated 2024 Approved Edit and Cut Divx Videos Without Spending a Dime (2023 Guide)</u></a></li>
-<li><a href="https://win-updates.techidaily.com/when-your-pc-acts-up-determining-if-its-time-to-replace-your-motherboard-due-to-cpu-issues-tips-from-yl-software/"><u>When Your PC Acts Up: Determining if It's Time to Replace Your Motherboard Due to CPU Issues – Tips From YL Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-unlock-the-power-of-periscope-your-complete-manual/"><u>[New] 2024 Approved Unlock the Power of Periscope Your Complete Manual</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pinnacle-workshop-moniker-composer/"><u>2024 Approved Pinnacle Workshop Moniker Composer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/can-you-trust-security-levels-of-yl-computings-crypto-asset-balance-verification/"><u>Can You Trust Security Levels of YL Computing's Crypto Asset Balance Verification?</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/disable-unsolicited-youtube-video-listings-for-2024/"><u>Disable Unsolicited YouTube Video Listings for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/navigating-microsoft-windows-how-to-access-your-control-panel-from-the-start-menu-with-yl-software-help/"><u>Navigating Microsoft Windows: How to Access Your Control Panel From the Start Menu with YL Software Help</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-usb-port-issues-effectively-with-tips-from-yl-software-experts/"><u>Solving USB Port Issues Effectively with Tips From YL Software Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components-t17238628794567/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-why-isnt-my-elden-ring-co-op-functional/"><u>Troubleshooting Guide: Why Isn't My Elden Ring Co-Op Functional?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-resolving-typical-windows-drivers-issues-insights-from-yl-computing/"><u>Ultimate Guide to Resolving Typical Windows Drivers Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/viewing-live-system-processes-via-task-manager-detailed-instructions-from-yl-software-experts/"><u>Viewing Live System Processes via Task Manager: Detailed Instructions From YL Software Experts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-friendly-guide-convert-mkv-to-mp4-quickly/"><u>Win-Friendly Guide: Convert MKV to MP4 Quickly</u></a></li>
 </ul></div>
 

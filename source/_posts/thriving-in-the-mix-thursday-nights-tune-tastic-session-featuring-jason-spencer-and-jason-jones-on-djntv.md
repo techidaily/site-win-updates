@@ -1,7 +1,7 @@
 ---
 title: "Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV"
-date: 2024-12-21T16:04:13.966Z
-updated: 2024-12-23T22:06:17.957Z
+date: 2024-12-26T16:39:33.105Z
+updated: 2024-12-29T16:27:02.913Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
 **In this video Jason Spencer discusses how he plays to the crowd, and what crowd queue’s to read to ensure you keep the dance floor packed and the night a memorable one.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,15 +44,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/mobilemusiccoverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-viewer-to-video-voyager-building-strong-backlinks-in-youtube/"><u>[New] In 2024, From Viewer to Video Voyager Building Strong Backlinks in YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-enhancing-selfie-impact-on-instagram-the-zoom-guide-for-2024/"><u>[Updated] Enhancing Selfie Impact on Instagram The Zoom Guide for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-ultimate-guide-to-earning-on-youtube-shorts/"><u>[Updated] The Ultimate Guide to Earning on Youtube Shorts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/advanced-task-status-icons-yl-computings-premium-collection-for-business-applications/"><u>Advanced Task Status Icons: YL Computing's Premium Collection for Business Applications</u></a></li>
-<li><a href="https://win-updates.techidaily.com/controversy-at-indonesian-school-teacher-reprimanded-for-haircutting-incident-involving-10plus-students-in-hijabs-psychological-help-promised-as-calls-for-d20/"><u>Controversy at Indonesian School: Teacher Reprimanded for Haircutting Incident Involving 10+ Students in Hijabs; Psychological Help Promised as Calls for Dismissal Grow</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-secrets-of-the-top-8-social-apps-for-popularity-on-facebook-platform/"><u>In 2024, Secrets of the Top 8 Social Apps for Popularity on Facebook Platform</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/innovative-audio-tools-crafting-perfect-virtual-performances/"><u>Innovative Audio Tools Crafting Perfect Virtual Performances</u></a></li>
-<li><a href="https://win-updates.techidaily.com/protect-your-tech-assets-comprehensive-guide-on-avoiding-damage-from-static-electricity-by-yl-experts/"><u>Protect Your Tech Assets: Comprehensive Guide on Avoiding Damage From Static Electricity by YL Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/solutions-for-preventing-computer-overheating-expert-advice-by-yl-software-professionals/"><u>Solutions for Preventing Computer Overheating - Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209528164-9780753733561-tiny-healer-meditation/"><u>Tiny Healer: Meditation | Free Book</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-decoding-digital-dynamics-unveiling-the-secret-sauce-for-youtube-success-and-revenue/"><u>[New] 2024 Approved Decoding Digital Dynamics Unveiling the Secret Sauce for YouTube Success & Revenue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-voiceverse-review-audio-deep-dive-for-2024/"><u>[New] VoiceVerse Review Audio Deep Dive for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-a-stepwise-approach-to-srt-mastery-and-expert-tips/"><u>[Updated] 2024 Approved A Stepwise Approach to SRT Mastery and Expert Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-list-most-captivating-phone-based-idlers/"><u>[Updated] Ultimate List Most Captivating Phone-Based Idlers</u></a></li>
+<li><a href="https://win-updates.techidaily.com/avoiding-the-pitfalls-of-fake-icos-tips-and-techniques-by-yl-software-professionals/"><u>Avoiding the Pitfalls of Fake ICOs: Tips & Techniques by YL Software Professionals</u></a></li>
+<li><a href="https://win-updates.techidaily.com/check-if-your-windows-machine-meets-dj-hardware-requirements-using-our-reliable-dpc-latency-tester/"><u>Check if Your Windows Machine Meets DJ Hardware Requirements Using Our Reliable DPC Latency Tester</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/al-dominion-1-to-10-most-watched-youtube-videos-in-a-day/"><u>Digital Dominion #1 to #10 Most Watched YouTube Videos in a Day</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210580395-9781647553081-ghostly-tales-of-minnesota-2nd-ed/"><u>Ghostly Tales of Minnesota (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-fix-a-non-responsive-scanner-solutions-from-yl-computings-software-suite/"><u>How to Fix a Non-Responsive Scanner: Solutions From YL Computing's Software Suite</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-navigate-the-best-exchanges-for-buyingselling-cryptocurrencies-insights-from-yl-computing-experts/"><u>How to Navigate the Best Exchanges for Buying/Selling Cryptocurrencies: Insights From YL Computing Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/managing-permissions-restrict-app-access-on-windows-11-a-guide-by-yl-computing/"><u>Managing Permissions: Restrict App Access on Windows 11 - A Guide by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/movavis-mac-video-creation-guide-ultimate-tips-and-tricks-for-editing-videos-on-your-apple-device/"><u>Movavi's Mac Video Creation Guide: Ultimate Tips and Tricks for Editing Videos on Your Apple Device</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-usb-port-issues-effectively-with-tips-from-yl-software-experts/"><u>Solving USB Port Issues Effectively with Tips From YL Software Experts</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/two-titans-clash-in-the-vr-arena/"><u>Two Titans Clash in the VR Arena</u></a></li>
+<li><a href="https://win-updates.techidaily.com/viewing-live-system-processes-via-task-manager-detailed-instructions-from-yl-software-experts/"><u>Viewing Live System Processes via Task Manager: Detailed Instructions From YL Software Experts</u></a></li>
 </ul></div>
 

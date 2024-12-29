@@ -1,7 +1,7 @@
 ---
 title: Explore LYRX v1.7 RC - Experience Enhanced Music Curation with Online Songbook Feature!
-date: 2024-12-21T19:38:18.022Z
-updated: 2024-12-23T16:05:50.314Z
+date: 2024-12-28T17:16:54.652Z
+updated: 2024-12-29T16:18:21.708Z
 tags:
   - product
 categories:
@@ -43,52 +43,52 @@ Download and try LYRX 1.7 below and test out the new karaoke singer request syst
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/lyrx1.jpg?fit=1030%2C579&ssl=1 "lyrx1")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/lyrx1.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1) Open LYRX 1.7 and click the Options button. Under the “Karaoke” tab, click on the “Login to KSR” button. 
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1 "LYRX2")](https://i1.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX2.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Click on the “Register / Sign Up” Option. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX3.jpg?fit=1030%2C579&ssl=1 "LYRX3")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX3.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Create your account and click “Register”. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX4.jpg?fit=1030%2C579&ssl=1 "LYRX4")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX4.jpg?fit=1030%2C579&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Click on “Authorize”. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1 "LYRX5")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX5.jpg?fit=1030%2C579&ssl=1)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Select the karaoke song lists you wish to share with your singers (Karaoke Catalog for your own music (we’ll explain more below) and Party Tyme Subscription content if you’re a subscriber). You will be prompted to restart after each selection, but wait until each box is checked first. 
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1 "LYRX6")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX6.jpg?fit=1030%2C579&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6) Restart LYRX. 
 
 [![](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1 "LYRX7")](https://i2.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX7.jpg?fit=1030%2C579&ssl=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Add your own karaoke music to the “Karaoke Catalog” special list (located under Special Lists). You can select all your karaoke songs and drag/drop to the list to populate it, or only the karaoke songs you wish to share with singers (currently capped at 100,000 total songs). 
 
 [![](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1 "LYRX8")](https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/LYRX8.jpg?fit=1030%2C579&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8) Go into LYRX’s options and under the “Karaoke” tab click the “Update KSR Songbook” button to sync your list of karaoke music. You will be asked to add a venue/songbook name. Create a unique name and click “OK”. 
@@ -128,24 +128,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2021/04/ksr-coverimage-lyrx.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-soundtrack-your-storytelling-youtube-music-for-video-content/"><u>2024 Approved Soundtrack Your Storytelling YouTube Music for Video Content</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-find-n3-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Find N3 Flip to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/boost-your-pcs-efficiency-top-tips-and-tricks-from-yl-computing-and-software/"><u>Boost Your PC's Efficiency: Top Tips & Tricks From YL Computing & Software</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-enhance-productivity-with-these-20-proven-cost-free-storage-services/"><u>[New] Enhance Productivity With These 20 Proven, Cost-Free Storage Services</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-luts-galore-complimentary-package-now-available-to-dji-fans/"><u>[Updated] 2024 Approved LUTs Galore - Complimentary Package Now Available to DJI Fans</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-ios-psp-gamepads-emulation-2023s-best-list/"><u>[Updated] Top iOS PSP Gamepads Emulation - 2023'S Best List</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-visual-virtuosity-expertly-adding-motion-blur-to-facial-images-via-picsart-for-2024/"><u>[Updated] Visual Virtuosity Expertly Adding Motion Blur to Facial Images via Picsart for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/beginners-blueprint-for-successful-cryptocurrency-exchange-transactions-powered-by-yl-software-technologies/"><u>Beginner's Blueprint for Successful Cryptocurrency Exchange Transactions Powered by YL Software Technologies</u></a></li>
 <li><a href="https://win-updates.techidaily.com/can-you-fix-a-broken-keyboard-with-ease-uncover-the-truth-in-our-guide-yl-tech-solutions/"><u>Can You Fix a Broken Keyboard with Ease? Uncover the Truth in Our Guide - YL Tech Solutions</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-smartphones-cherished-staff-a-behind-the-scenes-look/"><u>Discover the Smartphones Cherished Staff - A Behind-the-Scenes Look</u></a></li>
-<li><a href="https://win-updates.techidaily.com/discover-your-djskills-master-the-basics-with-free-dex-3-le-software-perfect-for-novices-and-hobbyists-alike/"><u>DISCOVER YOUR DJSKILLS: Master the Basics with FREE DEX 3 LE Software - Perfect for Novices and Hobbyists Alike!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/check-if-your-windows-machine-meets-dj-hardware-requirements-using-our-reliable-dpc-latency-tester/"><u>Check if Your Windows Machine Meets DJ Hardware Requirements Using Our Reliable DPC Latency Tester</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fixes-how-to-overcome-apex-legends-load-issues-in-minutes/"><u>Effortless Fixes: How to Overcome Apex Legends Load Issues in Minutes!</u></a></li>
 <li><a href="https://win-updates.techidaily.com/essential-strategies-for-djs-boosting-your-trivia-showbook-with-top-notch-tactics/"><u>Essential Strategies For DJs: Boosting Your Trivia Showbook With Top-Notch Tactics</u></a></li>
-<li><a href="https://win-updates.techidaily.com/expert-tips-on-restoring-your-failed-hard-drive-with-yls-trusted-solutions/"><u>Expert Tips on Restoring Your Failed Hard Drive with YL's Trusted Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/ftdibussys-in-depth-investigating-windows-memory-integrity-breach/"><u>Ftdibus.sys in Depth: Investigating Windows Memory Integrity Breach</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-14-mirror-to-pc-top-apps-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Mirror to PC? Top Apps You Must Know | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-oppo-reno-10-pro-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Oppo Reno 10 Pro 5G Devices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/optimizing-productivity-expert-tips-from-the-world-of-yl-computing-and-yl-software/"><u>Optimizing Productivity: Expert Tips From the World of YL Computing & YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-identifying-your-graphics-cards-driver-version-on-a-windows-pc-tech-insights-by-yl/"><u>Step-by-Step Guide: Identifying Your Graphics Card's Driver Version on a Windows PC - Tech Insights by YL</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/stop-the-freeze-start-winning-with-fallout-4/"><u>Stop the Freeze, Start Winning with Fallout 4</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbeatable-cyber-week-low-cost-laptops-top-picks-below-500-plus-extra-bargain-at-only-99-explore-the-best-offers-on-zdnet/"><u>Unbeatable Cyber Week Low-Cost Laptops - Top Picks Below $500 + Extra Bargain at Only $99! Explore the Best Offers on ZDNet</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unzip-and-transfer-files-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Unzip & Transfer Files on Windows - A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-final-cut-pros-finest-10-iconic-films/"><u>Updated In 2024, Final Cut Pros Finest 10 Iconic Films</u></a></li>
-<li><a href="https://win-updates.techidaily.com/yl-software-tips-how-to-easily-navigate-to-the-control-panel-through-the-windows-start-menu/"><u>YL Software Tips: How to Easily Navigate to the Control Panel Through the Windows Start Menu</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/fb-link-downloader-bundle-access-to-8-free-online-solutions-for-2024/"><u>FB Link Downloader Bundle Access to 8 Free, Online Solutions for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/graphics-giants-matchup-rtx-4070-supers-vs-titans-and-4080/"><u>Graphics Giants Matchup: RTX 4070 Supers Vs. Titans & 4080</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-quick-fixes-with-one-click-maintenance-a-step-by-step-guide-for-windows-7-to-11-using-winutilities-powered-by-yl-software/"><u>Mastering Quick Fixes with One-Click Maintenance: A Step-by-Step Guide for Windows 7 to 11 Using WinUtilities - Powered by YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/safeguarding-your-blockchain-wealth-expert-tips-on-securing-crypto-assets-using-yl-computing-technologies/"><u>Safeguarding Your Blockchain Wealth: Expert Tips on Securing Crypto Assets Using YL Computing Technologies</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-5-free-video-compression-apps-for-iphone-and-ipad/"><u>Top 5 Free Video Compression Apps for iPhone and iPad</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-new-age-of-virtual-reality-for-2024/"><u>Unveiling the New Age of Virtual Reality for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/yl-software-guidance-boosting-system-speed-and-responsiveness-after-new-hardware-installation/"><u>YL Software Guidance: Boosting System Speed and Responsiveness After New Hardware Installation</u></a></li>
+<li><a href="https://win-updates.techidaily.com/yl-software-guide-mastery-of-file-deletion-techniques-in-windows/"><u>YL Software Guide: Mastery of File Deletion Techniques in Windows</u></a></li>
 </ul></div>
 

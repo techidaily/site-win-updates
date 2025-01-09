@@ -1,7 +1,7 @@
 ---
 title: How to Retrieve Lost or Formatted File Data on Your USB via Windows Command Line Interface (CMD)
-date: 2024-12-17T21:18:28.094Z
-updated: 2024-12-23T17:47:36.605Z
+date: 2025-01-04T22:43:51.144Z
+updated: 2025-01-08T16:03:56.988Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de84f78ea466db32363417497.jpg
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Risolvere l'Impossibilità di Digitare nella Barra di Ricerca su Windows 10: Guida Completa
 
@@ -48,7 +44,7 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Introduzione
@@ -58,7 +54,7 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
@@ -77,13 +73,13 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
@@ -103,6 +99,10 @@ Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
 Passo 1\. Apri Impostazioni:
@@ -120,6 +120,10 @@ Fai clic su Risoluzioni aggiuntive, fai clic su "Ricerca e Indicizzazione", e pr
 Passo 4\. Segui le Istruzioni Visualizzate:
 
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
 
@@ -179,10 +183,6 @@ Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
 Assicurarsi la protezione dei dati è cruciale durante la risoluzione dei problemi. Considera l'utilizzo di AOMEI Backupper per creare un backup del sistema di Windows 10.
@@ -204,7 +204,7 @@ Passo 4\. Avvia il Backup:
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
@@ -252,7 +252,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -280,14 +280,17 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-an-authentic-evaluation-of-recordcast-services/"><u>[Updated] In 2024, An Authentic Evaluation of RecordCast Services</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-musical-mentorship-series-top-15-youtube-wisdom-from-pros/"><u>[Updated] In 2024, Musical Mentorship Series - Top 15 YouTube Wisdom From Pros</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-recommendations-for-limitless-data-holding/"><u>2024 Approved Expert Recommendations for Limitless Data Holding</u></a></li>
-<li><a href="https://win-updates.techidaily.com/convert-date-column-to-datetime-if-not-already-done/"><u>Convert Date Column to Datetime if Not Already Done</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-infinix-smart-8-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Infinix Smart 8 Pro to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-image-replication-the-simplest-methods-explained-tips-from-yl-software-experts/"><u>Mastering Image Replication: The Simplest Methods Explained - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722993280145-mastering-the-trick-to-kickstart-your-football-manager-2023-game-successfully/"><u>Mastering the Trick to Kickstart Your Football Manager 2023 Game Successfully</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-consequences-of-implementing-malfunctioning-hardware-drivers-expert-advice-by-yl-software/"><u>The Consequences of Implementing Malfunctioning Hardware Drivers: Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-walkthrough-for-installing-network-interface-cards-by-yl-computing-experts/"><u>Ultimate Walkthrough for Installing Network Interface Cards by YL Computing Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/reinitialiser-zone-extensive-strategies-de-reconquete-en-vingt-etapes/"><u>« Réinitialiser Zone Extensive - Stratégies De Reconquête en Vingt Étapes »</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-fb-live-broadcasts-and-recordings/"><u>[Updated] 2024 Approved Cutting-Edge Strategies for FB Live Broadcasts and Recordings</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/drm-free-conversion-guide-how-to-extract-drm-from-ebook-files/"><u>DRM-Free Conversion Guide: How to Extract DRM From Ebook Files</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-to-get-your-samsung-blu-ray-player-up-and-running-again/"><u>Expert Tips to Get Your Samsung Blu Ray Player Up & Running Again</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/exploring-the-full-potential-of-obs-screen-capture-for-2024/"><u>Exploring the Full Potential of OBS Screen Capture for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-t2-pro-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo T2 Pro 5G Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-oculus-hardware-maintenance-avoid-and-fix-the-top-errors-of-2024/"><u>Mastering Oculus Hardware Maintenance: Avoid and Fix the Top Errors of 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/navigating-the-void-understanding-page-unavailable-errors/"><u>Navigating the Void: Understanding 'Page Unavailable' Errors</u></a></li>
+<li><a href="https://windows11.techidaily.com/optimizing-windows-performance-cutting-down-vanguards-cpu-use/"><u>Optimizing Windows Performance: Cutting Down Vanguard's CPU Use</u></a></li>
+<li><a href="https://win-updates.techidaily.com/schnell-und-einfach-ubersetzen-von-installierten-programmen-unter-windows-11-auf-einen-anderen-rechner/"><u>Schnell Und Einfach - Übersetzen Von Installierten Programmen Unter Windows 11 Auf Einen Anderen Rechner</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/send-local-videos-to-chromecast-a-beginners-guide-for-all-platforms-for-2024/"><u>Send Local Videos to Chromecast A Beginners Guide for All Platforms for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728497641223-windows/"><u>Windowsサーバーにおけるバックアップミスを解消する専門的なガイド</u></a></li>
 </ul></div>
 

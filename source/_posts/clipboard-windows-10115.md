@@ -1,7 +1,7 @@
 ---
 title: "如何通过纸clipboard 重置 Windows 10/11系统:掌握5个必读方法"
-date: 2024-12-21T19:09:00.472Z
-updated: 2024-12-23T20:40:14.530Z
+date: 2025-01-06T22:31:13.959Z
+updated: 2025-01-08T19:41:37.387Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756c762090fd4b289d5054368b.jpg
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e92d1325fd1f2f901796fdd1123502e68b5122756
 This page covers 4 ways on how to recover files from ransomware and offers some tips that can help you prevent ransomware attacks.
 
 ![Kelsey](https://www.ubackup.com/assets/images/author/kelsey-avatar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 By[Kelsey](https://tools.techidaily.com/ubackup/products/)/ Updated on April 2, 2024
 
@@ -52,10 +48,6 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
@@ -80,6 +72,10 @@ Run MyRecover, hover the mouse over the drive and click **Scan** to scan.. If yo
 
 [![Select Partition To Scan](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-partition-to-scan.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2\. Locate and preview your lost/deleted files**
 
 The recovery tool will automatically start looking for all the deleted and lost files.
@@ -87,7 +83,7 @@ The recovery tool will automatically start looking for all the deleted and lost 
 [![Scan Lost Data](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/scan-lost-data.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3\. Recover selected files**
@@ -97,7 +93,7 @@ You can expand the Deleted files folder and Other missing files folder to select
 [![Select Deleted Excel Files Click Recover](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2\. Recover ransomware infected files via Backup and Restore
@@ -110,6 +106,10 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
@@ -117,6 +117,10 @@ Step 2\. Tap on the **Restore my files** position in the Restore tab.
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -130,13 +134,17 @@ Step 2\. Press the **Restore personal files** button on the left panel. Please m
 
 [![Restore Personal Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-personal-files.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Find the files you want to recover and click the arrow pointing left or right to choose the version you need. And then, click the **Recover** button.
 
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
 
@@ -148,21 +156,21 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
 
 [![Scan For Affected Programs Close](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/scan-for-affected-programs-close.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4\. Press **Next**. Confirm the selected restore point and click **Finish**. Then, hit **Yes** to begin the [recovery of deleted files](https://tools.techidaily.com/ubackup/products/).
 
@@ -199,10 +207,6 @@ Was the provided information useful? Your vote is important to us!
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Related Articles
 
 ##### [How to Recover Files from Hard Drive Using CMD? Easy & Free!](https://tools.techidaily.com/ubackup/products/)
@@ -223,10 +227,6 @@ Was the provided information useful? Your vote is important to us!
 
 [Yes](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Free Get MyRecover Now
 
 Recover deleted & lost data from any disasters in Windows.
@@ -238,7 +238,7 @@ Recover deleted & lost data from any disasters in Windows.
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -256,24 +256,14 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-in-depth-evaluation-obs-as-an-advanced-recorder/"><u>[New] In 2024, In-Depth Evaluation OBS as an Advanced Recorder</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-burst-to-blast-android-apps-transform-slow-motion/"><u>[Updated] In 2024, Burst to Blast Android Apps Transform Slow Motion</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-elite-no-cost-fb-imagemovie-design-toolkit/"><u>[Updated] In 2024, Elite No-Cost FB Image/Movie Design Toolkit</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-untold-chronicles-adventures-in-antique-literature-for-2024/"><u>[Updated] The Untold Chronicles Adventures in Antique Literature for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-comprehensive-guide-monitor-multiple-cryptocurrency-wallets-bsv-bch-btc-simultaneously-with-yl-computings-unified-dashboard-solution/"><u>1. Comprehensive Guide: Monitor Multiple Cryptocurrency Wallets (BSV, BCH, BTC) Simultaneously with YL Computing's Unified Dashboard Solution</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-scope-of-panoramic-filmmaking-explained/"><u>2024 Approved The Scope of Panoramic Filmmaking Explained</u></a></li>
-<li><a href="https://win-updates.techidaily.com/decoding-the-out-of-paper-error-messages-in-printing-solutions-by-yl-software-professionals/"><u>Decoding the 'Out of Paper' Error Messages in Printing - Solutions by YL Software Professionals</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/descubre-el-lenguaje-semanal-en-espana/"><u>Descubre El Lenguaje Semanal en España</u></a></li>
-<li><a href="https://win-updates.techidaily.com/enhancing-your-pcs-efficiency-key-configuration-tweaks-guided-by-yl-computing/"><u>Enhancing Your PC's Efficiency: Key Configuration Tweaks - Guided by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-vivo-y36i-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Vivo Y36i for Free? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-the-art-of-keeping-your-audience-attentive-and-committed-top-6-methods-revealed/"><u>In 2024, The Art of Keeping Your Audience Attentive & Committed Top 6 Methods Revealed</u></a></li>
-<li><a href="https://win-updates.techidaily.com/is-your-pc-slower-after-upgrading-to-windows-11-uncover-why-and-how-to-fix-it-insights-from-yl-software/"><u>Is Your PC Slower After Upgrading to Windows 11? Uncover Why and How to Fix It | Insights From YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/master-your-mixing-skills-with-numark-controllers-featuring-party-mix-liveparty-mix-ii-plus-dex-3-support/"><u>Master Your Mixing Skills with Numark Controllers, Featuring Party Mix Live/Party Mix II + DEX 3 Support!</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-alternatives-to-virtualdub-best-video-processing-software-for-2024/"><u>New Alternatives to VirtualDub Best Video Processing Software for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/propel-your-presence-on-facebook-mastering-the-art-of-going-live-for-2024/"><u>Propel Your Presence on Facebook Mastering the Art of Going Live for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/repair-techniques-for-malfunctioning-pc-parts-insights-by-yl-technology-experts/"><u>Repair Techniques for Malfunctioning PC Parts: Insights by YL Technology Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/significant-moments-in-chinese-civilization-explored-by-yl-computing-and-yl-software-experts/"><u>Significant Moments in Chinese Civilization Explored by YL Computing and YL Software Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/transforming-music-interaction-a-solution-beyond-ksr-web-app-for-artists-song-choices/"><u>Transforming Music Interaction: A Solution Beyond KSR Web-App for Artists' Song Choices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unexpected-pc-power-losses-identifying-causes-and-fixes-expert-advice-from-yl-computing/"><u>Unexpected PC Power Losses: Identifying Causes & Fixes - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-mastery-in-saving-lesson-content/"><u>[Updated] In 2024, Mastery in Saving Lesson Content</u></a></li>
+<li><a href="https://win-updates.techidaily.com/7-with-pxe/"><u>7 with PXE</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/boosting-your-ai-writing-essential-web-tools-for-expertise-in-prompts/"><u>Boosting Your AI Writing: Essential Web Tools for Expertise in Prompts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comment-resoudre-les-problemes-de-formatage-dun-disque-dur-qui-refuse-sous-windows/"><u>Comment Résoudre Les Problèmes De Formatage D'un Disque Dur Qui Refuse Sous Windows?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-guide-to-cloning-sd-cards-with-win32-disk-imager-step-by-step-tutorial-and-other-methods/"><u>Comprehensive Guide to Cloning SD Cards with Win32 Disk Imager - Step by Step Tutorial and Other Methods</u></a></li>
+<li><a href="https://win-updates.techidaily.com/die-kunst-der-datensicherung-durch-befehlszeileneingabe-in-windows-11-10-8-und-7-faszinierende-wege-erkunden/"><u>Die Kunst Der Datensicherung Durch Befehlszeileneingabe in Windows 11, 10, 8 Und 7: Faszinierende Wege Erkunden</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-essential-microphones-for-dynamic-cams/"><u>In 2024, Essential Microphones for Dynamic Cams</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ant-image-magic-quick-professionally-crafted-portraits-for-2024/"><u>Valorant Image Magic Quick, Professionally Crafted Portraits for 2024</u></a></li>
 </ul></div>
 

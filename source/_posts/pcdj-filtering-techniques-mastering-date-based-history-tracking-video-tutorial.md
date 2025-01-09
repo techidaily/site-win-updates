@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Filtering Techniques: Mastering Date-Based History Tracking - Video Tutorial"
-date: 2024-12-22T16:38:40.751Z
-updated: 2024-12-29T16:11:26.974Z
+date: 2025-01-02T19:21:32.140Z
+updated: 2025-01-08T23:14:07.247Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,16 +59,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-essential-android-apps-for-playing-old-school-ps2-titles/"><u>[New] Essential Android Apps for Playing Old-School PS2 Titles</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-engaging-stories-expanding-audiences-top-three-methods/"><u>[New] In 2024, Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
-<li><a href="https://win-updates.techidaily.com/dr-who-themed-wallpapers-and-desktop-backgrounds-visual-collection-yl-software-solutions/"><u>Dr. Who Themed Wallpapers & Desktop Backgrounds: Visual Collection - YL Software Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/elevate-your-space-with-hinano-kurahashi-inspired-backgrounds-from-yl-software-experts/"><u>Elevate Your Space with Hinano Kurahashi-Inspired Backgrounds From YL Software Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-stop-your-pc-from-hangingcrashing-expert-advice-by-yl-software/"><u>How To Stop Your PC From Hanging/Crashing: Expert Advice by YL Software</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-transforming-daily-routine-into-a-social-media-journey-on-fb/"><u>In 2024, Transforming Daily Routine Into a Social Media Journey on FB</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/perfecting-your-content-time-stamping-in-online-vids-for-2024/"><u>Perfecting Your Content Time Stamping in Online Vids for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/section-cuestionario-de-seccion-2c-five-levels-of-questions-with-solutions/"><u>Section Cuestionario De Sección 2C: Five Levels of Questions with Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-to-overcome-common-airplay-setup-challenges/"><u>Step-by-Step Fixes to Overcome Common AirPlay Setup Challenges</u></a></li>
-<li><a href="https://win11.techidaily.com/the-hidden-threat-strategies-to-identify-and-eliminate-wacatacbml/"><u>The Hidden Threat: Strategies to Identify and Eliminate Wacatac.B!ml</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-windows-defender-comprehensive-guide-to-its-role-in-securing-your-pc-yl-tech-insights/"><u>Understanding Windows Defender: Comprehensive Guide to Its Role in Securing Your PC - YL Tech Insights</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[Updated] 2024 Approved How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-diverse-windows-movie-maker-versions/"><u>2024 Approved Unveiling Diverse Windows Movie Maker Versions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/download-high-quality-jaguar-xj6-desktop-backgrounds-from-yl-software-solutions/"><u>Download High-Quality Jaguar XJ6 Desktop Backgrounds From YL Software Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/exploring-various-scan-mode-options-a-comprehensive-guide-with-yl-computing/"><u>Exploring Various Scan Mode Options: A Comprehensive Guide with YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/installing-your-preferred-os-with-help-from-yl-software-experts/"><u>Installing Your Preferred OS with Help From YL Software Experts</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/journey-through-ru-cyrillic-sounds-and-pronunciation/"><u>Journey Through RU Cyrillic Sounds and Pronunciation</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/kick-starting-a-captivating-instagram-live/"><u>Kick-Starting a Captivating Instagram Live</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722901513634-macos-15-sequoia-is-coming-find-out-the-announcement-date-enhancements-and-latest-updates/"><u>MacOS 15 Sequoia Is Coming: Find Out the Announcement Date, Enhancements & Latest Updates</u></a></li>
+<li><a href="https://win-updates.techidaily.com/retrieve-past-buys-quickly-view-archived-orders-on-the-yl-software-platform/"><u>Retrieve Past Buys Quickly - View Archived Orders on the YL Software Platform!</u></a></li>
+<li><a href="https://win-updates.techidaily.com/secure-your-investments-expert-tips-on-safe-cryptocurrency-trading-guided-by-yl-computing/"><u>Secure Your Investments: Expert Tips on Safe Cryptocurrency Trading - Guided by YL Computing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/tech-tip-attempting-to-connect-airpods-headphones-with-a-nintendo-switch-device/"><u>Tech Tip: Attempting to Connect AirPods Headphones with a Nintendo Switch Device</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unveiling-the-schedule-pattern-for-chinas-npc-gatherings-expert-analysis-by-yl-digital-services/"><u>Unveiling the Schedule Pattern for China's NPC Gatherings: Expert Analysis by YL Digital Services</u></a></li>
+<li><a href="https://article-helps.techidaily.com/what-exactly-is-periscope-free-access-and-registration-details-for-2024/"><u>What Exactly Is Periscope? Free Access & Registration Details for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/winutilities-a-step-by-step-guide-to-purging-large-obsolete-files-and-video-data/"><u>WinUtilities: A Step-by-Step Guide to Purging Large, Obsolete Files and Video Data</u></a></li>
 </ul></div>
 

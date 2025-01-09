@@ -1,7 +1,7 @@
 ---
 title: "Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV"
-date: 2024-12-26T16:39:33.105Z
-updated: 2024-12-29T16:27:02.913Z
+date: 2025-01-07T17:54:44.148Z
+updated: 2025-01-08T23:11:27.746Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
 **In this video Jason Spencer discusses how he plays to the crowd, and what crowd queue’s to read to ensure you keep the dance floor packed and the night a memorable one.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,20 +44,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/mobilemusiccoverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-decoding-digital-dynamics-unveiling-the-secret-sauce-for-youtube-success-and-revenue/"><u>[New] 2024 Approved Decoding Digital Dynamics Unveiling the Secret Sauce for YouTube Success & Revenue</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-voiceverse-review-audio-deep-dive-for-2024/"><u>[New] VoiceVerse Review Audio Deep Dive for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-a-stepwise-approach-to-srt-mastery-and-expert-tips/"><u>[Updated] 2024 Approved A Stepwise Approach to SRT Mastery and Expert Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ultimate-list-most-captivating-phone-based-idlers/"><u>[Updated] Ultimate List Most Captivating Phone-Based Idlers</u></a></li>
-<li><a href="https://win-updates.techidaily.com/avoiding-the-pitfalls-of-fake-icos-tips-and-techniques-by-yl-software-professionals/"><u>Avoiding the Pitfalls of Fake ICOs: Tips & Techniques by YL Software Professionals</u></a></li>
-<li><a href="https://win-updates.techidaily.com/check-if-your-windows-machine-meets-dj-hardware-requirements-using-our-reliable-dpc-latency-tester/"><u>Check if Your Windows Machine Meets DJ Hardware Requirements Using Our Reliable DPC Latency Tester</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/al-dominion-1-to-10-most-watched-youtube-videos-in-a-day/"><u>Digital Dominion #1 to #10 Most Watched YouTube Videos in a Day</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210580395-9781647553081-ghostly-tales-of-minnesota-2nd-ed/"><u>Ghostly Tales of Minnesota (2nd ed.) | Free Book</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-fix-a-non-responsive-scanner-solutions-from-yl-computings-software-suite/"><u>How to Fix a Non-Responsive Scanner: Solutions From YL Computing's Software Suite</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-navigate-the-best-exchanges-for-buyingselling-cryptocurrencies-insights-from-yl-computing-experts/"><u>How to Navigate the Best Exchanges for Buying/Selling Cryptocurrencies: Insights From YL Computing Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/managing-permissions-restrict-app-access-on-windows-11-a-guide-by-yl-computing/"><u>Managing Permissions: Restrict App Access on Windows 11 - A Guide by YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/movavis-mac-video-creation-guide-ultimate-tips-and-tricks-for-editing-videos-on-your-apple-device/"><u>Movavi's Mac Video Creation Guide: Ultimate Tips and Tricks for Editing Videos on Your Apple Device</u></a></li>
-<li><a href="https://win-updates.techidaily.com/solving-usb-port-issues-effectively-with-tips-from-yl-software-experts/"><u>Solving USB Port Issues Effectively with Tips From YL Software Experts</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/two-titans-clash-in-the-vr-arena/"><u>Two Titans Clash in the VR Arena</u></a></li>
-<li><a href="https://win-updates.techidaily.com/viewing-live-system-processes-via-task-manager-detailed-instructions-from-yl-software-experts/"><u>Viewing Live System Processes via Task Manager: Detailed Instructions From YL Software Experts</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-conquer-the-canvas-of-nature-mastering-iphone-sky-photography/"><u>[New] Conquer the Canvas of Nature Mastering iPhone Sky Photography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-dive-into-retro-gaming-the-5-highest-rated-android-ps2-emulators-for-2024/"><u>[Updated] Dive Into Retro Gaming The 5 Highest-Rated Android PS2 Emulators for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/discover-who-shaped-todays-chinese-nation-an-expert-analysis-from-yl-computing-and-yl-software/"><u>Discover Who Shaped Today's Chinese Nation: An Expert Analysis From YL Computing and YL Software</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s24plus-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy S24+ to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-bring-back-classic-ps3-fun-with-best-tools/"><u>In 2024, Bring Back Classic PS3 Fun with Best Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-masterclass-in-length-management-youtube-vids/"><u>In 2024, Masterclass in Length Management YouTube Vids</u></a></li>
+<li><a href="https://win-blog.techidaily.com/scambio-agevole-e-veloce-da-png-a-jpg-tutorial-passo-passo-con-movavi/"><u>Scambio Agevole E Veloce Da PNG a JPG - Tutorial Passo-Passo Con Movavi</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-roots-of-uprising-exploring-what-sparked-the-taiping-rebellion-with-yl-computing-solutions/"><u>The Roots of Uprising: Exploring What Sparked the Taiping Rebellion with YL Computing Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-ram-issues-a-step-by-step-guide-by-yl-computing/"><u>Troubleshooting RAM Issues: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-resolving-typical-windows-drivers-issues-insights-from-yl-computing/"><u>Ultimate Guide to Resolving Typical Windows Drivers Issues - Insights From YL Computing</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2024-12-25T17:29:00.127Z
-updated: 2024-12-29T17:32:06.822Z
+date: 2025-01-03T16:01:57.673Z
+updated: 2025-01-08T21:46:00.496Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,24 +60,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-swift-solutions-for-iphone-photography-misfocus/"><u>[New] In 2024, Swift Solutions for iPhone Photography Misfocus</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-win-10s-top-10-video-cam-applications/"><u>[New] Win 10'S Top 10 Video Cam Applications</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-navigating-2023-a-social-media-userayers-handbook-for-fb-videos/"><u>[Updated] 2024 Approved Navigating 2023 A Social Media User’ayer's Handbook for FB Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-artistic-anomaly-top-10-unique-affordable-mac-drawers-free-for-2024/"><u>[Updated] Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free) for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-finding-chrome-companions-custom-melodies-for-2024/"><u>[Updated] Finding Chrome Companion's Custom Melodies for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-leading-edge-approaches-in-spotifys-advertising-realm/"><u>2024 Approved Leading Edge Approaches in Spotify's Advertising Realm</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-potential-current-vr-innovations/"><u>2024 Approved Unleashing Potential Current VR Innovations</u></a></li>
-<li><a href="https://common-error.techidaily.com/beat-the-bluetooth-hurdle-resolving-unsupported-miracast-devices/"><u>Beat the Bluetooth Hurdle: Resolving Unsupported Miracast Devices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/dealing-with-hard-drive-failures-expert-advice-from-yl-software-solutions/"><u>Dealing with Hard Drive Failures: Expert Advice From YL Software Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/desktop-doesnt-turn-on-troubleshoot-no-power-problem-with-yl-software-tips/"><u>Desktop Doesn't Turn On? Troubleshoot No-Power Problem with YL Software Tips</u></a></li>
-<li><a href="https://win-updates.techidaily.com/explore-lyrx-v17-rc-experience-enhanced-music-curation-with-online-songbook-feature/"><u>Explore LYRX v1.7 RC - Experience Enhanced Music Curation with Online Songbook Feature!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-can-you-detect-malfunction-in-scanning-equipment-insights-from-yl-computings-expertise/"><u>How Can You Detect Malfunction in Scanning Equipment: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-reliable-is-windows-defender-for-catching-viruses-and-spyware-insights-from-yl-softwares-analysis/"><u>How Reliable Is Windows Defender for Catching Viruses & Spyware: Insights From YL Software's Analysis</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-note-30-5g-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Note 30 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-optimization-tips-for-stable-gameplay-in-house-flipper-vection-no-more-crashes/"><u>PC Optimization Tips for Stable Gameplay in House Flipper Vection - No More Crashes</u></a></li>
-<li><a href="https://win-updates.techidaily.com/repairing-damaged-operating-files-a-guide-by-yl-computing-and-software/"><u>Repairing Damaged Operating Files: A Guide by YL Computing & Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-restoring-scanning-device-driver-on-your-computer-tech-tips-by-yl/"><u>Step-by-Step Guide: Restoring Scanning Device Driver on Your Computer - Tech Tips by YL</u></a></li>
-<li><a href="https://win-updates.techidaily.com/subscribe-now-access-top-karaoke-tracks-with-party-time-dj-services-dates-available-416/"><u>Subscribe Now: Access Top Karaoke Tracks with Party Time DJ Services, Dates Available 4/16</u></a></li>
-<li><a href="https://win-updates.techidaily.com/yls-method-for-reviving-original-scanner-configurations-step-by-step-process/"><u>YL's Method for Reviving Original Scanner Configurations: Step by Step Process</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-harmonious-hubs-your-guide-to-posting-audio-on-youtube/"><u>[New] 2024 Approved Harmonious Hubs Your Guide to Posting Audio on YouTube</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-video-grabbers-for-windows-10-pc/"><u>[Updated] 2024 Approved Best Video Grabbers for Windows 10 PC</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ideal-mc-villages-architecture-blueprints/"><u>[Updated] In 2024, Ideal MC Villages Architecture Blueprints</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-zombie-mayhem-showdown-selecting-the-finest-games/"><u>[Updated] In 2024, Zombie Mayhem Showdown Selecting the Finest Games</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-first-step-into-youtube-creating-an-engaging-channel/"><u>2024 Approved Your First Step Into YouTube Creating an Engaging Channel</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/conversion-de-fichier-video-en-ligne-changez-facilement-mkv-en-m2ts-gratuitement-avec-movavi/"><u>Conversion De Fichier Vidéo en Ligne - Changez Facilement MKV en M2TS Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://win-updates.techidaily.com/fixing-scanner-malfunctions-in-windows-os-reliable-advice-and-tips-by-yl-software-experts/"><u>Fixing Scanner Malfunctions in Windows OS - Reliable Advice and Tips by YL Software Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-fix-unresponsive-drivers-expert-advice-from-yl-computing/"><u>How to Fix Unresponsive Drivers: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-spark-go-2024-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Spark Go (2024) Phone Now with These Tips</u></a></li>
+<li><a href="https://win-updates.techidaily.com/maximizing-your-pcs-storage-essential-tips-from-yl-computing-yl-software/"><u>Maximizing Your PC's Storage: Essential Tips From YL Computing - YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-the-constant-collapses-of-age-of-empires-4-gameplay-in-pc-environment/"><u>Overcoming the Constant Collapses of Age of Empires 4 Gameplay in PC Environment</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-propella-7s-40-the-ultimate-budget-friendly-and-agile-choice/"><u>Review of Propella 7S 4.0: The Ultimate Budget-Friendly and Agile Choice</u></a></li>
+<li><a href="https://win-updates.techidaily.com/scanner-detective-solving-the-mystery-of-unseen-hardware-in-your-computer-tips-and-tricks-by-yl-software/"><u>Scanner Detective: Solving the Mystery of Unseen Hardware in Your Computer – Tips & Tricks by YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/the-revolutionary-impact-of-digital-assets-understanding-the-main-perks-of-crypto-with-insights-from-yl-computing/"><u>The Revolutionary Impact of Digital Assets: Understanding the Main Perks of Crypto with Insights From YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-tips-to-overcome-internet-connectivity-challenges-with-yl-software-guidance/"><u>Troubleshooting Tips to Overcome Internet Connectivity Challenges with YL Software Guidance</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-top-techniques-for-efficiently-zipping-files-on-your-pc-yl-computings-insights/"><u>Ultimate Guide: Top Techniques for Efficiently Zipping Files on Your PC - YL Computing's Insights</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-rapid-laptop-overheating-a-deep-dive-by-yl-computing-and-yl-software/"><u>Understanding Rapid Laptop Overheating: A Deep Dive by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unleash-the-ultimate-karaoke-bash-with-discounts-up-to-50-off-pcdj-plus-more-for-a-short-duration-sale-event/"><u>Unleash the Ultimate Karaoke Bash with Discounts Up to 50% Off! PCDJ + More for a Short Duration Sale Event!</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/velocity-video-tape-echoes-included-for-2024/"><u>Velocity Video Tape Echoes Included for 2024</u></a></li>
 </ul></div>
 

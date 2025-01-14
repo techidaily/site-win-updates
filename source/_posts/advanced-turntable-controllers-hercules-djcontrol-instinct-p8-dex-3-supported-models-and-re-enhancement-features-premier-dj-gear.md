@@ -1,7 +1,7 @@
 ---
 title: "Advanced Turntable Controllers: Hercules DJControl Instinct P8, DEX 3 Supported Models and RE Enhancement Features | Premier DJ Gear"
-date: 2025-01-05T23:42:43.115Z
-updated: 2025-01-08T20:07:53.872Z
+date: 2025-01-10T19:30:44.839Z
+updated: 2025-01-14T16:50:30.262Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,22 +66,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-novice-nests-in-mc-the-essential-guide-to-housing/"><u>[New] In 2024, Novice Nests in MC The Essential Guide to Housing</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-guide-to-turn-off-ig-predictions-for-2024/"><u>[New] The Guide to Turn Off IG Predictions for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-become-an-audio-chameleon-learn-how-to-change-free-fire-voices/"><u>[Updated] Become an Audio Chameleon! Learn How to Change Free Fire Voices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-transitioning-from-smartphone-to-watching-fb-videos-on-appletv-for-2024/"><u>[Updated] Transitioning From Smartphone to Watching FB Videos on AppleTV for 2024</u></a></li>
-<li><a href="https://fox-making.techidaily.com/1728461358243-excel/"><u>迅雷不及抬頭！學會在Excel中迅速恢復功能的六大技妙</u></a></li>
-<li><a href="https://win-updates.techidaily.com/desktop-doesnt-turn-on-troubleshoot-no-power-problem-with-yl-software-tips/"><u>Desktop Doesn't Turn On? Troubleshoot No-Power Problem with YL Software Tips</u></a></li>
-<li><a href="https://win-updates.techidaily.com/golden-auto-themes-stunning-car-wallpaper-designs-and-vehicle-graphics-yl-computing-solutions/"><u>Golden Auto Themes: Stunning Car Wallpaper Designs & Vehicle Graphics - YL Computing Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-can-you-detect-malfunction-in-scanning-equipment-insights-from-yl-computings-expertise/"><u>How Can You Detect Malfunction in Scanning Equipment: Insights From YL Computing's Expertise</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-overcome-the-502-server-gateway-interface-challenge-and-get-back-online/"><u>How to Overcome the '502 Server Gateway Interface' Challenge and Get Back Online</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723125178435-maximizing-bit-storage-with-3d-printed-holograms-in-common-materials-keys-addresses-up-to-576-bits-achieved/"><u>Maximizing Bit Storage with 3D-Printed Holograms in Common Materials - Keys, Addresses Up to 576 Bits Achieved</u></a></li>
-<li><a href="https://win-updates.techidaily.com/protect-your-system-from-failure-expert-advice-by-yl-computings-team/"><u>Protect Your System From Failure: Expert Advice by YL Computing's Team</u></a></li>
-<li><a href="https://win-updates.techidaily.com/repairing-damaged-operating-files-a-guide-by-yl-computing-and-software/"><u>Repairing Damaged Operating Files: A Guide by YL Computing & Software</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/resolving-hdr-hevc-4k-videos-a-step-by-step-guide-to-eliminate-frames-drops/"><u>Resolving HDR HEVC 4K Videos: A Step-by-Step Guide to Eliminate Frames Drops</u></a></li>
-<li><a href="https://win-updates.techidaily.com/subscribe-now-access-top-karaoke-tracks-with-party-time-dj-services-dates-available-416/"><u>Subscribe Now: Access Top Karaoke Tracks with Party Time DJ Services, Dates Available 4/16</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-the-dangers-how-editing-windows-registry-can-affect-your-system-insights-from-yl-computing/"><u>Understanding the Dangers: How Editing Windows Registry Can Affect Your System - Insights From YL Computing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-your-tax-responsibilities-for-cryptocurrency-gains-expert-analysis-from-yl-software/"><u>Understanding Your Tax Responsibilities for Cryptocurrency Gains – Expert Analysis From YL Software</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-f54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy F54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-exploring-dynamic-visuals-timelapses-with-ipad/"><u>[Updated] 2024 Approved Exploring Dynamic Visuals Timelapses with iPad</u></a></li>
+<li><a href="https://win-updates.techidaily.com/uyl/"><u>揭秘投机中贱货真价宝：U博士分享智取利，YL计算机下的无限可能 - 万岁！</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/disabled-iphone-13-mini-how-to-unlock-a-disabled-iphone-13-mini-by-drfone-ios/"><u>Disabled iPhone 13 mini How to Unlock a Disabled iPhone 13 mini?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/efficient-methods-for-refreshing-computer-hardware-interfaces-and-firmware-insights-by-yl-software/"><u>Efficient Methods for Refreshing Computer Hardware Interfaces and Firmware - Insights by YL Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-gaming-experience-upgrading-cpu-to-fulfill-vanguard-standards/"><u>Elevate Your Gaming Experience: Upgrading CPU to Fulfill Vanguard Standards</u></a></li>
+<li><a href="https://win-updates.techidaily.com/enhance-your-screen-real-estate-with-yl-computings-2160x1920-uhd-wallpapers-top-quality-imagery-from-leading-software-brand/"><u>Enhance Your Screen Real Estate with YL Computing's 2160X1920 UHD Wallpapers - Top Quality Imagery From Leading Software Brand</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ensuring-stability-how-to-stop-your-scanner-from-crashing-using-yl-software-techniques/"><u>Ensuring Stability: How to Stop Your Scanner From Crashing Using YL Software Techniques</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-fix-intermittent-internet-issues-on-your-pc-with-windows-guidance-from-yl-software/"><u>How to Fix Intermittent Internet Issues on Your PC with Windows - Guidance From YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/improving-network-card-performance-a-guide-by-yl-software-experts/"><u>Improving Network Card Performance: A Guide by YL Software Experts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-digital-footprints-recording-nintendo-switch-sessions/"><u>In 2024, Digital Footprints Recording Nintendo Switch Sessions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-5-audio-caps-for-streaming-enthusiasts/"><u>Leading 5 Audio Caps for Streaming Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-samsung-smart-tv-apps-the-ultimate-selection/"><u>Must-Have Samsung Smart TV Apps : The Ultimate Selection</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-make-your-mark-16-top-rated-free-video-makers-for-aspiring-filmmakers-for-2024/"><u>New Make Your Mark 16 Top-Rated Free Video Makers for Aspiring Filmmakers for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/practical-ways-to-archive-online-discussions-for-2024/"><u>Practical Ways to Archive Online Discussions for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/resolving-windows-scanning-issues-expert-tips-from-yl-softwares-technical-team/"><u>Resolving Windows Scanning Issues: Expert Tips From YL Software's Technical Team</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-world-of-warcraft-voice-chat-problems-a-comprehve-guide-for-gamers/"><u>Resolving World of Warcraft Voice Chat Problems - A Comprehve Guide for Gamers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/revamping-pc-graphics-via-intel-drivers-for-windows/"><u>Revamping PC Graphics via Intel Drivers for Windows</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-windows-memory-glitches-techniques-and-tips-by-yl-software-specialists/"><u>Solving Windows Memory Glitches: Techniques and Tips by YL Software Specialists</u></a></li>
+<li><a href="https://win-updates.techidaily.com/yl-computing-tutorial-adding-new-keys-and-values-to-your-windows-registry/"><u>YL Computing Tutorial: Adding New Keys and Values to Your Windows Registry</u></a></li>
 </ul></div>
 

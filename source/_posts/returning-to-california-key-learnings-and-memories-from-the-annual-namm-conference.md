@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2025-01-03T16:01:57.673Z
-updated: 2025-01-08T21:46:00.496Z
+date: 2025-01-07T17:48:58.533Z
+updated: 2025-01-14T20:30:49.036Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,24 +60,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-harmonious-hubs-your-guide-to-posting-audio-on-youtube/"><u>[New] 2024 Approved Harmonious Hubs Your Guide to Posting Audio on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-best-video-grabbers-for-windows-10-pc/"><u>[Updated] 2024 Approved Best Video Grabbers for Windows 10 PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-ideal-mc-villages-architecture-blueprints/"><u>[Updated] In 2024, Ideal MC Villages Architecture Blueprints</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-zombie-mayhem-showdown-selecting-the-finest-games/"><u>[Updated] In 2024, Zombie Mayhem Showdown Selecting the Finest Games</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-your-first-step-into-youtube-creating-an-engaging-channel/"><u>2024 Approved Your First Step Into YouTube Creating an Engaging Channel</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/conversion-de-fichier-video-en-ligne-changez-facilement-mkv-en-m2ts-gratuitement-avec-movavi/"><u>Conversion De Fichier Vidéo en Ligne - Changez Facilement MKV en M2TS Gratuitement Avec Movavi</u></a></li>
-<li><a href="https://win-updates.techidaily.com/fixing-scanner-malfunctions-in-windows-os-reliable-advice-and-tips-by-yl-software-experts/"><u>Fixing Scanner Malfunctions in Windows OS - Reliable Advice and Tips by YL Software Experts</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-fix-unresponsive-drivers-expert-advice-from-yl-computing/"><u>How to Fix Unresponsive Drivers: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-tecno-spark-go-2024-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Tecno Spark Go (2024) Phone Now with These Tips</u></a></li>
-<li><a href="https://win-updates.techidaily.com/maximizing-your-pcs-storage-essential-tips-from-yl-computing-yl-software/"><u>Maximizing Your PC's Storage: Essential Tips From YL Computing - YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-the-constant-collapses-of-age-of-empires-4-gameplay-in-pc-environment/"><u>Overcoming the Constant Collapses of Age of Empires 4 Gameplay in PC Environment</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/review-of-propella-7s-40-the-ultimate-budget-friendly-and-agile-choice/"><u>Review of Propella 7S 4.0: The Ultimate Budget-Friendly and Agile Choice</u></a></li>
-<li><a href="https://win-updates.techidaily.com/scanner-detective-solving-the-mystery-of-unseen-hardware-in-your-computer-tips-and-tricks-by-yl-software/"><u>Scanner Detective: Solving the Mystery of Unseen Hardware in Your Computer – Tips & Tricks by YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/the-revolutionary-impact-of-digital-assets-understanding-the-main-perks-of-crypto-with-insights-from-yl-computing/"><u>The Revolutionary Impact of Digital Assets: Understanding the Main Perks of Crypto with Insights From YL Computing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshooting-tips-to-overcome-internet-connectivity-challenges-with-yl-software-guidance/"><u>Troubleshooting Tips to Overcome Internet Connectivity Challenges with YL Software Guidance</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-top-techniques-for-efficiently-zipping-files-on-your-pc-yl-computings-insights/"><u>Ultimate Guide: Top Techniques for Efficiently Zipping Files on Your PC - YL Computing's Insights</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-rapid-laptop-overheating-a-deep-dive-by-yl-computing-and-yl-software/"><u>Understanding Rapid Laptop Overheating: A Deep Dive by YL Computing & YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unleash-the-ultimate-karaoke-bash-with-discounts-up-to-50-off-pcdj-plus-more-for-a-short-duration-sale-event/"><u>Unleash the Ultimate Karaoke Bash with Discounts Up to 50% Off! PCDJ + More for a Short Duration Sale Event!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/velocity-video-tape-echoes-included-for-2024/"><u>Velocity Video Tape Echoes Included for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-seal-on-cyberspace-expeditions/"><u>[New] Ultimate Seal on Cyberspace Expeditions</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-webcam-mastery-choosing-the-best-for-your-podcast/"><u>[Updated] 2024 Approved Webcam Mastery Choosing the Best for Your Podcast</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-dazzling-instagram-stories-with-multi-image-techniques-for-2024/"><u>[Updated] Crafting Dazzling Instagram Stories with Multi-Image Techniques for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[Updated] Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/android-trick-changing-media-order-sequence/"><u>Android Trick Changing Media Order Sequence</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-guide-to-msi-academy/"><u>Comprehensive Guide to MSI Academy</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-steps-to-disable-and-eliminate-faux-microsoft-edge-security-warnings/"><u>Effective Steps to Disable and Eliminate Faux Microsoft Edge Security Warnings</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-poco-m6-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Poco M6 5G PC | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-the-art-of-editing-with-apowerpdf-a-comprehensive-guide/"><u>Mastering the Art of Editing with ApowerPDF: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-proper-management-of-end-user-details-using-windows-setup-software/"><u>Step-by-Step Guide: Proper Management of End-User Details Using Windows Setup Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/strengthen-your-network-safeguards-with-these-8-basic-tips-by-malwarefox/"><u>Strengthen Your Network Safeguards with These 8 Basic Tips by MalwareFox</u></a></li>
+<li><a href="https://win-updates.techidaily.com/trustworthy-anti-spyware-software-malwarefoxs-proven-defense-strategy-against-unwanted-tracking/"><u>Trustworthy Anti-Spyware Software: MalwareFox's Proven Defense Strategy Against Unwanted Tracking</u></a></li>
 </ul></div>
 

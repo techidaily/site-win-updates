@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Filtering Techniques: Mastering Date-Based History Tracking - Video Tutorial"
-date: 2025-01-02T19:21:32.140Z
-updated: 2025-01-08T23:14:07.247Z
+date: 2025-01-09T20:16:04.959Z
+updated: 2025-01-14T16:37:57.262Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,20 +59,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[Updated] 2024 Approved How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unveiling-diverse-windows-movie-maker-versions/"><u>2024 Approved Unveiling Diverse Windows Movie Maker Versions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/download-high-quality-jaguar-xj6-desktop-backgrounds-from-yl-software-solutions/"><u>Download High-Quality Jaguar XJ6 Desktop Backgrounds From YL Software Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/exploring-various-scan-mode-options-a-comprehensive-guide-with-yl-computing/"><u>Exploring Various Scan Mode Options: A Comprehensive Guide with YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/installing-your-preferred-os-with-help-from-yl-software-experts/"><u>Installing Your Preferred OS with Help From YL Software Experts</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/journey-through-ru-cyrillic-sounds-and-pronunciation/"><u>Journey Through RU Cyrillic Sounds and Pronunciation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/kick-starting-a-captivating-instagram-live/"><u>Kick-Starting a Captivating Instagram Live</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722901513634-macos-15-sequoia-is-coming-find-out-the-announcement-date-enhancements-and-latest-updates/"><u>MacOS 15 Sequoia Is Coming: Find Out the Announcement Date, Enhancements & Latest Updates</u></a></li>
-<li><a href="https://win-updates.techidaily.com/retrieve-past-buys-quickly-view-archived-orders-on-the-yl-software-platform/"><u>Retrieve Past Buys Quickly - View Archived Orders on the YL Software Platform!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/secure-your-investments-expert-tips-on-safe-cryptocurrency-trading-guided-by-yl-computing/"><u>Secure Your Investments: Expert Tips on Safe Cryptocurrency Trading - Guided by YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/tech-tip-attempting-to-connect-airpods-headphones-with-a-nintendo-switch-device/"><u>Tech Tip: Attempting to Connect AirPods Headphones with a Nintendo Switch Device</u></a></li>
-<li><a href="https://win-updates.techidaily.com/unveiling-the-schedule-pattern-for-chinas-npc-gatherings-expert-analysis-by-yl-digital-services/"><u>Unveiling the Schedule Pattern for China's NPC Gatherings: Expert Analysis by YL Digital Services</u></a></li>
-<li><a href="https://article-helps.techidaily.com/what-exactly-is-periscope-free-access-and-registration-details-for-2024/"><u>What Exactly Is Periscope? Free Access & Registration Details for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/winutilities-a-step-by-step-guide-to-purging-large-obsolete-files-and-video-data/"><u>WinUtilities: A Step-by-Step Guide to Purging Large, Obsolete Files and Video Data</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-video-capture-pro-for-windows-10-ultimate-quality/"><u>[Updated] 2024 Approved Video Capture Pro for Windows 10 - Ultimate Quality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimal-high-quality-image-browser/"><u>[Updated] Optimal High-Quality Image Browser</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-raises-the-bar-new-ryzen-processors-launching-ryzen-9-5900xt-and-ryzen-7-5800xt-available-for-349249-offering-more-for-less-than-the-earlier-ryzen-5000.34/"><u>AMD Raises The Bar: New Ryzen Processors Launching – Ryzen 9 5900XT and Ryzen 7 5800XT Available for $349/$249, Offering More For Less Than the Earlier Ryzen 5000</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-100-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 100 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/find-and-fix-your-pcs-hardware-issues-with-expert-advice-by-yl-computing-and-software-solutions/"><u>Find and Fix Your PC's Hardware Issues with Expert Advice by YL Computing & Software Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/google-bard-versus-bing-chat-determining-the-leading-force-in-ai-assistance/"><u>Google Bard Versus Bing Chat: Determining the Leading Force in AI Assistance</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-verizon-is-shaping-the-future-with-its-advancements-in-5g/"><u>How Verizon Is Shaping the Future with Its Advancements in 5G</u></a></li>
+<li><a href="https://win-updates.techidaily.com/methods-for-identifying-and-resolving-excessive-heat-in-your-video-card-tips-from-yl-software-experts/"><u>Methods for Identifying and Resolving Excessive Heat in Your Video Card - Tips From YL Software Experts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/snappy-movement-capturing-blur-with-iphone-photos-for-2024/"><u>Snappy Movement Capturing Blur with iPhone Photos for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-mystery-computer-hardware-malfunctions-with-tips-from-yl-software/"><u>Solving Mystery Computer Hardware Malfunctions with Tips From YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-updating-your-graphics-card-driver-on-a-windows-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: Updating Your Graphics Card Driver on a Windows PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/thriving-in-the-mix-thursday-nights-tune-tastic-session-featuring-jason-spencer-and-jason-jones-on-djntv/"><u>Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-failed-cddvd-playback-expert-advice-from-yl-computing/"><u>Troubleshooting Failed CD/DVD Playback: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-dj-mixer-showdown-top-digital-audio-workstation-reviews-and-ratings/"><u>Ultimate DJ Mixer Showdown: Top Digital Audio Workstation Reviews & Ratings</u></a></li>
 </ul></div>
 

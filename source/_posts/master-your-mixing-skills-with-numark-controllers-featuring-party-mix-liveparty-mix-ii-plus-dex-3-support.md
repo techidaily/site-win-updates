@@ -1,7 +1,7 @@
 ---
 title: Master Your Mixing Skills with Numark Controllers, Featuring Party Mix Live/Party Mix II + DEX 3 Support!
-date: 2025-01-10T19:41:16.615Z
-updated: 2025-01-14T20:32:12.120Z
+date: 2025-01-18T17:15:13.106Z
+updated: 2025-01-20T19:29:12.565Z
 tags:
   - product
 categories:
@@ -25,7 +25,7 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix Live ($179 at most online retailers)
@@ -33,13 +33,13 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 [![Numark Party Mix Live](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixLive_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix Live")](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixLive%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is packed with all the core features DJs need, whether you’re new to DJing or longtime pro. Built-in speakers fill the room with dynamic sound and integrated LED lights create a beat-synchronized light show. Four performance pads on each deck allow quick access to effects, cue points, loops or samples. Play, Cue and Sync buttons provide complete playback control and access to automatic tempo matching between tracks on each deck for perfectly aligned mixes. Large, touch-sensitive jog wheels allow you to pause, backspin and even scratch tracks as you work through your playlist. An outer jog-wheel functions as pitch-bend so you can nudge tracks into alignment for the perfect blend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Numark Party Mix II ($129 at most online retailers)
@@ -47,7 +47,7 @@ The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is pa
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixMKII_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix II")](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixMKII%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Based on the original Party Mix Controller, the [Numark Party Mix II](https://www.numark.com/product/party-mix-ii) DJ Controller is packed with all the DJ performance essentials and a built in ‘light show’. The essential DJ controller features include large touch-sensitive jog wheels for scratching, large Filter effect knobs on each deck, Sync, play/pause and Cue buttons, pitch sliders for tempo adjustments, performance pads with various modes, library controls for scrolling and loading tracks, 2-band EQ on each deck, and for output a 1/8″ headphone jack and 1/8″ main output jack. The light show is projected by three multi-colored LEDs with wide-coverage lenses for a room-filling, beat-synchronized light show. With five lighting modes to choose from, finding the right vibe for your party is a snap.
@@ -64,7 +64,7 @@ Based on the original Party Mix Controller, the [Numark Party Mix II](https://ww
 _Have questions about the **Numark Party Mix II** or **Numark Party Mix Live** and how they work with our **Top DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -86,24 +86,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/06/cover-partymix-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-optimize-accessibility-top-free-speech-conversion-tools-for-macos/"><u>[New] In 2024, Optimize Accessibility Top Free Speech Conversion Tools for MacOS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-maintaining-mystery-techniques-for-smoothing-out-visuals/"><u>[Updated] 2024 Approved Maintaining Mystery Techniques for Smoothing Out Visuals</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-how-to-recover-deleted-temporary-files-on-the-internet-two-effective-methods/"><u>1. How to Recover Deleted Temporary Files on the Internet: Two Effective Methods</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-channel-your-creativity-crafting-youtube-trailers-in-filmora/"><u>2024 Approved Channel Your Creativity Crafting YouTube Trailers in Filmora</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728506114761-aomei-backupper/"><u>學會AOMEI Backupper讓你隨時保存重要文件的完美方法</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/a-comprehensive-review-unleashing-the-power-of-the-aoc-agon-pro-ag456uczd-the-ultimate-45-ultra-wide-oled-gaming-monitor-for-enthusiasts-with-extreme-curvat12/"><u>A Comprehensive Review: Unleashing the Power of the AOC Agon Pro AG456UCZD - The Ultimate 45 Ultra-Wide OLED Gaming Monitor for Enthusiasts with Extreme Curvature and Lightning Performance!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-flv-video-editing-software-top-10-tools-for-your-computer-and-web/"><u>Best FLV Video Editing Software: Top 10 Tools for Your Computer and Web</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-getting-zoom-mic-back-on-windows-and-mac-pcs/"><u>DIY Solutions: Getting Zoom Mic Back on Windows and Mac PCs</u></a></li>
-<li><a href="https://win-updates.techidaily.com/hoe-kunt-u-zijn-ongelukkelijke-downloadmappen-herstellen-in-windows-10-en-11-een-praktische-manier-met-de-maptoolapplicatie/"><u>Hoe Kunt U Zijn Ongelukkelijke Downloadmappen Herstellen in Windows 10 en 11: Een Praktische Manier Met De MapToolapplicatie</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-redmi-k70e-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Redmi K70E</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Poco X6? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/overcoming-quick-access-limitation-in-file-explorer-tips-and-tricks/"><u>Overcoming Quick Access Limitation in File Explorer: Tips & Tricks</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshoot-like-a-pro-advanced-techniques-to-restore-windows-update-functionality-in-windows-11-and-10/"><u>Troubleshoot Like a Pro: Advanced Techniques to Restore Windows Update Functionality in Windows 11 & 10</u></a></li>
-<li><a href="https://win-updates.techidaily.com/tutorial-primerizo-para-el-modo-de-recuperacion-de-windows-11-explicado/"><u>Tutorial Primerizo Para El Modo De Recuperación De Windows 11 Explicado</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-panasonic-mdt-file-restoration-top-methods-for-data-recovery/"><u>Ultimate Guide to Panasonic MDT File Restoration - Top Methods for Data Recovery</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-walkthrough-for-connecting-an-ipad-to-a-pc-5-straightforward-mirroring-solutions/"><u>Ultimate Walkthrough for Connecting an iPad to a PC - 5 Straightforward Mirroring Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/uninterrupted-high-quality-streams-from-your-ps4-console/"><u>Uninterrupted High-Quality Streams From Your PS4 Console</u></a></li>
-<li><a href="https://win-updates.techidaily.com/windows-1111pc-hddssd/"><u>Windows 11/11対応ノートPC HDDからSSDへの変更手順【完全ガイド】</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-top-10-horizontal-and-vertical-igtv-editing-apps-reviewed/"><u>[New] In 2024, Top 10 Horizontal & Vertical IGTV Editing Apps Reviewed</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easeus-screen-recorder-featuresreview-for-2024/"><u>[Updated] EaseUS Screen Recorder Features|Review for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/1726227387429-orf-png-movavi/"><u>免費在線 ORF到 PNG 轉換 - 用 Movavi 工具進行高效率的圖像編號</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/boosting-video-content-with-effective-srt-file-management/"><u>Boosting Video Content with Effective SRT File Management</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-samsung-galaxy-f15-5g-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Samsung Galaxy F15 5G Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/complete-guide-to-the-2014-final-release-features-of-karaoke-cloud-pro-by-pioneer-dj/"><u>Complete Guide to the 2014 Final Release Features of Karaoke Cloud Pro by Pioneer DJ</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ergonomics-reimagined-how-a-one-week-trial-of-a-split-keyboard-changed-my-entire-peripheral-perspective/"><u>Ergonomics Reimagined: How a One-Week Trial of a Split Keyboard Changed My Entire Peripheral Perspective</u></a></li>
+<li><a href="https://win-updates.techidaily.com/mastering-image-replication-the-simplest-methods-explained-tips-from-yl-software-experts/"><u>Mastering Image Replication: The Simplest Methods Explained - Tips From YL Software Experts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-design-engaging-video-invites-on-the-go-best-mobile-apps/"><u>New Design Engaging Video Invites on the Go Best Mobile Apps</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-f5-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-walkthrough-for-installing-network-interface-cards-by-yl-computing-experts/"><u>Ultimate Walkthrough for Installing Network Interface Cards by YL Computing Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unveiling-the-shields-of-your-pc-a-deep-dive-into-windows-defender-with-yl-software/"><u>Unveiling the Shields of Your PC: A Deep Dive Into Windows Defender with YL Software</u></a></li>
 </ul></div>
 

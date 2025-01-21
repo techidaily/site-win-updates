@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2025-01-07T17:48:58.533Z
-updated: 2025-01-14T20:30:49.036Z
+date: 2025-01-15T16:23:54.027Z
+updated: 2025-01-20T23:10:06.299Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,18 +60,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-ultimate-seal-on-cyberspace-expeditions/"><u>[New] Ultimate Seal on Cyberspace Expeditions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-webcam-mastery-choosing-the-best-for-your-podcast/"><u>[Updated] 2024 Approved Webcam Mastery Choosing the Best for Your Podcast</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-crafting-dazzling-instagram-stories-with-multi-image-techniques-for-2024/"><u>[Updated] Crafting Dazzling Instagram Stories with Multi-Image Techniques for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-perfect-every-moment-top-3-techniques-to-record-lol-games/"><u>[Updated] Perfect Every Moment Top 3 Techniques to Record LOL Games</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/android-trick-changing-media-order-sequence/"><u>Android Trick Changing Media Order Sequence</u></a></li>
-<li><a href="https://win-updates.techidaily.com/comprehensive-guide-to-msi-academy/"><u>Comprehensive Guide to MSI Academy</u></a></li>
-<li><a href="https://win-updates.techidaily.com/effective-steps-to-disable-and-eliminate-faux-microsoft-edge-security-warnings/"><u>Effective Steps to Disable and Eliminate Faux Microsoft Edge Security Warnings</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-poco-m6-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Poco M6 5G PC | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/mastering-the-art-of-editing-with-apowerpdf-a-comprehensive-guide/"><u>Mastering the Art of Editing with ApowerPDF: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-proper-management-of-end-user-details-using-windows-setup-software/"><u>Step-by-Step Guide: Proper Management of End-User Details Using Windows Setup Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/strengthen-your-network-safeguards-with-these-8-basic-tips-by-malwarefox/"><u>Strengthen Your Network Safeguards with These 8 Basic Tips by MalwareFox</u></a></li>
-<li><a href="https://win-updates.techidaily.com/trustworthy-anti-spyware-software-malwarefoxs-proven-defense-strategy-against-unwanted-tracking/"><u>Trustworthy Anti-Spyware Software: MalwareFox's Proven Defense Strategy Against Unwanted Tracking</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-maximizing-impact-with-reddit-essential-tips-revealed-for-2024/"><u>[New] Maximizing Impact with Reddit - Essential Tips Revealed for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pivotal-point-in-view-count-for-online-earning/"><u>2024 Approved The Pivotal Point in View Count for Online Earning</u></a></li>
+<li><a href="https://driver-install.techidaily.com/boost-graphic-output-on-computers/"><u>Boost Graphic Output on Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-nubia-red-magic-9-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nubia Red Magic 9 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/can-you-trust-security-levels-of-yl-computings-crypto-asset-balance-verification/"><u>Can You Trust Security Levels of YL Computing's Crypto Asset Balance Verification?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/discover-who-shaped-todays-chinese-nation-an-expert-analysis-from-yl-computing-and-yl-software/"><u>Discover Who Shaped Today's Chinese Nation: An Expert Analysis From YL Computing and YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/navigating-microsoft-windows-how-to-access-your-control-panel-from-the-start-menu-with-yl-software-help/"><u>Navigating Microsoft Windows: How to Access Your Control Panel From the Start Menu with YL Software Help</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/speedy-image-migration-how-to-swiftly-transition-images-from-an-ipad-to-macos/"><u>Speedy Image Migration: How to Swiftly Transition Images From an iPad to macOS</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-ram-issues-a-step-by-step-guide-by-yl-computing/"><u>Troubleshooting RAM Issues: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-resolving-typical-windows-drivers-issues-insights-from-yl-computing/"><u>Ultimate Guide to Resolving Typical Windows Drivers Issues - Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unleash-audio-bliss-explore-how-best-buy-is-offering-a-stunning-100-off-on-the-ultimate-immersive-speaker-system-zdnet-review/"><u>Unleash Audio Bliss: Explore How Best Buy Is Offering a Stunning 100% Off on the Ultimate Immersive Speaker System (ZDNET Review)</u></a></li>
 </ul></div>
 

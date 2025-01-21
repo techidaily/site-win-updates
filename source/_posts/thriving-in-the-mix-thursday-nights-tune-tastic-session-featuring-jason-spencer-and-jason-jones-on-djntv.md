@@ -1,7 +1,7 @@
 ---
 title: "Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV"
-date: 2025-01-07T19:27:03.226Z
-updated: 2025-01-14T18:29:25.872Z
+date: 2025-01-19T18:47:39.112Z
+updated: 2025-01-20T22:16:54.577Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
 **In this video Jason Spencer discusses how he plays to the crowd, and what crowd queue’s to read to ensure you keep the dance floor packed and the night a memorable one.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,18 +44,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/mobilemusiccoverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-from-concept-to-completion-producing-a-viral-facebook-reel/"><u>[New] In 2024, From Concept to Completion Producing a Viral Facebook Reel</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagram-visual-impact-strategic-planning-for-viral-video-campaigns/"><u>[Updated] Instagram Visual Impact Strategic Planning for Viral Video Campaigns</u></a></li>
-<li><a href="https://win-updates.techidaily.com/expert-dj-tips-unveiling-the-pros-and-cons-of-youtube-downloads-in-beatmixing-and-karaoke/"><u>Expert DJ Tips: Unveiling the Pros and Cons of YouTube Downloads in Beatmixing & Karaoke</u></a></li>
-<li><a href="https://win-updates.techidaily.com/explore-the-universe-of-customization-craft-your-own-star-trek-skins-using-pcdjs-advanced-design-tools/"><u>Explore the Universe of Customization: Craft Your Own Star Trek Skins Using PCDJ's Advanced Design Tools</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixes-for-window-11-eliminating-bluetooth-sound-interruptions/"><u>Fixes for Window 11: Eliminating Bluetooth Sound Interruptions</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-insights-on-the-garmin-forerunner-265-gps-running-watch-a-review/"><u>In-Depth Insights on the Garmin Forerunner 지대 (265) GPS Running Watch – A Review</u></a></li>
-<li><a href="https://win-updates.techidaily.com/rootkit-detection-can-microsofts-windows-defender-keep-threats-at-bay-yl-software-solutions/"><u>Rootkit Detection: Can Microsoft's Windows Defender Keep Threats at Bay? | YL Software Solutions</u></a></li>
-<li><a href="https://win-updates.techidaily.com/solve-windows-audio-problems-quickly-step-by-step-guide-by-yl-software-experts/"><u>Solve Windows Audio Problems Quickly: Step-by-Step Guide by YL Software Experts</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/solving-the-0x0000000a-bsod-dilemma-a-step-by-step-guide/"><u>Solving the 0X0000000A BSOD Dilemma: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshooting-silent-windows-how-to-fix-absence-of-audio-in-your-pc-by-yl-computing/"><u>Troubleshooting Silent Windows: How to Fix Absence of Audio in Your PC - By YL Computing</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/vanguard-veo-tripod-review-a-stellar-travel-tripod/"><u>Vanguard VEO Tripod Review: A Stellar Travel Tripod</u></a></li>
-<li><a href="https://win-updates.techidaily.com/when-your-pc-acts-up-determining-if-its-time-to-replace-your-motherboard-due-to-cpu-issues-tips-from-yl-software/"><u>When Your PC Acts Up: Determining if It's Time to Replace Your Motherboard Due to CPU Issues – Tips From YL Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screen-recording-face-off-bandicam-vs-camtasias-features/"><u>[New] 2024 Approved Screen Recording Face-Off Bandicam vs Camtasia's Features</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-ultimate-game-console-deals-under-100/"><u>[Updated] 2024 Approved Ultimate Game Console Deals Under 100$</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-reimagine-virtual-participation-google-meets-customizable-screenscape/"><u>[Updated] In 2024, Reimagine Virtual Participation Google Meet's Customizable Screenscape</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-navigating-the-nuances-of-color-grading-for-gopro-editors/"><u>[Updated] Navigating the Nuances of Color Grading for GoPro Editors</u></a></li>
+<li><a href="https://win-updates.techidaily.com/efficiently-downloading-an-array-of-pictures-from-dropbox-to-ios-devices-essential-techniques/"><u>Efficiently Downloading an Array of Pictures From Dropbox to iOS Devices - Essential Techniques</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-backup-sync-your-microsoft-outlook-with-dropbox-automatically-or-through-manual-transfer/"><u>Effortless Backup: Sync Your Microsoft Outlook with Dropbox Automatically or Through Manual Transfer</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-xiaomi-redmi-13c-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-issues-with-dragon-age-origins-crashes-in-windows-10-solutions/"><u>Fixing Issues with Dragon Age: Origins Crashes in Windows 10 - Solutions</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guia-paso-a-paso-para-copiar-una-particion-de-recuperacion-del-disco-duro-a-un-ssd/"><u>Guía Paso a Paso Para Copiar Una Partición De Recuperación Del Disco Duro a Un SSD</u></a></li>
+<li><a href="https://win-updates.techidaily.com/hoe-kan-ik-mijn-verloren-minecraft-afbeeldingen-ontdekken-en-het-oproepen/"><u>Hoe Kan Ik Mijn Verloren Minecraft Afbeeldingen Ontdekken En Het Oproepen?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-rescue-missing-data-in-windows-11-a-step-by-step-file-restoration-tutorial/"><u>How to Rescue Missing Data in Windows 11: A Step-by-Step File Restoration Tutorial</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/icloud-smsmms-nachrichten-sicher-entfernen-mit-fonebackup-ohne-handyeinstellung/"><u>ICloud-SMS/MMS-Nachrichten Sicher Entfernen Mit FoneBackup Ohne Handyeinstellung</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-zte-axon-40-lite-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track ZTE Axon 40 Lite without App | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-80-pro-straight-screen-edition-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Honor 80 Pro Straight Screen Edition Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/is-the-samsung-galaxy-s23plus-a-worthwhile-update-from-its-predecessors/"><u>Is the Samsung Galaxy S23+ a Worthwhile Update From Its Predecessors?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/letzte-anschlussgerate-fur-windows-10-pcs-erkunden-sie-die-neuesten-verbindungen/"><u>Letzte Anschlussgeräte Für Windows 10 PCs - Erkunden Sie Die Neuesten Verbindungen</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728497348766-windows-10-ssdhdd/"><u>Windows 10 SSD/HDD間でのシームレス転送手順 - ソフトウェア・ライセンス不要</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728494050180-windows-7windows-10/"><u>ハードドライブでWindows 7からWindows 10へデータ転送ガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2025-01-15T16:23:54.027Z
-updated: 2025-01-20T23:10:06.299Z
+date: 2025-01-19T19:38:54.674Z
+updated: 2025-01-27T00:15:32.295Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,16 +60,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-maximizing-impact-with-reddit-essential-tips-revealed-for-2024/"><u>[New] Maximizing Impact with Reddit - Essential Tips Revealed for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-pivotal-point-in-view-count-for-online-earning/"><u>2024 Approved The Pivotal Point in View Count for Online Earning</u></a></li>
-<li><a href="https://driver-install.techidaily.com/boost-graphic-output-on-computers/"><u>Boost Graphic Output on Computers</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-nubia-red-magic-9-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nubia Red Magic 9 Pro? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/can-you-trust-security-levels-of-yl-computings-crypto-asset-balance-verification/"><u>Can You Trust Security Levels of YL Computing's Crypto Asset Balance Verification?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/discover-who-shaped-todays-chinese-nation-an-expert-analysis-from-yl-computing-and-yl-software/"><u>Discover Who Shaped Today's Chinese Nation: An Expert Analysis From YL Computing and YL Software</u></a></li>
-<li><a href="https://win-updates.techidaily.com/navigating-microsoft-windows-how-to-access-your-control-panel-from-the-start-menu-with-yl-software-help/"><u>Navigating Microsoft Windows: How to Access Your Control Panel From the Start Menu with YL Software Help</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/speedy-image-migration-how-to-swiftly-transition-images-from-an-ipad-to-macos/"><u>Speedy Image Migration: How to Swiftly Transition Images From an iPad to macOS</u></a></li>
-<li><a href="https://win-updates.techidaily.com/troubleshooting-ram-issues-a-step-by-step-guide-by-yl-computing/"><u>Troubleshooting RAM Issues: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-guide-to-resolving-typical-windows-drivers-issues-insights-from-yl-computing/"><u>Ultimate Guide to Resolving Typical Windows Drivers Issues - Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-audio-bliss-explore-how-best-buy-is-offering-a-stunning-100-off-on-the-ultimate-immersive-speaker-system-zdnet-review/"><u>Unleash Audio Bliss: Explore How Best Buy Is Offering a Stunning 100% Off on the Ultimate Immersive Speaker System (ZDNET Review)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unlocking-potential-innovative-strategies-for-better-insta-content-for-2024/"><u>[New] Unlocking Potential Innovative Strategies for Better Insta Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-behind-the-scenes-the-top-7-studio-programs-for-animators/"><u>[Updated] 2024 Approved Behind the Scenes The Top 7 Studio Programs for Animators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-hire-harmony-a-collection-of-inspirational-clips/"><u>[Updated] 2024 Approved Hire Harmony A Collection of Inspirational Clips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-tailoring-recording-techniques-in-audacity-for-professionals-for-2024/"><u>[Updated] Tailoring Recording Techniques in Audacity for Professionals for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728485526954-tpm-20-windows-11/"><u>進行 TPM 2.0 審核與 Windows 11 系統升級指南</u></a></li>
+<li><a href="https://win-updates.techidaily.com/automatisierte-onedrive-synchronisation-auf-ihrem-pc-alles-wissen-was-sie-wissen-mussen/"><u>Automatisierte OneDrive-Synchronisation Auf Ihrem PC: Alles Wissen, Was Sie Wissen Müssen!</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-techniques-for-connectivity-hiccups-in-rainbow-six-siege/"><u>Comprehensive Troubleshooting Techniques for Connectivity Hiccups in Rainbow Six Siege</u></a></li>
+<li><a href="https://windows11.techidaily.com/customizing-quick-access-to-start-from-onedrive/"><u>Customizing Quick Access to Start From OneDrive</u></a></li>
+<li><a href="https://win-updates.techidaily.com/guia-paso-a-paso-para-restaurar-la-configuracion-de-tu-cuenta-de-correo-en-microsoft-outlook-2010/"><u>Guía Paso a Paso Para Restaurar La Configuración De Tu Cuenta De Correo en Microsoft Outlook 2010</u></a></li>
+<li><a href="https://win-updates.techidaily.com/hdd-zu-ssd-migration-in-windows-11-zwei-effiziente-ansatze-um-dateien-zu-ubertragen/"><u>HDD-Zu-SSD-Migration in Windows 11: Zwei Effiziente Ansätze, Um Dateien Zu Übertragen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-motorola-edge-40-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Motorola Edge 40 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/overcoming-installation-issues-uninstalling-stubborn-onedrive-on-your-pc-running-windows-10-solution-guide/"><u>Overcoming Installation Issues: Uninstalling Stubborn OneDrive on Your PC Running Windows 10 (Solution Guide)</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-gl-driver-error-3-on-windows-11-a-step-by-step-guide/"><u>Resolving GL Driver Error 3 on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-home-button-non-functional-problems-in-iphones-from-series-8-to-model-6-a-step-by-step-guide/"><u>Solving 'Home Button Non-Functional' Problems in iPhones From Series 8 to Model 6: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-updates.techidaily.com/tutorial-gratis-memulihkan-file-yang-hapus-dari-usb-tanpa-peranti-rumah-sayuran/"><u>Tutorial Gratis: Memulihkan File Yang Hapus Dari USB Tanpa Peranti Rumah Sayuran</u></a></li>
+<li><a href="https://win-updates.techidaily.com/win11-m2-ssd/"><u>Win11との互換性: M.2 SSDを認識・修復するためのステップバイステップガイド</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-2/"><u>Windows上のリカバリーパーティションマウント手順: 2つの解決策</u></a></li>
 </ul></div>
 

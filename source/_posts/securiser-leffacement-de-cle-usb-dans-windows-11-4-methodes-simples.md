@@ -1,7 +1,7 @@
 ---
 title: "Sécuriser L'effacement De Clé USB Dans Windows 11 : 4 Méthodes Simples"
-date: 2025-01-18T22:05:39.173Z
-updated: 2025-01-20T20:15:07.415Z
+date: 2025-01-22T22:47:54.999Z
+updated: 2025-01-26T23:05:44.385Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee05a4b5b8a249fec882bec30.jpg
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Ringtones to iPhone 7(Plus): 3 Easy Ways 2024
 
 How to add ringtones to iPhone 7 or change ringtones on iPhone 7 to your favorite songs? Read this post to learn how to put or set custom ringtones on your iPhone 7 easily.
@@ -29,7 +25,7 @@ How to add ringtones to iPhone 7 or change ringtones on iPhone 7 to your favorit
 ![Dylan](https://www.ubackup.com/assets/images/author/dylan.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 By[Dylan](https://tools.techidaily.com/ubackup/products/)/ Updated on September 4, 2024
@@ -54,6 +50,10 @@ So how to add ringtones to iPhone 7? Keep reading on this tutorial, we will show
 
 iTunes can be a good way to add ringtones to an iPhone. It can help you to customize ringtones and [add music to iPhone](https://tools.techidaily.com/ubackup/products/) 7\. Here are the details you can follow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Part 1\. Customize ringtones with iTunes
 
 1\. Open and [update iTunes](https://www.apple.com/itunes/) to the newest version.
@@ -69,10 +69,6 @@ iTunes can be a good way to add ringtones to an iPhone. It can help you to custo
 5\. Right-click the song segment and choose **Show in Windows Explorer**. Then change the extension from “.m4a” to “.m4r.”.
 
 6\. Copy the file & delete the old one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Part 2\. Add custom ringtones to iPhone 7
 
@@ -97,7 +93,7 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 [![Add Ringtones With Garageband](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-with-garageband.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. Click “+” in the top right corner > Choose **Section A** in Song Sections > Turn off **Automatic** option > Tap the arrow to change the number to 12 > Tap **Done**.
@@ -110,7 +106,7 @@ Sometimes the song which you want to set as a ringtone stored on iPhone 7, you c
 [![](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/choose-song.png)](https://www.ubackup.com/phone/screenshot/en/others/add-ringtones-to-iphone/choose-song.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4\. Tap and hold the song to add it to GarageBand > Use the trimming and split editing features to edit the 30 seconds ringtone.
@@ -134,11 +130,11 @@ What will be the easiest way to add ringtones to your iPhone, that's the profess
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Easily **edit iPhone ringtones** from PC and **transfer them to your device**.  
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) Various audio file types can be **directly converted to m4r** and then you can directly find them in your **iPhone Settings**.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Fast transfer speed** allows you to efficiently transfer multiple audio files in a very short time.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![yes](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7) **Wide compatibility** lets AOMEI FoneBackup can support various iOS devices and versions including the latest ones.
 
@@ -152,21 +148,29 @@ Step 1\. Launch AOMEI FoneBackup on Windows PC > Connect your iPhone to the comp
 
 ![transfer from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2\. Click the **Ringtones** option > Drag and drop the files you need to the box.
 
 ![select ringtones](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3\. Confirm the ringtones you need > Click **Start Transfer** to begin the task.
 
 ![transfer ringtones from pc to iphone](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **How to Set Custom Ringtone on iPhone 7 after the Process**
 
 After you have put the newly created ringtones on your iPhone 7(Plus) with iTunes, GarageBand or AOMEI FoneBackup, you can now change your iPhone ringtone by setting a custom one in Settings. Go to **Settings** on your iPhone 7 > **Sounds & Haptics** \> **Ringtone** \> Select the ringtone you just added to your iPhone.[![Add Ringtones To Iphone Settings](https://www.ubackup.com/phone-backup/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/phone/screenshot/en/others/iphone/add-ringtones-to-iphone-settings.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -182,13 +186,13 @@ Was the provided information useful? Your vote is important to us!
 
 ![Dylan](https://www.ubackup.com/assets/images/author/dylan.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Dylan](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Dylan is an editor of mobile backup software. He likes to share the latest news about iPhone and iOS, write useful tips, and give solutions to help people solve all kinds of issues.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -224,10 +228,6 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 ![](https://www.ubackup.com/resource/images/ub-fb-theme/article-fb-img-dibu@1x.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -243,20 +243,18 @@ One-Stop iPhone Data Backup and Transfer Solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-critique-of-the-frolicking-tale-a-videotape-retrospective/"><u>[New] Critique of 'The Frolicking Tale' A Videotape Retrospective</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-exclusive-preview-cut-compilation/"><u>[Updated] In 2024, Exclusive Preview Cut Compilation</u></a></li>
-<li><a href="https://win-updates.techidaily.com/6-nach-einem-update/"><u>6 Nach Einem Update</u></a></li>
-<li><a href="https://fox-making.techidaily.com/access-exclusive-content-pinkbikes-athletic-footage-melodies-and-cinematic-previews/"><u>Access Exclusive Content: Pinkbike's Athletic Footage, Melodies & Cinematic Previews</u></a></li>
-<li><a href="https://win-updates.techidaily.com/best-top-4-substitutes-for-transwiz-you-need-to-try/"><u>Best Top 4 Substitutes for Transwiz You Need to Try</u></a></li>
-<li><a href="https://win-great.techidaily.com/do-you-need-a-new-cpu-essential-advice-from-yl-software-professionals/"><u>Do You Need a New CPU? Essential Advice From YL Software Professionals</u></a></li>
-<li><a href="https://win-updates.techidaily.com/erstellen-sie-einen-bootfahigen-usb-stick-mit-rufus-fur-windows-7/"><u>Erstellen Sie Einen Bootfähigen USB-Stick Mit Rufus Für Windows 7</u></a></li>
-<li><a href="https://win-updates.techidaily.com/fehlt-im-adressbuch-entdeckung-der-besten-8-behebungsstrategien-fur-iphones-unterstutzt-durch-fonebackup/"><u>Fehlt Im Adressbuch? Entdeckung Der Besten 8 Behebungsstrategien Für iPhones, Unterstützt Durch FoneBackup</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-address-the-issue-of-connected-speaker-with-no-output-in-windows-environment/"><u>How to Address the Issue of Connected Speaker with No Output in Windows Environment</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-sony-xperia-5-v-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Sony Xperia 5 V Devices | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/step-by-step-tutorial-how-to-refresh-your-hardwares-drivers-with-yl-software-for-windows-systems/"><u>Step-by-Step Tutorial: How to Refresh Your Hardware's Drivers with YL Software for Windows Systems</u></a></li>
-<li><a href="https://win-updates.techidaily.com/ultimate-selection-of-no-cost-toshiba-hard-disk-clone-and-protection-tools/"><u>Ultimate Selection of No-Cost Toshiba Hard Disk Clone & Protection Tools</u></a></li>
-<li><a href="https://win-updates.techidaily.com/wiederherstellung-von-versehentigem-geloschtem-recycling-ordner-auf-windows-11-einfache-schritte-zur-datenwiedergewinnung/"><u>Wiederherstellung Von Versehentigem Gelöschtem Recycling-Ordner Auf Windows 11: Einfache Schritte Zur Datenwiedergewinnung</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1728476009944-windows/"><u>Windows上的全面计算机备份及恢复指南</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-accessing-global-hitters-the-1-6-short-video-downloaders/"><u>[New] Accessing Global Hitters The #1-#6 Short Video Downloaders</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-endgame-permanently-blocking-access-to-youtube-shorts/"><u>[New] The Endgame Permanently Blocking Access to YouTube Shorts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1-transform-your-videos-effortlessly-top-2-apps-for-changing-formats/"><u>1. Transform Your Videos Effortlessly: Top 2 Apps for Changing Formats</u></a></li>
+<li><a href="https://win-updates.techidaily.com/2-step-by-step-tutorial-effortlessly-signing-your-photos-in-minutes/"><u>2. Step-by-Step Tutorial: Effortlessly Signing Your Photos in Minutes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-tailoring-your-videography-with-personalized-instagram-captions/"><u>2024 Approved Tailoring Your Videography with Personalized Instagram Captions</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/7-hard-drive-free/"><u>7 Hard Drive - FREE</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-honor-90-gt-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Honor 90 GT</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-steps-for-developing-sturdy-and-protected-msi-programs/"><u>Comprehensive Steps for Developing Sturdy and Protected MSI Programs</u></a></li>
+<li><a href="https://win-updates.techidaily.com/identifying-smartphone-infections-a-step-by-step-guide-to-detecting-and-removing-mobile-viruses/"><u>Identifying Smartphone Infections: A Step-by-Step Guide to Detecting and Removing Mobile Viruses</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-simply-turn-off-your-insta-tv/"><u>In 2024, Simply Turn Off Your Insta TV</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-tutorial-fresh-up-your-windows-with-updated-canon-pixma-mx490-driver-software/"><u>Step-by-Step Tutorial: Fresh Up Your Windows with Updated Canon PIXMA MX490 Driver Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/strategies-and-tips-for-dominating-famous-war-games-on-a-personal-pc/"><u>Strategies and Tips for Dominating Famous War Games on a Personal PC</u></a></li>
+<li><a href="https://win-updates.techidaily.com/unlocking-mastery-in-computer-case-customization-with-our-expertly-crafted-msi-packaging-manual/"><u>Unlocking Mastery in Computer Case Customization with Our Expertly Crafted MSI Packaging Manual</u></a></li>
 </ul></div>
 

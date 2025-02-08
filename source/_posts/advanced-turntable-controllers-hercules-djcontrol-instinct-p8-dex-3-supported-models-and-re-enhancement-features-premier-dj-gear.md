@@ -1,7 +1,7 @@
 ---
 title: "Advanced Turntable Controllers: Hercules DJControl Instinct P8, DEX 3 Supported Models and RE Enhancement Features | Premier DJ Gear"
-date: 2025-01-19T19:38:03.252Z
-updated: 2025-01-26T17:55:19.391Z
+date: 2025-02-03T16:08:20.492Z
+updated: 2025-02-08T16:34:10.479Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,17 +66,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rafting-unique-thumbnails-for-youtube-content/"><u>[New] Crafting Unique Thumbnails for YouTube Content</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-video-sharing-understanding-vimeo-membership-plans/"><u>[Updated] Mastering Video Sharing Understanding Vimeo Membership Plans</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-your-guide-to-exceptional-online-marketing-savor-our-selection-of-50-free-ads/"><u>[Updated] Your Guide to Exceptional Online Marketing – Savor Our Selection of 50 FREE Ads</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-13-miniipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from Apple iPhone 13 mini/iPad/iPod</u></a></li>
-<li><a href="https://win-updates.techidaily.com/easy-steps-to-restore-accidentally-deleted-files-on-your-windows-10-pc/"><u>Easy Steps to Restore Accidentally Deleted Files on Your Windows 10 PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/elite-mac-audio-recorders-discover-the-five-best-for-2024/"><u>Elite Mac Audio Recorders Discover the Five Best for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/from-png-to-jpeg-mac-screenshot-transformations-for-2024/"><u>From PNG to JPEG Mac Screenshot Transformations for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/professionelle-tipps-zur-samsung-ssd-datenspeichermigration-schliessen-sie-eine-erfolgreiche-ubertragung-ab/"><u>Professionelle Tipps Zur Samsung SSD Datenspeichermigration: Schließen Sie Eine Erfolgreiche Übertragung Ab!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/simple-tutorial-on-reverting-google-chrome-mozilla-firefox-and-microsoft-edge-back-to-their-original-state/"><u>Simple Tutorial on Reverting Google Chrome, Mozilla Firefox and Microsoft Edge Back to Their Original State</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-rated-youtube-summary-tools-and-apps-the-ultimate-guide/"><u>Top Rated YouTube Summary Tools & Apps: The Ultimate Guide</u></a></li>
-<li><a href="https://win-updates.techidaily.com/understanding-the-reasons-behind-your-phone-overheating-and-effective-cooling-techniques/"><u>Understanding the Reasons Behind Your Phone Overheating & Effective Cooling Techniques</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nd-screen-creation-made-simple-free-templates-and-guides-for-2024/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-techs-choice-best-online-screen-capturing-tools/"><u>[Updated] 2024 Approved Tech's Choice Best Online Screen Capturing Tools</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-crafting-emotional-impact-in-personal-youtube-content/"><u>2024 Approved Crafting Emotional Impact in Personal YouTube Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-scaling-your-influence-with-youtube-shorts-strategy/"><u>2024 Approved Scaling Your Influence with YouTube Shorts Strategy</u></a></li>
+<li><a href="https://games-able.techidaily.com/hidden-helpers-transient-tactics-unleashed/"><u>Hidden Helpers: Transient Tactics Unleashed</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-restore-games-and-progress-on-xbox-360-following-drive-erasure/"><u>How to Restore Games and Progress on Xbox 360 Following Drive Erasure</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-60-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo 60 5G Device</u></a></li>
+<li><a href="https://win-updates.techidaily.com/resolution-des-problemes-de-sauvegarde-inexistants-dans-windows-11/"><u>Résolution Des Problèmes De Sauvegarde Inexistants Dans Windows 11</u></a></li>
+<li><a href="https://win-updates.techidaily.com/reviviendo-correos-desaparecidos-metodos-verificados-para-recuperar-mensajes-del-disco-duro-de-su-pc/"><u>Reviviendo Correos Desaparecidos: Métodos Verificados Para Recuperar Mensajes Del Disco Duro De Su PC</u></a></li>
+<li><a href="https://win11.techidaily.com/tackling-nonresponsive-diagnostics-in-win10win11/"><u>Tackling Nonresponsive Diagnostics in Win10/Win11</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-smart-tvs-how-do-they-connect-to-the-internet/"><u>Understanding Smart TVs: How Do They Connect to the Internet?</u></a></li>
+<li><a href="https://win-updates.techidaily.com/update-ios-to-the-latest-version-as-this-can-resolve-compatibility-issues-with-supervision-features/"><u>Update iOS to the Latest Version, as This Can Resolve Compatibility Issues with Supervision Features.</u></a></li>
 </ul></div>
 

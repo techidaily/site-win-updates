@@ -1,7 +1,7 @@
 ---
 title: "Thriving in the Mix: Thursday Night’s Tune-Tastic Session Featuring Jason Spencer & Jason Jones on #DJNTV"
-date: 2025-01-21T21:27:54.300Z
-updated: 2025-01-26T17:15:38.140Z
+date: 2025-02-04T20:28:14.457Z
+updated: 2025-02-08T19:44:33.264Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ Jason Jones is an MC/DJ, Performance Coach and speaker when he isn’t hosting s
 **In this video Jason Spencer discusses how he plays to the crowd, and what crowd queue’s to read to ensure you keep the dance floor packed and the night a memorable one.**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,14 +44,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2014/09/mobilemusiccoverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-revamping-screen-recording-a-critical-look-at-camstudios-new-features/"><u>[New] Revamping Screen Recording - A Critical Look at CamStudio's New Features</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-mkv-player-for-windows-and-mobile/"><u>[Updated] 2024 Approved Ultimate MKV Player for Windows & Mobile</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-secret-to-stellar-instagram-video-engagement-flawless-sizing-techniques/"><u>[Updated] The Secret to Stellar Instagram Video Engagement Flawless Sizing Techniques</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-f5-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/fixing-the-sluggish-speed-of-your-cloned-windows-10-pc-top-7-proven-methods/"><u>Fixing the Sluggish Speed of Your Cloned Windows 10 PC: Top 7 Proven Methods</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guida-passo-passo-alla-ripristinata-ottimale-di-windows-erry-watts-aka-the-creeper-his-journey-from-the-shadows-of-gotham-to-becoming-one-of-its-most-formid326/"><u>Guida Passo-Passo Alla Ripristinata Ottimale Di Windows Erry Watts, Aka The Creeper. His Journey From the Shadows of Gotham to Becoming One of Its Most Formidable Defenders Is as Intriguing as It Is Inspiring.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-t2x-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo T2x 5G</u></a></li>
-<li><a href="https://win-updates.techidaily.com/samsungmbrgpt/"><u>Samsung数据备份指南：从MBR转换为GPT的两个有效解决方案</u></a></li>
-<li><a href="https://win-updates.techidaily.com/top-strategies-pour-proteger-votre-ordinateur-portable-suivez-la-regle-3-2-1/"><u>Top Stratégies Pour Protéger Votre Ordinateur Portable : Suivez La Règle 3-2-1</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ultimate-virtual-reality-controller-guide/"><u>[New] 2024 Approved Ultimate Virtual Reality Controller Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-20-youtube-time-savers-that-will-skyrocket-engagement-rates-for-2024/"><u>[Updated] 20 YouTube Time Savers That Will Skyrocket Engagement Rates for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-step-by-step-approach-to-mastery-with-iphone-x-animoji-use/"><u>[Updated] 2024 Approved Step-by-Step Approach to Mastery with iPhone X Animoji Use</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-convenient-tips-for-iphone-screen-recording-setup/"><u>2024 Approved Convenient Tips for iPhone Screen Recording Setup</u></a></li>
+<li><a href="https://win-updates.techidaily.com/bestandsdelen-van-een-sd-kaart-herstel-van-de-datastoring-proces/"><u>Bestandsdelen Van Een SD-Kaart: Herstel Van De Datastoring Proces</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comment-resoudre-le-probleme-decran-blanc-sur-votre-ordinateur-ou-portable-windows-10/"><u>Comment Résoudre Le Problème D'Écran Blanc Sur Votre Ordinateur Ou Portable Windows 10</u></a></li>
+<li><a href="https://win-updates.techidaily.com/duik-in-de-wereld-van-kopieertech-twee-efficiente-manieren-om-je-oud-computer-te-kloppen/"><u>Duik in De Wereld Van Kopieertech: Twee Efficiënte Manieren Om Je Oud Computer Te Kloppen</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-retrieve-lost-or-formatted-file-data-on-your-usb-via-windows-command-line-interface-cmd/"><u>How to Retrieve Lost or Formatted File Data on Your USB via Windows Command Line Interface (CMD)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-infinix-smart-7-hd-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Infinix Smart 7 HD for Parents | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-acoustic-detox-the-best-programs-for-minimizing-environmental-audio-interference/"><u>New In 2024, Acoustic Detox The Best Programs for Minimizing Environmental Audio Interference</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/samsungs-vision-innovations-in-image-editor-software-for-2024/"><u>Samsung’s Vision Innovations in Image Editor Software for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-tutorial-for-retrieving-unintentionally-modified-word-documents-using-windows-11-features/"><u>Step-by-Step Tutorial for Retrieving Unintentionally Modified Word Documents Using Windows 11 Features</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-11-nas/"><u>Windows 11からシノダイオール NASへのセキュアな自動バックアップ手順</u></a></li>
 </ul></div>
 

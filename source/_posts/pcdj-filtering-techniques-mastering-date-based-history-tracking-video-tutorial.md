@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Filtering Techniques: Mastering Date-Based History Tracking - Video Tutorial"
-date: 2025-01-24T16:05:07.031Z
-updated: 2025-01-26T23:17:39.907Z
+date: 2025-02-05T16:38:42.185Z
+updated: 2025-02-08T16:42:01.875Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Watch ‘Filter History By Date’ Video Tutorial
@@ -37,7 +37,7 @@ The ‘**Filter History By Date**‘ option found in both DEX 3 and DEX 3 RE all
 _Have questions about the ‘**Filter History By Date**‘ feature in our **DJ software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -59,14 +59,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/06/filterhistorybydate-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-skyvault-budget-edition-unlimited-mass-files-save/"><u>[New] SkyVault Budget Edition Unlimited Mass Files Save</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-exclusive-12-live-views-at-your-fingertips/"><u>[Updated] Exclusive 12 Live Views at Your Fingertips</u></a></li>
-<li><a href="https://win-updates.techidaily.com/isousb2/"><u>「ISOファイルを安全かつコストなしでUSBドライブへ書き込む効果的な2方法」</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/apex-craftsman-studio-evaluation-for-2024/"><u>Apex Craftsman Studio Evaluation for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-successfully-transfer-images-from-iphone-to-windows-11-a-comprehensive-guide/"><u>How To Successfully Transfer Images From iPhone to Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/low-cost-high-impact-spherical-videography-devices-for-2024/"><u>Low Cost, High Impact Spherical Videography Devices for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/schritt-fur-schritt-guide-zur-wiederbelebung-von-dateien-die-im-papierkorb-des-onedrives-verloren-gegangen-sind/"><u>Schritt-Für-Schritt-Guide Zur Wiederbelebung Von Dateien, Die Im Papierkorb Des OneDrives Verloren Gegangen Sind</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726030674544-wonderfox-dvd/"><u>WonderFox DVDへの変換ソフトウェア特別価格: 半額セール中!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/44gp44gg44ke44gj44gm44or44k944kz44oz5lik44gr5lplusd5a2y44gv44km44gf44ov44kp44oi44ks5qsc57si44gz44klpw/"><u>どうやってパソコン上に保存されたフォトを検索する?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-achieving-sonic-harmony-advanced-crossfading-in-audacity/"><u>[New] Achieving Sonic Harmony Advanced Crossfading in Audacity</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-unveiling-top-online-markets-for-quality-tamil-ringtone-downloads/"><u>[New] Unveiling Top Online Markets for Quality Tamil Ringtone Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-previewed-activities-on-facebook-are-you-exposed/"><u>[Updated] Previewed Activities on Facebook Are You Exposed?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-exploring-adventures-with-panasonic-hx-a1-cam/"><u>2024 Approved Exploring Adventures with Panasonic HX-A1 Cam</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728489539826-win10/"><u>易如反掌的 Win10 硬碟分割區救回方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-metaverse-adventures-to-share-with-pals/"><u>Best Metaverse Adventures to Share with Pals</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-steps-to-transfer-your-operating-system-onto-a-new-solid-state-drive/"><u>Effortless Steps to Transfer Your Operating System Onto a New Solid State Drive</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-m34-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy M34 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-recording-winning-calls-a-complete-guide-free-vs-paid-for-windows-and-mac-users/"><u>In 2024, Recording Winning Calls A Complete Guide (Free vs Paid) for Windows & Mac Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-vida-journey-from-raw-footage-to-cinematic-scene-for-2024/"><u>The Vida Journey From Raw Footage to Cinematic Scene for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/troubleshooting-excessive-resource-use-21-strategies-for-dealing-with-overutilized-system-storage/"><u>Troubleshooting Excessive Resource Use: 21 Strategies for Dealing with Overutilized System Storage</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/warum-musik-nicht-auf-dem-iphone-sondern-nur-in-itunes-angezeigt-wird-ein-leitfaden/"><u>Warum Musik Nicht Auf Dem iPhone, Sondern Nur in iTunes Angezeigt Wird: Ein Leitfaden</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728461960439-windows-11/"><u>Windows 11: ゴミ箱から消えたファイルの完全復活方法講座</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-11-0x800f0806-kb5017321/"><u>Windows 11におけるエラー 0X800f0806: KB5017321を成功裏にインストールする方法</u></a></li>
 </ul></div>
 

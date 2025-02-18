@@ -1,7 +1,7 @@
 ---
 title: Returning to California - Key Learnings and Memories From the Annual NAMM Conference
-date: 2025-02-06T18:28:44.797Z
-updated: 2025-02-08T16:31:00.818Z
+date: 2025-02-12T17:11:25.289Z
+updated: 2025-02-18T18:19:25.173Z
 tags:
   - product
 categories:
@@ -38,7 +38,7 @@ I’ve just returned from SoCal after the grind, albeit a enjoyable one, that is
    While some DJs may be turned off by the lack of tactile hands-on control (pushing faders, twisting knobs, etc), the versatility and application for the KS32 is fascinating.If you’re a multi-media mixing DJ that does more than just mix music — the KS32 is a product to consider. Think “modes” and panels, switching from video mixing mode, to karaoke mode and on to lighting control. Since it’s template based the flexibility is truly endless. PCDJ users rejoice, as Smithson Martin will be working on a new template for DEX 3 soon!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -60,19 +60,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/nammreport-coverimage.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-pursuing-popularity-on-platforms-elevating-your-youtube-profile/"><u>[New] 2024 Approved Pursuing Popularity on Platforms Elevating Your Youtube Profile</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-normal-to-fantastic-picture-distortion-insights/"><u>[New] From Normal to Fantastic Picture Distortion Insights</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-relaxation-at-your-fingertips-games-you-love/"><u>[New] In 2024, Relaxation at Your Fingertips Games You Love</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamlining-the-process-of-google-voice-call-capture-for-2024/"><u>[New] Streamlining the Process of Google Voice Call Capture for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/1-ultimate-guide-to-controlling-pc-energy-options-expert-tips-from-yl-computing/"><u>1. Ultimate Guide to Controlling PC Energy Options: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>2024 Approved A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/assessing-camera-multicam-systems-in-modern-living-spaces/"><u>Assessing Camera Multicam Systems in Modern Living Spaces</u></a></li>
-<li><a href="https://win-updates.techidaily.com/comprehensive-guide-does-each-windows-release-come-with-built-in-antivirus-protection/"><u>Comprehensive Guide: Does Each Windows Release Come with Built-In Antivirus Protection?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-fix-a-malfunctioning-video-card-expert-advice-by-yl-software-professionals/"><u>How to Fix a Malfunctioning Video Card: Expert Advice by YL Software Professionals</u></a></li>
-<li><a href="https://win-updates.techidaily.com/identifying-graphics-card-issues-typical-failure-symptoms-explained-by-yl-software-experts/"><u>Identifying Graphics Card Issues: Typical Failure Symptoms Explained by YL Software Experts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/in-depth-analysis-lenovos-supreme-tablet-contender-the-mighty-godzilla-in-the-digital-jungle/"><u>In-Depth Analysis: Lenovo's Supreme Tablet Contender - The Mighty 'Godzilla' In the Digital Jungle</u></a></li>
-<li><a href="https://win-updates.techidaily.com/is-windows-defender-the-ultimate-protector-for-your-system-discover-more-from-yl-computing-experts/"><u>Is Windows Defender the Ultimate Protector for Your System? Discover More From YL Computing Experts</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-fcpx-tutorial-image-cropping-made-easy-for-2024/"><u>Updated FCPX Tutorial Image Cropping Made Easy for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-eight-destinations-for-3d-typography/"><u>[New] Top Eight Destinations for 3D Typography</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-craft-unforgettable-experiences-for-more-subscribers-with-these-6-tips/"><u>[Updated] 2024 Approved Craft Unforgettable Experiences for More Subscribers with These 6 Tips</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-discover-how-asmr-can-enhance-your-life-quality/"><u>[Updated] In 2024, Discover How ASMR Can Enhance Your Life Quality</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/continuous-speaker-cuts-heres-how-to-resolve-audio-problems-in-windows-11/"><u>Continuous Speaker Cuts? Here's How to Resolve Audio Problems in Windows 11</u></a></li>
+<li><a href="https://win-updates.techidaily.com/diagnosing-graphic-glitches-the-common-culprits-affecting-your-graphics-card-explained-with-yl-software-insights/"><u>Diagnosing Graphic Glitches: The Common Culprits Affecting Your Graphics Card Explained with YL Software Insights</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-solutions-to-fix-system-lockups-advice-by-yl-software-experts/"><u>Effective Solutions to Fix System Lockups - Advice by YL Software Experts</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-connect-any-modern-xbox-controller-to-a-pc-3-easy-methods/"><u>How to Connect Any Modern Xbox Controller to a PC: 3 Easy Methods</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-remove-driver-programs-on-windows-a-guide-by-yl-computing/"><u>How to Remove Driver Programs on Windows: A Guide by YL Computing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-lava-blaze-2-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Lava Blaze 2 Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Will iSpoofer update On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/key-maintenance-practices-for-optimal-pc-performance-tips-by-yl-computing-and-yl-software-experts/"><u>Key Maintenance Practices for Optimal PC Performance - Tips by YL Computing and YL Software Experts</u></a></li>
+<li><a href="https://win-updates.techidaily.com/solving-the-mystery-of-persistent-windows-crashes-expert-tips-from-yl-computing/"><u>Solving the Mystery of Persistent Windows Crashes: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://driver-download.techidaily.com/the-complete-walkthrough-for-installing-your-epson-xp-830-printers-software/"><u>The Complete Walkthrough for Installing Your Epson XP-830 Printer's Software</u></a></li>
 </ul></div>
 

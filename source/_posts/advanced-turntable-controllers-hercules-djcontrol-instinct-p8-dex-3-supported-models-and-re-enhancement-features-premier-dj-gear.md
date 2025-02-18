@@ -1,7 +1,7 @@
 ---
 title: "Advanced Turntable Controllers: Hercules DJControl Instinct P8, DEX 3 Supported Models and RE Enhancement Features | Premier DJ Gear"
-date: 2025-02-03T16:08:20.492Z
-updated: 2025-02-08T16:34:10.479Z
+date: 2025-02-14T20:13:56.221Z
+updated: 2025-02-18T19:14:38.241Z
 tags:
   - product
 categories:
@@ -44,7 +44,7 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -66,17 +66,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nd-screen-creation-made-simple-free-templates-and-guides-for-2024/"><u>[New] End Screen Creation Made Simple - Free Templates & Guides for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-techs-choice-best-online-screen-capturing-tools/"><u>[Updated] 2024 Approved Tech's Choice Best Online Screen Capturing Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-crafting-emotional-impact-in-personal-youtube-content/"><u>2024 Approved Crafting Emotional Impact in Personal YouTube Content</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-scaling-your-influence-with-youtube-shorts-strategy/"><u>2024 Approved Scaling Your Influence with YouTube Shorts Strategy</u></a></li>
-<li><a href="https://games-able.techidaily.com/hidden-helpers-transient-tactics-unleashed/"><u>Hidden Helpers: Transient Tactics Unleashed</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-restore-games-and-progress-on-xbox-360-following-drive-erasure/"><u>How to Restore Games and Progress on Xbox 360 Following Drive Erasure</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-realme-narzo-60-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Realme Narzo 60 5G Device</u></a></li>
-<li><a href="https://win-updates.techidaily.com/resolution-des-problemes-de-sauvegarde-inexistants-dans-windows-11/"><u>Résolution Des Problèmes De Sauvegarde Inexistants Dans Windows 11</u></a></li>
-<li><a href="https://win-updates.techidaily.com/reviviendo-correos-desaparecidos-metodos-verificados-para-recuperar-mensajes-del-disco-duro-de-su-pc/"><u>Reviviendo Correos Desaparecidos: Métodos Verificados Para Recuperar Mensajes Del Disco Duro De Su PC</u></a></li>
-<li><a href="https://win11.techidaily.com/tackling-nonresponsive-diagnostics-in-win10win11/"><u>Tackling Nonresponsive Diagnostics in Win10/Win11</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-smart-tvs-how-do-they-connect-to-the-internet/"><u>Understanding Smart TVs: How Do They Connect to the Internet?</u></a></li>
-<li><a href="https://win-updates.techidaily.com/update-ios-to-the-latest-version-as-this-can-resolve-compatibility-issues-with-supervision-features/"><u>Update iOS to the Latest Version, as This Can Resolve Compatibility Issues with Supervision Features.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-mac-screen-recorder-alternatives-to-bandicam/"><u>[New] Essential Mac Screen Recorder Alternatives to Bandicam</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-bridging-platforms-the-instagram-and-tiktok-guide-for-2024/"><u>[Updated] Bridging Platforms The Instagram & TikTok Guide for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/die-umfassende-anleitung-zu-robocpy-in-windows-11-einsatzstrategien-and-fuhrende-ersatzmethoden/"><u>Die Umfassende Anleitung Zu Robocpy in Windows 11: Einsatzstrategien & Führende Ersatzmethoden</u></a></li>
+<li><a href="https://video-capture.techidaily.com/editing-h265hevc-video-formats-in-windows-10-and-11-comprehensive-tutorial/"><u>Editing H.265/HEVC Video Formats in Windows 10 and 11: Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-updates.techidaily.com/efficient-sql-server-database-backups-using-compression-techniques/"><u>Efficient SQL Server Database Backups Using Compression Techniques</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-copy-hard-drive-in-windows-using-paragon-partition-manager-for-win-11-10-8-and-7/"><u>How to Copy Hard Drive in Windows Using Paragon Partition Manager for Win 11, 10, 8 and 7</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-quick-and-simple-facial-masking-in-photos/"><u>In 2024, Quick & Simple Facial Masking in Photos</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-science-behind-apples-m1-processor-unveiled/"><u>In 2024, The Science Behind Apple’s M1 Processor Unveiled</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/purchase-the-latest-ar-laptop-featuring-a-stunning-100-inch-screen-eliminating-the-need-for-separate-monitors/"><u>Purchase the Latest AR Laptop Featuring a Stunning 100-Inch Screen, Eliminating the Need for Separate Monitors</u></a></li>
+<li><a href="https://win-updates.techidaily.com/sicheres-synchronisieren-von-synologysystemen-hyper-backup-vs-basis-losungen/"><u>Sicheres Synchronisieren Von Synologysystemen - Hyper Backup Vs. Basis-Lösungen</u></a></li>
+<li><a href="https://win-updates.techidaily.com/win-10-efi/"><u>Win 10 EFI系统分区恢复: 无法引导？专业解锁方法详解</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-11108itunes/"><u>Windows 11/10/8向けiTunesバックアップ再生成手順：削除されたファイルの取り戻し方法</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/690321-9781583944325-zen-body-being/"><u>Zen Body-Being | Free Book</u></a></li>
 </ul></div>
 

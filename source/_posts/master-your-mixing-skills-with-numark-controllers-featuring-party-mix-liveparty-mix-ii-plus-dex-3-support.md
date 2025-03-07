@@ -1,7 +1,7 @@
 ---
 title: Master Your Mixing Skills with Numark Controllers, Featuring Party Mix Live/Party Mix II + DEX 3 Support!
-date: 2025-02-16T16:33:45.952Z
-updated: 2025-02-18T19:09:38.511Z
+date: 2025-03-03T23:01:27.846Z
+updated: 2025-03-07T06:55:21.402Z
 tags:
   - product
 categories:
@@ -24,31 +24,15 @@ Here’s a quick look at what each freshly supported DJ controller offers DEX 3 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Numark Party Mix Live ($179 at most online retailers)
 
 [![Numark Party Mix Live](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixLive_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix Live")](https://i2.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixLive%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The [Numark Party Mix Live](https://www.numark.com/product/party-mix-live) is packed with all the core features DJs need, whether you’re new to DJing or longtime pro. Built-in speakers fill the room with dynamic sound and integrated LED lights create a beat-synchronized light show. Four performance pads on each deck allow quick access to effects, cue points, loops or samples. Play, Cue and Sync buttons provide complete playback control and access to automatic tempo matching between tracks on each deck for perfectly aligned mixes. Large, touch-sensitive jog wheels allow you to pause, backspin and even scratch tracks as you work through your playlist. An outer jog-wheel functions as pitch-bend so you can nudge tracks into alignment for the perfect blend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Numark Party Mix II ($129 at most online retailers)
 
 [![](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark_PartyMixMKII_angle_web.png?fit=300%2C188&ssl=1 "Numark Party Mix II")](https://i1.wp.com/pcdj.com/wp-content/uploads/2022/06/Numark%5FPartyMixMKII%5Fangle%5Fweb.png?fit=1030%2C644&ssl=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Based on the original Party Mix Controller, the [Numark Party Mix II](https://www.numark.com/product/party-mix-ii) DJ Controller is packed with all the DJ performance essentials and a built in ‘light show’. The essential DJ controller features include large touch-sensitive jog wheels for scratching, large Filter effect knobs on each deck, Sync, play/pause and Cue buttons, pitch sliders for tempo adjustments, performance pads with various modes, library controls for scrolling and loading tracks, 2-band EQ on each deck, and for output a 1/8″ headphone jack and 1/8″ main output jack. The light show is projected by three multi-colored LEDs with wide-coverage lenses for a room-filling, beat-synchronized light show. With five lighting modes to choose from, finding the right vibe for your party is a snap.
 
@@ -62,10 +46,6 @@ Based on the original Party Mix Controller, the [Numark Party Mix II](https://ww
 * That will provide the proper audio routing for headphone pre-fade listening (cue)
 
 _Have questions about the **Numark Party Mix II** or **Numark Party Mix Live** and how they work with our **Top DJ software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -86,20 +66,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2022/06/cover-partymix-1.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-best-5-streamlined-online-convertors-for-gifs-to-video/"><u>[New] 2024 Approved Best 5 Streamlined Online Convertors for GIFs to Video</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-discovering-the-magic-behind-youtube-shorts/"><u>[New] In 2024, Discovering the Magic Behind Youtube Shorts</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-chart-toppers-unveiled-top-youtube-stars-and-their-subs/"><u>[Updated] Chart-Toppers Unveiled Top YouTube Stars and Their Subs</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-top-picks-for-instagram-soundtracks-and-how-to-design-a-stellar-chime/"><u>[Updated] In 2024, Top Picks for Instagram Soundtracks & How to Design a Stellar Chime</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-motorola-moto-e13-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Motorola Moto E13 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/banish-your-wow-boot-up-blues-with-these-essential-pc-troubleshooting-tips/"><u>Banish Your WoW Boot-Up Blues with These Essential PC Troubleshooting Tips</u></a></li>
-<li><a href="https://win-updates.techidaily.com/essential-techniques-for-preserving-contact-information-on-android-devices/"><u>Essential Techniques for Preserving Contact Information on Android Devices</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guide-utilizing-vbscript-and-powershell-for-efficient-driver-management-tasks/"><u>Guide: Utilizing VBScript and PowerShell for Efficient Driver Management Tasks</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2010-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2010 document electronically</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-oneplus-ace-2v-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your OnePlus Ace 2V Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/new-release-alert-explore-the-advanced-capabilities-of-apowermanager-version-30/"><u>New Release Alert: Explore the Advanced Capabilities of ApowerManager Version 3.0!</u></a></li>
-<li><a href="https://win-updates.techidaily.com/securing-file-transfers-comprehensive-guide-to-defending-against-krack-vulnerability/"><u>Securing File Transfers: Comprehensive Guide to Defending Against KRACK Vulnerability</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-capturing-your-safari-sessions-on-iphone/"><u>Step-by-Step Guide: Capturing Your Safari Sessions on iPhone</u></a></li>
-<li><a href="https://win-updates.techidaily.com/step-by-step-guide-disabling-find-my-iphone-feature-safely-without-a-passcode/"><u>Step-by-Step Guide: Disabling Find My iPhone Feature Safely without a Passcode</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-embedding-apples-music-in-videos/"><u>[New] In 2024, Embedding Apple's Music in Videos</u></a></li>
+<li><a href="https://win-updates.techidaily.com/2021s-leading-free-ocr-applications-for-windows-pcs-a-comprehensive-guide/"><u>2021'S Leading Free OCR Applications for Windows PCs: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-rapidly-increase-views-effective-growth-hacks-for-channels/"><u>2024 Approved Rapidly Increase Views Effective Growth Hacks for Channels</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-artists-guide-to-the-leading-6-nft-creation-suites/"><u>2024 Approved The Artist's Guide to the Leading 6 NFT Creation Suites</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-talkers-theme-transformer/"><u>2024 Approved Top Talkers' Theme Transformer</u></a></li>
+<li><a href="https://win-updates.techidaily.com/discover-the-premier-collection-of-9-excellent-cost-free-email-solutions-on-android/"><u>Discover the Premier Collection of 9 Excellent, Cost-Free Email Solutions on Android</u></a></li>
+<li><a href="https://win-updates.techidaily.com/easy-steps-successfully-downloading-and-setting-up-apowerunlock/"><u>Easy Steps: Successfully Downloading & Setting Up ApowerUnlock</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-video-size-modification-top-no-cost-applications-tailored-for-tweeting-enthusiasts/"><u>Effortless Video Size Modification: Top No-Cost Applications Tailored for Tweeting Enthusiasts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ensure-perfect-printing-with-a-new-driver-update-for-the-epson-xp-640-on-windows-1087/"><u>Ensure Perfect Printing with a New Driver Update for the Epson XP-640 on Windows 10/8/7</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/enthralling-your-eyes-six-ingenious-methods-for-capturing-netflix-vids-on-a-mac/"><u>Enthralling Your Eyes Six Ingenious Methods for Capturing Netflix Vids on a Mac</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-rtl81ncu-wireless-network-adapter-driver-supported-by-realtek-for-windows-117/"><u>Get the Latest RTL81nCU Wireless Network Adapter Driver Supported by Realtek for Windows 11/7</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-fix-your-computer-when-it-stops-responding-tips-by-yl-software/"><u>How to Fix Your Computer When It Stops Responding - Tips by YL Software</u></a></li>
+<li><a href="https://win-updates.techidaily.com/how-to-troubleshoot-malfunctioning-hardware-devices-insights-from-yl-computings-expertise/"><u>How to Troubleshoot Malfunctioning Hardware Devices: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/intermittent-typing-failure/"><u>Intermittent Typing Failure</u></a></li>
+<li><a href="https://win-updates.techidaily.com/step-by-step-guide-to-exporting-bank-reports-as-excel-spreadsheets-with-apowersoft-solutions/"><u>Step-by-Step Guide to Exporting Bank Reports as Excel Spreadsheets with ApowerSoft Solutions</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-compilation-best-volume-boosting-software-for-windows-users-seeking-immediate-results-for-2024/"><u>The Ultimate Compilation Best Volume Boosting Software for Windows Users Seeking Immediate Results for 2024</u></a></li>
+<li><a href="https://win-updates.techidaily.com/understanding-the-root-cause-of-display-driver-stopped-responding-on-windows-insights-from-yl-computing/"><u>Understanding the Root Cause of 'Display Driver Stopped Responding' On Windows - Insights From YL Computing</u></a></li>
 </ul></div>
 

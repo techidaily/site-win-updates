@@ -1,7 +1,7 @@
 ---
 title: "Advanced Turntable Controllers: Hercules DJControl Instinct P8, DEX 3 Supported Models and RE Enhancement Features | Premier DJ Gear"
-date: 2025-02-14T20:13:56.221Z
-updated: 2025-02-18T19:14:38.241Z
+date: 2025-02-27T17:53:51.574Z
+updated: 2025-03-07T04:50:53.737Z
 tags:
   - product
 categories:
@@ -43,10 +43,6 @@ The map for **Hercules DJControl Instinct P8** is already included with the inst
 
 _Have questions about the **Hercules DJ Control Instinct P8** and using it with a PCDJ **DJ program**? Please leave them in the comments section below!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### _Related_
 
 https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp8-coverimage-site.jpg?fit=706%2C360&ssl=1 360 706 Ryan Sherr https://www.pcdj.com/wp-content/uploads/2021/07/pcdj-main-logo-2.png Ryan Sherr2016-10-27 10:27:552018-10-03 15:34:01DJ Controllers | Hercules DJControl Instinct P8 Now DEX 3 and DEX 3 RE Supported}
@@ -66,18 +62,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/10/herculesdjcontrolinstinctp
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-essential-mac-screen-recorder-alternatives-to-bandicam/"><u>[New] Essential Mac Screen Recorder Alternatives to Bandicam</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-bridging-platforms-the-instagram-and-tiktok-guide-for-2024/"><u>[Updated] Bridging Platforms The Instagram & TikTok Guide for 2024</u></a></li>
-<li><a href="https://win-updates.techidaily.com/die-umfassende-anleitung-zu-robocpy-in-windows-11-einsatzstrategien-and-fuhrende-ersatzmethoden/"><u>Die Umfassende Anleitung Zu Robocpy in Windows 11: Einsatzstrategien & Führende Ersatzmethoden</u></a></li>
-<li><a href="https://video-capture.techidaily.com/editing-h265hevc-video-formats-in-windows-10-and-11-comprehensive-tutorial/"><u>Editing H.265/HEVC Video Formats in Windows 10 and 11: Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-updates.techidaily.com/efficient-sql-server-database-backups-using-compression-techniques/"><u>Efficient SQL Server Database Backups Using Compression Techniques</u></a></li>
-<li><a href="https://win-updates.techidaily.com/how-to-copy-hard-drive-in-windows-using-paragon-partition-manager-for-win-11-10-8-and-7/"><u>How to Copy Hard Drive in Windows Using Paragon Partition Manager for Win 11, 10, 8 and 7</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-and-simple-facial-masking-in-photos/"><u>In 2024, Quick & Simple Facial Masking in Photos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-science-behind-apples-m1-processor-unveiled/"><u>In 2024, The Science Behind Apple’s M1 Processor Unveiled</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/purchase-the-latest-ar-laptop-featuring-a-stunning-100-inch-screen-eliminating-the-need-for-separate-monitors/"><u>Purchase the Latest AR Laptop Featuring a Stunning 100-Inch Screen, Eliminating the Need for Separate Monitors</u></a></li>
-<li><a href="https://win-updates.techidaily.com/sicheres-synchronisieren-von-synologysystemen-hyper-backup-vs-basis-losungen/"><u>Sicheres Synchronisieren Von Synologysystemen - Hyper Backup Vs. Basis-Lösungen</u></a></li>
-<li><a href="https://win-updates.techidaily.com/win-10-efi/"><u>Win 10 EFI系统分区恢复: 无法引导？专业解锁方法详解</u></a></li>
-<li><a href="https://win-updates.techidaily.com/windows-11108itunes/"><u>Windows 11/10/8向けiTunesバックアップ再生成手順：削除されたファイルの取り戻し方法</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/690321-9781583944325-zen-body-being/"><u>Zen Body-Being | Free Book</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-halt-predicted-posts-no-more-suggests-on-insta-for-2024/"><u>[New] Halt Predicted Posts No More Suggests on Insta for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-odins-vengeance-the-ragnarok-trilogy/"><u>2024 Approved Odin's Vengeance The Ragnarok Trilogy</u></a></li>
+<li><a href="https://win-updates.techidaily.com/windows-11-0x8007007f/"><u>解決Windows 11 上0x8007007F更新故障：五則成功方法</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1728485913269-windows/"><u>如何在Windows电脑中从互联网驱动器恢复删除的文件指南</u></a></li>
+<li><a href="https://win-premium.techidaily.com/1728476540525-windows-881/"><u>効果的なシステムリカバリ方法：Windows 8及び8.1のガイド</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ace-your-charger-connection-discover-the-1-sale-priced-magsafe-compatible-wallet-not-from-apple-or-anker-zdnet-insight/"><u>Ace Your Charger Connection: Discover the #1 Sale-Priced MagSafe Compatible Wallet - Not From Apple or Anker | ZDNet Insight</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comment-restaurer-un-systeme-sous-windows-10-et-11-en-plusieurs-etapes-methodes-pour-les-utilisateurs-avances/"><u>Comment Restaurer Un Système Sous Windows 10 Et 11 en Plusieurs Étapes : Méthodes Pour Les Utilisateurs Avancés</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comprehensive-guide-to-easy2sync-for-file-management-features-and-how-to/"><u>Comprehensive Guide to Easy2Sync for File Management: Features & How-To</u></a></li>
+<li><a href="https://techtrends.techidaily.com/conversione-libera-ed-elettronica-di-video-mp4-a-formato-mpeg/"><u>Conversione Libera Ed Elettronica Di Video MP4 a Formato MPEG</u></a></li>
+<li><a href="https://win-updates.techidaily.com/integration-transparente-de-fichiers-sur-windows-server-methodes-a-privilegier-pour-une-optimisation-seo/"><u>Intégration Transparente De Fichiers Sur Windows Server - Méthodes À Privilégier Pour Une Optimisation SEO</u></a></li>
+<li><a href="https://win-updates.techidaily.com/optimales-verfahren-zum-schutz-ihrer-daten-mit-windows-11-vor-neukonfiguration/"><u>Optimales Verfahren Zum Schutz Ihrer Daten Mit Windows 11 Vor Neukonfiguration</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-bandicam-reference-unpacking-2023-features-for-2024/"><u>The Ultimate Bandicam Reference – Unpacking 2023 Features for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-8-free-driver-update-software-of-july-2024/"><u>Top 8 Free Driver Update Software of July 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/uninstalling-wsl-entirely-on-windows-11-systems/"><u>Uninstalling WSL Entirely on Windows 11 Systems</u></a></li>
 </ul></div>
 
